@@ -4,7 +4,7 @@
 // lista de orígenes autorizados en Google Cloud, no ocultar este valor.
 // ---------------------------------------------------------------
 
-const CLIENT_ID = "PEGA-ACA-TU-CLIENT-ID.apps.googleusercontent.com";
+const CLIENT_ID = "575020844712-akvtdbqa8ptptovfqkav9g7uh58j6c28.apps.googleusercontent.com";
 
 const SCOPES = [
   "https://www.googleapis.com/auth/calendar.readonly",
