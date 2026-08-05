@@ -8,6 +8,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>Parte del día</title>
 <link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Azeret+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -430,6 +432,7 @@ $("btn").addEventListener("click", ()=> load(true));
 window.addEventListener("load", ()=>{
   if(window.GoogleFeed) GoogleFeed.init();
   load(false);
+  if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
 });
 </script>
 </body>

@@ -54,23 +54,31 @@ Hecho:
 - `index.html` — frontend completo, con datos de ejemplo embebidos en `FALLBACK`
   que se usan si `data/brief.json` no existe todavía.
 - `google.js` — OAuth del lado del cliente para Calendar y Gmail, solo lectura.
-  Falta pegar el `CLIENT_ID` en la primera línea.
+  `CLIENT_ID` ya cargado.
 - Clima y arco solar ya funcionan en vivo contra Open-Meteo, sin API key.
 - Botón de refresco al pie: compara con lo que ya había y responde
   "Hay novedades" o "Sin novedades".
+- `scripts/build-brief.mjs` — lee feeds RSS (Mundo, Tecnología, Argentina,
+  Economía y los cuatro focos de deporte), puntúa por fuente + palabras clave,
+  arma `data/brief.json` con la forma que consume `index.html`. Agenda y correo
+  quedan vacíos ahí a propósito: eso lo llena Google en el navegador.
+- `.github/workflows/brief.yml` — cron a las **06:00, 13:00 y 19:00 hora
+  argentina** (09:00, 16:00 y 22:00 UTC) + `workflow_dispatch`, corre el script
+  y commitea el JSON si cambió.
+- `manifest.webmanifest` + `icons/` (192, 512, apple-touch-icon), para que
+  quede como app en el iPhone.
+- `sw.js` — service worker: cache-first para el shell, network-first con
+  fallback a caché para `data/brief.json`. Abre al instante y funciona sin
+  señal con el último parte.
+- Sección de deporte con datos reales (headlines de Olé/F1/Marca, no scores
+  en vivo — no hay API gratuita para eso). Deportes de invierno puede salir
+  vacío en ciclos sin novedad; es esperado.
 
 Falta:
 
-1. `scripts/build-brief.mjs` — lee los feeds RSS, puntúa por relevancia, arma
-   `data/brief.json` con la forma que ya consume `index.html` (ver el objeto
-   `FALLBACK`).
-2. `.github/workflows/brief.yml` — cron a las **06:00, 13:00 y 19:00 hora
-   argentina** (09:00, 16:00 y 22:00 UTC), corre el script y commitea el JSON.
-   Las tres corridas son para que el botón de refresco tenga sentido al mediodía.
-3. `manifest.webmanifest` + iconos, para que quede como app en el iPhone.
-4. `sw.js` — service worker que cachee el último parte, así abre al instante y
-   funciona sin señal.
-5. Sección de deporte con datos reales, hoy es de ejemplo.
+- Nada bloqueante para uso diario. Pendiente de validar en el teléfono real
+  (agregar a inicio desde Safari) y de que la primera corrida del cron en
+  GitHub Actions genere el `data/brief.json` real en producción.
 
 ## Notas técnicas
 

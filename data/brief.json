@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-08-05T19:49:42.198Z",
+  "agenda": [],
+  "mail": [],
+  "news": [
+    {
+      "sec": "Mundo",
+      "items": [
+        {
+          "title": "\"Pasé de diseñar ropa artesanal a hacer bolsas mortuorias\": los venezolanos que asisten a las víctimas del doble terremoto con sus propios recursos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cpvw14lvm79o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 9 h"
+        },
+        {
+          "title": "\"Los carteles no existen\": la provocadora idea que desafía la guerra contra el narco",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cpq8ex8v8xxo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 d"
+        },
+        {
+          "title": "13 personas mueren en Perú al estrellarse una avioneta turística cerca de las Líneas de Nazca",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c0ejznr1g9no?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 d"
+        }
+      ]
+    },
+    {
+      "sec": "Tecnología",
+      "items": [
+        {
+          "title": "La crisis de la memoria RAM está a punto de ponerse peor. Hay un culpable: los acuerdos a cinco años",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/componentes/crisis-memoria-ram-esta-a-punto-ponerse-peor-hay-culpable-acuerdos-a-cinco-anos",
+          "ago": "hace 9 h"
+        },
+        {
+          "title": "Shakil Barkat, vicepresidente en Google: \"Nunca se ha visto una subida de precios de la memoria como la que atravesamos ahora mismo\"",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/moviles/shakil-barkat-vicepresidente-google-nunca-se-ha-visto-subida-precios-memoria-como-que-atraviesa-mundo-ahora",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Una nación ofrece \"pasaportes dorados\" por 90.000 dólares, con acceso sin visado a más de 85 destinos. Su futuro depende de ello",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/nacion-insular-ofrece-pasaportes-dorados-90-000-dolares-acceso-visado-a-85-destinos",
+          "ago": "hace 6 h"
+        }
+      ]
+    },
+    {
+      "sec": "Argentina",
+      "items": [
+        {
+          "title": "Javier Milei y sus medidas, en vivo: escala el conflicto con Brasil y crece la tensión por la sesión de la ley de tierras",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-escala-el-conflicto-con-brasil-y-crece-la-tension-por-la-sesion-nid05082026/",
+          "ago": "hace 5 min"
+        },
+        {
+          "title": "“Un poco de inflación es gravísimo”: el BCRA rechazó las críticas de economistas y calculó el impacto para las familias",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/un-poco-de-inflacion-es-gravisimo-el-bcra-rechazo-las-criticas-de-economistas-y-calculo-el-impacto-nid05082026/",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+          "ago": "hace 2 h"
+        }
+      ]
+    },
+    {
+      "sec": "Economía",
+      "items": [
+        {
+          "title": "Martín Redrado habló de la reforma del BCRA y recordó su pelea con CFK: “Los dólares del Central son de la gente, no del presidente”",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/04/martin-redrado-hablo-de-la-reforma-del-bcra-y-recordo-su-pelea-con-cfk-los-dolares-del-central-son-de-la-gente-no-del-presidente/",
+          "ago": "hace 20 h"
+        },
+        {
+          "title": "Paro portuario: el Gobierno alcanzó un acuerdo para destrabar el conflicto y se reactivarán los servicios",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/04/paro-portuario-el-gobierno-alcanzo-un-acuerdo-para-destrabar-el-conflicto-que-genera-perdidas-millonarias/",
+          "ago": "hace 22 h"
+        },
+        {
+          "title": "El Gobierno aseguró que habrá sanciones por el paro de prácticos que paraliza a los puertos",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/04/el-gobierno-aseguro-que-habra-sanciones-por-el-paro-de-practicos-que-paraliza-a-los-puertos/",
+          "ago": "hace 1 d"
+        }
+      ]
+    }
+  ],
+  "sport": [
+    {
+      "team": "Boca Juniors",
+      "detail": "Por menos de lo que le hizo Paredes al árbitro Roldán, a un Puma, T…",
+      "value": "hace 1 h"
+    },
+    {
+      "team": "Selección Argentina",
+      "detail": "Lisandro Martínez se manifestó en contra de la reforma de la Ley de…",
+      "value": "hace 2 h"
+    },
+    {
+      "team": "Fórmula 1",
+      "detail": "QUIZ: Test your knowledge on the 2026 season so far",
+      "value": "hace 1 min"
+    }
+  ]
+}
