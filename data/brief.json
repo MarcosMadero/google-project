@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:50:05.584Z",
+  "generatedAt": "2026-08-06T11:14:27.423Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx2v5yzvee9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "\"Pasé de diseñar ropa artesanal a hacer bolsas mortuorias\": los venezolanos que asisten a las víctimas del doble terremoto con sus propios recursos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cpvw14lvm79o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 12 h"
+          "ago": "hace 1 d"
         },
         {
-          "title": "Por qué algunos millonarios piden que les suban los impuestos",
+          "title": "Las insólitas tensiones de EE.UU. y Argentina con el Brasil de Lula a dos meses de las elecciones presidenciales",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/czrjkyv5dd1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "url": "https://www.bbc.com/mundo/articles/cwyeww0yxy5o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 16 min"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La crisis de la memoria RAM está a punto de ponerse peor. Hay un culpable: los acuerdos a cinco años",
+          "title": "En Alicante encontraron una cabeza de mármol de Venus de 2.000 años. Acabó dentro de una bolsa de Mercadona y una enorme polémica",
           "source": "Xataka",
-          "url": "https://www.xataka.com/componentes/crisis-memoria-ram-esta-a-punto-ponerse-peor-hay-culpable-acuerdos-a-cinco-anos",
-          "ago": "hace 12 h"
+          "url": "https://www.xataka.com/magnet/alicante-encontraron-cabeza-marmol-venus-2-000-anos-acabo-dentro-bolsa-mercadona-enorme-polemica",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Un hombre devolvió su coche de alquiler creyendo que todo estaba en regla. Una IA descubrió un miniarañazo de 400 dólares",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/movilidad/hombre-devolvio-su-coche-alquiler-creyendo-que-todo-estaba-regla-ia-descubrio-miniaranazo-400-dolares",
+          "ago": "hace 4 h"
         },
         {
           "title": "Shakil Barkat, vicepresidente en Google: \"Nunca se ha visto una subida de precios de la memoria como la que atravesamos ahora mismo\"",
           "source": "Xataka",
           "url": "https://www.xataka.com/moviles/shakil-barkat-vicepresidente-google-nunca-se-ha-visto-subida-precios-memoria-como-que-atraviesa-mundo-ahora",
-          "ago": "hace 5 h"
-        },
-        {
-          "title": "Una nación ofrece \"pasaportes dorados\" por 90.000 dólares, con acceso sin visado a más de 85 destinos. Su futuro depende de ello",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/nacion-insular-ofrece-pasaportes-dorados-90-000-dolares-acceso-visado-a-85-destinos",
-          "ago": "hace 9 h"
+          "ago": "hace 18 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: escala el conflicto con Brasil y crece la tensión por la sesión de la ley de tierras",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-escala-el-conflicto-con-brasil-y-crece-la-tension-por-la-sesion-nid05082026/",
-          "ago": "hace 35 min"
-        },
-        {
           "title": "Murió la ley de alquileres: los contratos aumentan por debajo de la inflación",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-ley-de-alquileres-los-contratos-aumentan-por-debajo-de-la-inflacion-nid05082026/",
-          "ago": "hace 1 h"
+          "ago": "hace 2 h"
         },
         {
-          "title": "Mercado Libre: tras la presentación de resultados, la acción cae en la Bolsa de Nueva York",
+          "title": "Cuánto cobra el personal de la Policía Federal Argentina en agosto 2026 con la suma extra confirmada por el Gobierno",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/negocios/mercado-libre-tras-la-presentacion-de-resultados-la-accion-cae-en-la-bolsa-de-nueva-york-nid05082026/",
-          "ago": "hace 52 min"
+          "url": "https://www.lanacion.com.ar/economia/cuanto-cobra-el-personal-de-la-policia-federal-argentina-en-agosto-2026-con-la-suma-extra-confirmada-nid04082026/",
+          "ago": "hace 59 min"
+        },
+        {
+          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "El Gobierno cambió de estrategia para contener el dólar tras el salto de tasas que agitó al mercado",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/06/el-gobierno-cambio-de-estrategia-para-contener-el-dolar-tras-el-salto-de-tasas-que-agito-al-mercado/",
+          "ago": "hace 7 h"
+        },
+        {
           "title": "Martín Redrado habló de la reforma del BCRA y recordó su pelea con CFK: “Los dólares del Central son de la gente, no del presidente”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/04/martin-redrado-hablo-de-la-reforma-del-bcra-y-recordo-su-pelea-con-cfk-los-dolares-del-central-son-de-la-gente-no-del-presidente/",
-          "ago": "hace 23 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Paro portuario: el Gobierno alcanzó un acuerdo para destrabar el conflicto y se reactivarán los servicios",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/04/paro-portuario-el-gobierno-alcanzo-un-acuerdo-para-destrabar-el-conflicto-que-genera-perdidas-millonarias/",
-          "ago": "hace 1 d"
-        },
-        {
-          "title": "553.000 millones de dólares: la cifra del Gobierno para explicar por qué quiere reformar la Carta Orgánica del BCRA",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/05/553000-millones-de-dolares-la-cifra-del-gobierno-para-explicar-por-que-quiere-reformar-la-carta-organica-del-bcra/",
-          "ago": "hace 54 min"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La advertencia del único ecuatoriano que jugó en Boca para Enner Va…",
-      "value": "hace 57 min"
+      "detail": "Paredes, tras el 1-0 de Boca: \"Lo más importante es ganar y hacerlo…",
+      "value": "hace 10 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "La AFA eligió el Día de las Selecciones Nacionales",
-      "value": "hace 43 min"
+      "value": "hace 13 h"
     },
     {
       "team": "Fórmula 1",
