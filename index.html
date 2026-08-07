@@ -276,7 +276,6 @@ const FALLBACK = {
 };
 
 const $ = id => document.getElementById(id);
-const pad = n => String(n).padStart(2,"0");
 const hhmm = d => pad(d.getHours())+":"+pad(d.getMinutes());
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const head = (t,c)=>`<div class="sec-head"><h2>${t}</h2><span class="sec-count">${c}</span></div>`;
