@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:28:03.133Z",
+  "generatedAt": "2026-08-07T09:54:24.889Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,7 +10,7 @@
           "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx2v5yzvee9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "\"Pasé de diseñar ropa artesanal a hacer bolsas mortuorias\": los venezolanos que asisten a las víctimas del doble terremoto con sus propios recursos",
@@ -19,10 +19,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "El escándalo por acusaciones de plagio que llevó a la renuncia de un profesor estrella de la Universidad de Cambridge",
+          "title": "Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis migratoria en el enclave español de Ceuta",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn9n8pxgy1go?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "url": "https://www.bbc.com/mundo/articles/c23515gx482o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El príncipe de Arabia Saudí mandó construir un superyate de 500 millones de dólares con una sola indicación: se marea en el mar",
+          "title": "China va a resucitar la tecnología que se creía una leyenda: los ocho dragones que detectan los latidos de la tierra",
           "source": "Xataka",
-          "url": "https://www.xataka.com/transporte/principe-arabia-saudi-mando-construir-superyate-500-millones-dolares-sola-indicacion-se-marea-mar",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/magnet/china-va-a-resucitar-tecnologia-que-se-creia-leyenda-ocho-dragones-que-detectan-latidos-tierra",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Decathlon ha llevado su experiencia al diseño de un traje espacial europeo. Y de momento todo va viento en popa",
+          "title": "Soy fotógrafo y este es el equipo que no faltará en mi mochila el día del eclipse: filtros ND, trípode, teleobjetivo, disparador y más",
           "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/decathlon-ha-llevado-su-experiencia-al-diseno-traje-espacial-europeo-momento-todo-va-viento-popa",
-          "ago": "hace 4 h"
+          "url": "https://www.xataka.com/seleccion/soy-fotografo-este-equipo-que-no-faltara-mi-mochila-dia-eclipse-filtros-nd-tripode-teleobjetivo-disparador",
+          "ago": "hace 8 min"
         },
         {
-          "title": "En plena sequía y ola de calor, Rumanía ha tenido una singular idea para mantener funcionando una central nuclear: usar explosivos",
+          "title": "SpaceX se ha gastado 17.000 millones en ser operador móvil. Para entrar en España no le basta con pelearse con Movistar y Orange",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/plena-sequia-ola-calor-rumania-ha-tenido-singular-idea-para-mantener-funcionando-central-nuclear-usar-explosivos",
-          "ago": "hace 5 h"
+          "url": "https://www.xataka.com/servicios/spacex-se-ha-gastado-17-000-millones-ser-operador-movil-para-entrar-espana-no-le-basta-pelearse-movistar-orange",
+          "ago": "hace 24 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei firmó un acuerdo con Ecuador: bajas en impuestos para vehículos y autopartes",
+          "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/autos/javier-milei-firmo-un-acuerdo-con-ecuador-bajas-en-impuestos-para-vehiculos-y-autopartes-nid06082026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
+          "ago": "hace 37 min"
         },
         {
-          "title": "Murió la ley de alquileres: los contratos aumentan por debajo de la inflación",
+          "title": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-ley-de-alquileres-los-contratos-aumentan-por-debajo-de-la-inflacion-nid05082026/",
+          "url": "https://www.lanacion.com.ar/economia/dolar-a-us1500-bausili-justifico-la-intervencion-del-tesoro-en-el-mercado-cambiario-nid06082026/",
           "ago": "hace 3 h"
         },
         {
           "title": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
-          "ago": "hace 9 min"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El Gobierno cambió de estrategia para contener el dólar tras el salto de tasas que agitó al mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/06/el-gobierno-cambio-de-estrategia-para-contener-el-dolar-tras-el-salto-de-tasas-que-agito-al-mercado/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Martín Redrado habló de la reforma del BCRA y recordó su pelea con CFK: “Los dólares del Central son de la gente, no del presidente”",
@@ -91,7 +91,7 @@
           "title": "Paro portuario: el Gobierno alcanzó un acuerdo para destrabar el conflicto y se reactivarán los servicios",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/04/paro-portuario-el-gobierno-alcanzo-un-acuerdo-para-destrabar-el-conflicto-que-genera-perdidas-millonarias/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         }
       ]
     }
@@ -100,17 +100,22 @@
     {
       "team": "Boca Juniors",
       "detail": "Tras anunciar a Valencia, ¿cómo está la gestión de Boca por Chimy Á…",
-      "value": "hace 2 h"
+      "value": "hace 10 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Tapia: \"El plan A, el plan B y el plan C es Scaloni\"",
-      "value": "hace 3 h"
+      "detail": "Tapia: por qué trabaja para tener 64 equipos en el Mundial 2030",
+      "value": "hace 8 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "The stats showing how Antonelli has stepped up in 2026",
+      "detail": "From boyband to leading man – Button’s fashion evolution",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "Nunca intentes esquivar los badenes con el coche: los expertos lo d…",
+      "value": "hace 4 h"
     }
   ]
 }
