@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:54:24.889Z",
+  "generatedAt": "2026-08-07T16:57:36.452Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,10 +7,10 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
+          "title": "Por qué Bogotá dejará de ser la sede única del gobierno de Colombia con De la Espriella como presidente",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cx2v5yzvee9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "url": "https://www.bbc.com/mundo/articles/cd69xnwd4zvo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         },
         {
           "title": "\"Pasé de diseñar ropa artesanal a hacer bolsas mortuorias\": los venezolanos que asisten a las víctimas del doble terremoto con sus propios recursos",
@@ -19,10 +19,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis migratoria en el enclave español de Ceuta",
+          "title": "El pacto firmado por Arabia Saudita, Turquía y Pakistán en el que declaran que un ataque contra uno de ellos será un ataque \"contra los tres\"",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c23515gx482o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "url": "https://www.bbc.com/mundo/articles/cdewx30e7d4o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "China va a resucitar la tecnología que se creía una leyenda: los ocho dragones que detectan los latidos de la tierra",
+          "title": "Apple se ha encontrado con un problema: tiene 10.000 millones de dólares en chips atascados. La DRAM es la culpable, según Tim Culpan",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/china-va-a-resucitar-tecnologia-que-se-creia-leyenda-ocho-dragones-que-detectan-latidos-tierra",
-          "ago": "hace 2 h"
+          "url": "https://www.xataka.com/moviles/apple-se-ha-encontrado-problema-tiene-10-000-millones-dolares-chips-atascados-dram-culpable-tim-culpan",
+          "ago": "hace 42 min"
         },
         {
-          "title": "Soy fotógrafo y este es el equipo que no faltará en mi mochila el día del eclipse: filtros ND, trípode, teleobjetivo, disparador y más",
+          "title": "400 kilómetros, 15 metros de altura y 12.000 millones de dólares: el \"gran muro\" que Japón ha levantado frente a los tsunamis",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/soy-fotografo-este-equipo-que-no-faltara-mi-mochila-dia-eclipse-filtros-nd-tripode-teleobjetivo-disparador",
-          "ago": "hace 8 min"
+          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/400-kilometros-15-metros-altura-12-000-millones-dolares-asi-gran-muro-que-japon-ha-levantado-para-hacer-frente-a-tsunamis",
+          "ago": "hace 4 h"
         },
         {
-          "title": "SpaceX se ha gastado 17.000 millones en ser operador móvil. Para entrar en España no le basta con pelearse con Movistar y Orange",
+          "title": "El formato físico está muriendo. Por eso hay gente pagando 2 millones de dólares por tres cartuchos de Pokémon",
           "source": "Xataka",
-          "url": "https://www.xataka.com/servicios/spacex-se-ha-gastado-17-000-millones-ser-operador-movil-para-entrar-espana-no-le-basta-pelearse-movistar-orange",
-          "ago": "hace 24 min"
+          "url": "https://www.xataka.com/videojuegos/hay-claro-beneficiado-muerte-formato-fisico-coleccionistas-que-pagan-2-millones-tres-cartuchos-pokemon",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Murió la ley de alquileres: los contratos aumentan por debajo de la inflación",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-ley-de-alquileres-los-contratos-aumentan-por-debajo-de-la-inflacion-nid05082026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
-          "ago": "hace 37 min"
+          "ago": "hace 14 min"
         },
         {
-          "title": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
+          "title": "El gobierno nacional presentó una denuncia por “atentado al orden constitucional y a la vida democrática”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar-a-us1500-bausili-justifico-la-intervencion-del-tesoro-en-el-mercado-cambiario-nid06082026/",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
-          "ago": "hace 5 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-nacional-presento-una-denuncia-por-atentado-al-orden-constitucional-y-a-la-vida-nid07082026/",
+          "ago": "hace 22 min"
         }
       ]
     },
@@ -79,13 +79,13 @@
           "title": "El Gobierno cambió de estrategia para contener el dólar tras el salto de tasas que agitó al mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/06/el-gobierno-cambio-de-estrategia-para-contener-el-dolar-tras-el-salto-de-tasas-que-agito-al-mercado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "Martín Redrado habló de la reforma del BCRA y recordó su pelea con CFK: “Los dólares del Central son de la gente, no del presidente”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/04/martin-redrado-hablo-de-la-reforma-del-bcra-y-recordo-su-pelea-con-cfk-los-dolares-del-central-son-de-la-gente-no-del-presidente/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
           "title": "Paro portuario: el Gobierno alcanzó un acuerdo para destrabar el conflicto y se reactivarán los servicios",
@@ -99,23 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Tras anunciar a Valencia, ¿cómo está la gestión de Boca por Chimy Á…",
-      "value": "hace 10 h"
+      "detail": "La lista de convocados de Boca para recibir a Vélez con varias ause…",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Tapia: por qué trabaja para tener 64 equipos en el Mundial 2030",
-      "value": "hace 8 h"
+      "detail": "Reencuentro de Selección: cuándo se vuelve a juntar la Scaloneta y …",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "From boyband to leading man – Button’s fashion evolution",
+      "detail": "HINCHCLIFFE: My top five drivers of the 2026 season so far",
       "value": "hace 1 min"
     },
     {
       "team": "Deportes de invierno",
       "detail": "Nunca intentes esquivar los badenes con el coche: los expertos lo d…",
-      "value": "hace 4 h"
+      "value": "hace 11 h"
     }
   ]
 }
