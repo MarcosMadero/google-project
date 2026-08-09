@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T16:40:20.289Z",
+  "generatedAt": "2026-08-09T22:20:38.233Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -33,19 +33,19 @@
           "title": "Tras 27 años en el \"taller\", el barco de guerra más grande y armado del planeta está listo: solo falta saber qué planes tiene Rusia",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/27-anos-taller-buque-guerra-grande-armado-planeta-esta-listo-solo-falta-saber-que-va-a-hacer-rusia",
+          "ago": "hace 9 h"
+        },
+        {
+          "title": "Cuando creímos que Vulcano podía existir fuera de 'Star Trek': la NASA tenía una historia mucho mejor que contar",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/espacio/cuando-creimos-que-vulcano-podia-existir-fuera-star-trek-nasa-tenia-historia-mucho-mejor-que-contar",
           "ago": "hace 3 h"
         },
         {
-          "title": "México se ha convertido en la gran fábrica para la IA. Solo China le supera",
+          "title": "En 1979, un hombre decidió plantar árboles cada día para frenar la erosión. Hoy tiene un bosque gigantesco",
           "source": "Xataka",
-          "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
-          "ago": "hace 9 min"
-        },
-        {
-          "title": "Hace 1.200 alguien decidió proteger a dos bebés gemelos escondiéndolos en un sitio inverosímil: unas letrinas al lado del Templo de Artemisa",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/hace-1-200-alguien-decidio-proteger-a-dos-bebes-gemelos-escondiendolos-sitio-inverosimil-unas-letrinas-al-lado-templo-artemisa",
-          "ago": "hace 39 min"
+          "url": "https://www.xataka.com/magnet/1979-hombre-decidio-plantar-arboles-cada-dia-para-frenar-erosion-hoy-tiene-bosque-4-veces-grande-que-retiro",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Cuánto cobra el personal de la Policía Federal Argentina en agosto 2026 con la suma extra confirmada por el Gobierno",
+          "title": "Rosca dentro y fuera del Congreso: cómo operó el peronismo para voltear la ley de tierras del Gobierno y preservar la del manejo del fuego",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/cuanto-cobra-el-personal-de-la-policia-federal-argentina-en-agosto-2026-con-la-suma-extra-confirmada-nid04082026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/politica/rosca-dentro-y-fuera-del-congreso-como-opero-el-peronismo-para-voltear-la-ley-de-tierras-del-nid09082026/",
+          "ago": "hace 49 min"
         },
         {
-          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "title": "Piden explicaciones al Gobierno por la represión de “agentes armados sin uniforme” en la última marcha en el Congreso",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/politica/piden-explicaciones-al-gobierno-por-la-represion-de-agentes-armados-sin-uniforme-en-la-ultima-marcha-nid09082026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+          "title": "Miles de personas marcharon en Ceuta contra la crisis migratoria y reclamaron la renuncia de Pedro Sánchez",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/miles-de-personas-marcharon-en-ceuta-contra-la-crisis-migratoria-y-reclamaron-la-renuncia-de-pedro-nid09082026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "title": "A cuánto llegarán el dólar y la inflación a fin de año, según los principales analistas del mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/07/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-ano-segun-los-principales-analistas-del-mercado/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
           "title": "Tras tocar un máximo en la era Milei, las reservas del BCRA perforaron los USD 49.000 millones por un pago al FMI",
@@ -99,18 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Qué número de camiseta usará Enner Valencia en Boca",
-      "value": "hace 35 min"
+      "detail": "¿Por qué Enner Valencia no debutará en Boca este martes ante Recoleta?",
+      "value": "hace 33 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "El conmovedor recuerdo de Carles Rexach sobre Jorge Messi y el orig…",
-      "value": "hace 1 d"
+      "detail": "Cuti Romero fue reconocido como Cordobés Destacado",
+      "value": "hace 4 h"
     },
     {
       "team": "Fórmula 1",
       "detail": "Why Audi's driver programme is about more than their next F1 star",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "Descenso del Sella: la fiesta que no cabe en una frase",
+      "value": "hace 6 h"
     }
   ]
 }
