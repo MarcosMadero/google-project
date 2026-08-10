@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T10:11:21.362Z",
+  "generatedAt": "2026-08-10T16:57:25.365Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,10 +7,10 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Muere Jorge Messi: la historia de la servilleta donde el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
+          "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Por qué Bogotá dejará de ser la sede única del gobierno de Colombia con De la Espriella como presidente",
@@ -19,10 +19,10 @@
           "ago": "hace 3 d"
         },
         {
-          "title": "Muere a los 68 años Jorge Messi, padre y figura clave en la carrera de Lionel Messi",
+          "title": "Más de 70 muertos tras el terremoto de magnitud 7,4 que sacudió Colombia",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y3dygxj7lo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 min"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Lobos que se tragan al sol, procesiones urgentes y un rey portugués muerto: las leyendas de España sobre los eclipses",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/lobos-que-se-tragan-al-sol-procesiones-urgentes-rey-portugues-muerto-leyendas-espana-eclipses",
+          "ago": "hace 3 h"
+        },
+        {
+          "title": "El Gobierno ya está retirando gafas para eclipses por riesgos para la vista: cómo comprobar si las tuyas están en la lista",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/espacio/no-todas-gafas-para-eclipse-seguras-eso-espana-retira-varios-modelos-fallo-que-puede-danarte-vista-como-comprobar-tienes",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Dubái no consigue librarse del fantasma de la guerra de Irán, así que ha tenido una idea: regalar 700 € a quienes capten turistas",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/dubai-no-consigue-librarse-fantasma-guerra-iran-asi-que-ha-tenido-idea-regalar-700-eur-a-quienes-capten-turistas",
-          "ago": "hace 10 min"
-        },
-        {
-          "title": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
-          "ago": "hace 18 h"
-        },
-        {
-          "title": "Tras 27 años en el \"taller\", el barco de guerra más grande y armado del planeta está listo: solo falta saber qué planes tiene Rusia",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/27-anos-taller-buque-guerra-grande-armado-planeta-esta-listo-solo-falta-saber-que-va-a-hacer-rusia",
-          "ago": "hace 21 h"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
-          "ago": "hace 38 min"
+          "ago": "hace 17 min"
         },
         {
-          "title": "Rosca dentro y fuera del Congreso: cómo operó el peronismo para voltear la ley de tierras del Gobierno y preservar la del manejo del fuego",
+          "title": "El Gobierno defiende la intervención de un policía de civil en la manifestación frente al Congreso",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/rosca-dentro-y-fuera-del-congreso-como-opero-el-peronismo-para-voltear-la-ley-de-tierras-del-nid09082026/",
-          "ago": "hace 10 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-intervencion-de-un-policia-de-civil-en-la-manifestacion-frente-al-congreso-nid10082026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Piden explicaciones al Gobierno por la represión de “agentes armados sin uniforme” en la última marcha en el Congreso",
+          "title": "Negocios, tasas y ventas: qué pasa con el mercado de maquinaria agrícola, según dos expertos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/piden-explicaciones-al-gobierno-por-la-represion-de-agentes-armados-sin-uniforme-en-la-ultima-marcha-nid09082026/",
-          "ago": "hace 11 h"
+          "url": "https://www.lanacion.com.ar/economia/campo/negocios-tasas-y-ventas-que-pasa-con-el-mercado-de-maquinaria-agricola-segun-dos-expertos-nid10082026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "title": "Los desafíos de Caputo: el dato de inflación de julio y los dólares que debe conseguir el Tesoro",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/10/los-desafios-de-caputo-se-conocera-el-dato-de-inflacion-de-julio-y-el-tesoro-buscara-conseguir-mas-dolares/",
-          "ago": "hace 7 min"
+          "ago": "hace 7 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los cambios en los convocados contra Recoleta que marcan la exigenc…",
-      "value": "hace 11 h"
+      "detail": "El llamado de peso a Almada cuando estaba cerrando con River",
+      "value": "hace 12 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Cuti Romero fue reconocido como Cordobés Destacado",
-      "value": "hace 16 h"
+      "detail": "Los 10 jugadores con más partidos en la historia de la Selección Ar…",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Audi's driver programme is about more than their next F1 star",
+      "detail": "Ask Lawrence Barretto a question in our exclusive reader Q&A",
       "value": "hace 1 min"
     }
   ]
