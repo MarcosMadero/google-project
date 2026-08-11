@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:27:48.332Z",
+  "generatedAt": "2026-08-11T09:54:25.177Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,16 +10,16 @@
           "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "Por qué Bogotá dejará de ser la sede única del gobierno de Colombia con De la Espriella como presidente",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cd69xnwd4zvo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         },
         {
-          "title": "Al menos 111 muertos y más de 500 heridos tras el terremoto de magnitud 7,4 que sacudió Colombia",
+          "title": "Colombia intensifica las tareas de rescate tras el potente terremoto que deja al menos 132 muertos y más de 700 heridos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
@@ -33,19 +33,19 @@
           "title": "ASML construyó uno de los monopolios más valiosos del mundo. China le ha recordado que nada dura para siempre",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre",
-          "ago": "hace 32 min"
+          "ago": "hace 12 h"
         },
         {
           "title": "El océano acaba de batir su récord histórico absoluto de temperatura: 20,96 °C que nos asoman a un territorio desconocido",
           "source": "Xataka",
           "url": "https://www.xataka.com/ecologia-y-naturaleza/oceano-acaba-batir-su-record-historico-absoluto-temperatura-20-96-c-que-nos-asoman-a-territorio-desconocido",
-          "ago": "hace 4 h"
+          "ago": "hace 15 h"
         },
         {
-          "title": "El Gobierno ya está retirando gafas para eclipses por riesgos para la vista: cómo comprobar si las tuyas están en la lista",
+          "title": "Cuatro Big Tech gastarán 760.000 millones de dólares este año en IA: tres veces lo que la misión Apolo que nos llevó a la Luna",
           "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/no-todas-gafas-para-eclipse-seguras-eso-espana-retira-varios-modelos-fallo-que-puede-danarte-vista-como-comprobar-tienes",
-          "ago": "hace 10 h"
+          "url": "https://www.xataka.com/empresas-y-economia/gasto-ia-se-ha-salido-escala-nivel-este-ano-tres-empresas-gastaran-equivalente-a-tres-misiones-apolo-a-luna",
+          "ago": "hace 19 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
+          "title": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
+          "ago": "hace 14 min"
+        },
+        {
+          "title": "Karina Milei se reunió con la tropa propia de la provincia de Buenos Aires y proyecta acuerdos para 2027",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/karina-milei-ratifico-el-armado-propio-con-legisladores-bonaerenses-pero-lla-analiza-acuerdos-nid10082026/",
+          "ago": "hace 10 h"
         },
         {
           "title": "El Gobierno se puso a disposición de las autoridades colombianas tras el terremoto y expresó su solidaridad",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/el-gobierno-se-puso-a-disposicion-de-las-autoridades-colombianas-tras-el-terremoto-y-expreso-su-nid10082026/",
-          "ago": "hace 9 min"
-        },
-        {
-          "title": "Juicio al Pity Álvarez: del saludo al fiscal a no recordar su DNI, quedarse dormido y un frustrado pedido para anular la audiencia",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/seguridad/el-juicio-al-pity-alvarez-del-saludo-al-fiscal-a-no-recordar-su-dni-quedarse-dormido-y-un-frustrado-nid10082026/",
-          "ago": "hace 50 min"
+          "ago": "hace 11 h"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "Créditos en dólares: qué dijo el presidente del BCRA sobre la flexibilización de los préstamos en moneda extranjera",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/11/creditos-en-dolares-que-dijo-el-presidente-del-bcra-sobre-la-flexibilizacion-de-los-prestamos-en-moneda-extranjera/",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "A cuánto llegarán el dólar y la inflación a fin de año, según los principales analistas del mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/07/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-ano-segun-los-principales-analistas-del-mercado/",
           "ago": "hace 4 d"
         },
         {
-          "title": "Tras tocar un máximo en la era Milei, las reservas del BCRA perforaron los USD 49.000 millones por un pago al FMI",
+          "title": "¿Más inflación?: la persistencia del conflicto en Medio Oriente podría complicar el panorama para la Argentina",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/06/tras-tocar-un-maximo-en-la-era-milei-las-reservas-del-bcra-perforaron-los-usd-49000-millones-por-un-pago-al-fmi/",
-          "ago": "hace 4 d"
-        },
-        {
-          "title": "Mirgor desvinculó a 300 empleados por paros gremiales y el gobierno de Tierra del Fuego dispuso la conciliación obligatoria",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/10/mirgor-desvinculo-a-300-empleados-por-paros-gremiales-y-el-gobierno-de-tierra-del-fuego-dispuso-la-conciliacion-obligatoria/",
-          "ago": "hace 7 min"
+          "url": "https://www.infobae.com/economia/2026/08/11/mas-inflacion-la-persistencia-del-conflicto-en-medio-oriente-podria-complicar-el-panorama-para-la-argentina/",
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,18 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca vs. Recoleta, por la Copa Sudamericana: horario, cómo ver y pr…",
-      "value": "hace 59 min"
+      "detail": "Boca deja atrás la urgencia y va por otro paso: Recoleta, la prueba…",
+      "value": "hace 8 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Los 10 jugadores con más partidos en la historia de la Selección Ar…",
-      "value": "hace 8 h"
+      "value": "hace 20 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Ask Lawrence Barretto a question in our exclusive reader Q&A",
+      "detail": "Inside the F1 driver’s bubble: The driver manager",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "Mercado histórico del Mallorca: rey del siglo en ventas post descenso",
+      "value": "hace 17 h"
     }
   ]
 }
