@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:32:50.913Z",
+  "generatedAt": "2026-08-12T09:55:50.105Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,10 +10,10 @@
           "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
-          "title": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
+          "title": "Buscan sobrevivientes a contrarreloj en Colombia tras el devastador terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
@@ -22,7 +22,7 @@
           "title": "Cómo se mide la duración de un terremoto y cuánto tiempo realmente tembló en Colombia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cn5n3pqpnkzo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 h"
+          "ago": "hace 12 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Europa lleva más de 30 años construyendo un mercado sin fronteras. Su nueva ley de envases pone un peaje enorme a los pequeños negocios",
+          "title": "Estamos a seis décimas de grado del verano más cálido jamás registrado en España y agosto parece decidido a batir el récord",
           "source": "Xataka",
-          "url": "https://www.xataka.com/legislacion-y-derechos/europa-lleva-30-anos-construyendo-mercado-fronteras-su-nueva-ley-envases-pone-peaje-enorme-a-pequenos-negocios",
-          "ago": "hace 10 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/estamos-a-seis-decimas-grado-verano-calido-jamas-registrado-espana-agosto-parece-decidido-a-batir-record",
+          "ago": "hace 25 min"
+        },
+        {
+          "title": "Waymo tiene a miles de coches autónomos circulando por Estados Unidos. Y también miles de dólares en multas de aparcamiento",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/movilidad/waymo-dice-que-sus-coches-autonomos-seguros-que-conductores-humanos-que-aparquen-bien-otra-historia",
+          "ago": "hace 4 h"
         },
         {
           "title": "Francia piensa que es un sinsentido que los conductores noveles conduzcan coches muy potentes. Así que ha cambiado la ley para prohibírselo",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/multas-15-000-euros-carcel-asi-castiga-francia-a-conductores-noveles-que-se-suban-a-coche-demasiado-potente",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "Hay una guerra silenciosa por dormir con la ventana abierta o cerrada en verano. Y la ciencia tiene un ganador",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/medicina-y-salud/dormir-ventana-abierta-cerrada-ciencia-sabe-que-mejor-no-sencillo-como-parece",
-          "ago": "hace 9 h"
+          "ago": "hace 15 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
+          "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
+          "ago": "hace 18 min"
+        },
+        {
+          "title": "Los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
-          "ago": "hace 13 min"
+          "ago": "hace 8 h"
         },
         {
-          "title": "A los 83 años, murió el estadounidense John Crowley, “inclasificable” escritor de literatura fantástica",
+          "title": "Prueba para el Gobierno: los jueces Yadarola y Bertuzzi defienden en el Senado sus nominaciones para un tribunal penal estratégico",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/cultura/a-los-83-anos-murio-el-estadounidense-john-crowley-inclasificable-escritor-de-literatura-fantastica-nid11082026/",
-          "ago": "hace 57 min"
-        },
-        {
-          "title": "Tras el revés en el Senado, el Gobierno sumó a Sturzenegger a la mesa política y dosifica los tiempos políticos de sus iniciativas",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/tras-el-reves-en-el-senado-el-gobierno-sumo-a-sturzenegger-a-la-mesa-politica-y-dosifica-los-tiempos-nid11082026/",
-          "ago": "hace 11 min"
+          "url": "https://www.lanacion.com.ar/politica/prueba-para-el-gobierno-los-jueces-yadarola-y-bertuzzi-defienden-en-el-senado-sus-nominaciones-para-nid12082026/",
+          "ago": "hace 56 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Defender un dólar a $1.500 o priorizar tasas bajas que impulsen la actividad: la pulseada de Economía que mira de cerca el mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/11/defender-un-dolar-a-1500-o-priorizar-tasas-bajas-que-impulsen-la-actividad-la-pulseada-de-economia-que-mira-de-cerca-el-mercado/",
-          "ago": "hace 8 h"
+          "ago": "hace 19 h"
         },
         {
           "title": "Créditos en dólares: qué dijo el presidente del BCRA sobre la flexibilización de los préstamos en moneda extranjera",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/11/creditos-en-dolares-que-dijo-el-presidente-del-bcra-sobre-la-flexibilizacion-de-los-prestamos-en-moneda-extranjera/",
-          "ago": "hace 17 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Mercados: la Bolsa argentina cayó 3% y subió el riesgo país",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
-          "ago": "hace 2 h"
+          "ago": "hace 14 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca vs. Recoleta, EN VIVO por la Copa Sudamericana: duro golpe par…",
-      "value": "hace 33 min"
+      "detail": "Posible rival de Boca en cuartos: San Pablo empató con Bolívar",
+      "value": "hace 9 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Los 10 jugadores con más partidos en la historia de la Selección Ar…",
-      "value": "hace 1 d"
+      "detail": "Tini Stoessel confirmó que se casa con De Paul",
+      "value": "hace 8 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Damon Hill's 1996 title-winning season remembered",
+      "detail": "10 quiz questions on F1 at the Sepang International Circuit",
       "value": "hace 1 min"
     }
   ]
