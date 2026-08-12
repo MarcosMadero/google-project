@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:00:39.130Z",
+  "generatedAt": "2026-08-12T22:31:07.426Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,13 +7,7 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 d"
-        },
-        {
-          "title": "Buscan a contrarreloj a los desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
+          "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
@@ -22,7 +16,13 @@
           "title": "¿Por qué es imposible predecir el momento preciso de un terremoto?",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c62edvvy7d9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
+        },
+        {
+          "title": "\"Cuando estábamos perdiendo las esperanzas, recibimos una llamada\": el rescate de Daniela Largo, la joven atrapada por 36 horas en Pereira tras el terremoto",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ce8lp296rw5o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Disney vive una crisis de franquicias. Su solución es redoblar la apuesta juntando a Star Wars y Marvel",
           "source": "Xataka",
           "url": "https://www.xataka.com/literatura-comics-y-juegos/disney-no-va-a-subestimar-suma-potencial-dos-franquicias-millonarias-star-wars-marvel-tienen-su-primer-crossover",
+          "ago": "hace 9 h"
+        },
+        {
+          "title": "El 911 está diseñado para funcionar cuando todo lo demás cae. Un malware acaba de poner esa promesa a prueba en California",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california",
+          "ago": "hace 3 h"
+        },
+        {
+          "title": "Sabíamos que la Vía Láctea estaba doblada como un vinilo al calor: 30.000 nubes han mostrado que además está arrugada",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/espacio/sabiamos-que-via-lactea-estaba-doblada-como-vinilo-al-calor-30-000-nubes-han-mostrado-que-esta-arrugada",
           "ago": "hace 4 h"
-        },
-        {
-          "title": "El camión diésel tiene los días contados en China: el gobierno quiere que el 40% sean eléctricos en 2030",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/camion-diesel-tiene-dias-contados-china-gobierno-quiere-que-40-sean-electricos-2030",
-          "ago": "hace 7 h"
-        },
-        {
-          "title": "Estamos a seis décimas de grado del verano más cálido jamás registrado en España y agosto parece decidido a batir el récord",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/estamos-a-seis-decimas-grado-verano-calido-jamas-registrado-espana-agosto-parece-decidido-a-batir-record",
-          "ago": "hace 7 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
-          "ago": "hace 20 min"
+          "ago": "hace 21 min"
         },
         {
-          "title": "Crédito hipotecario para comprar en pozo: financiarán departamentos a 20 años con una de las tasas más bajas del mercado",
+          "title": "Escala el conflicto: los rectores y el Gobierno, citados a una audiencia clave por el financiamiento universitario",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/credito-hipotecario-para-comprar-en-pozo-financiaran-departamentos-a-20-anos-con-una-de-las-tasas-nid12082026/",
-          "ago": "hace 27 min"
+          "url": "https://www.lanacion.com.ar/sociedad/escala-el-conflicto-los-rectores-y-el-gobierno-citados-a-una-audiencia-clave-por-el-financiamiento-nid12082026/",
+          "ago": "hace 16 min"
         },
         {
-          "title": "La Corte Suprema lo decidió: el fallo que limita a las ciudades de California ante las devoluciones de impuestos",
+          "title": "El Gobierno dice que comprará al menos otros US$10.000 millones de reservas antes de las elecciones de 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/california/la-corte-suprema-lo-decidio-el-fallo-que-limita-a-las-ciudades-de-california-ante-las-devoluciones-nid11082026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/el-gobierno-dice-que-comprara-al-menos-otros-us10000-millones-de-reservas-antes-de-las-elecciones-de-nid12082026/",
+          "ago": "hace 16 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El impuesto a los combustibles duplicó su peso dentro del precio de la nafta durante el gobierno de Milei",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/12/el-impuesto-a-los-combustibles-duplico-su-peso-dentro-del-precio-de-la-nafta-durante-el-gobierno-de-milei/",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
         },
         {
           "title": "Defender un dólar a $1.500 o priorizar tasas bajas que impulsen la actividad: la pulseada de Economía que mira de cerca el mercado",
@@ -91,7 +91,7 @@
           "title": "Créditos en dólares: qué dijo el presidente del BCRA sobre la flexibilización de los préstamos en moneda extranjera",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/11/creditos-en-dolares-que-dijo-el-presidente-del-bcra-sobre-la-flexibilizacion-de-los-prestamos-en-moneda-extranjera/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Qué dijo Arruabarrena del debut de Valencia y la lesión de Bareiro,…",
-      "value": "hace 1 h"
+      "detail": "La historia desconocida de Leonel Flores, el pibe que es la nueva f…",
+      "value": "hace 43 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Tini Stoessel confirmó que se casa con De Paul",
-      "value": "hace 15 h"
+      "value": "hace 20 h"
     },
     {
       "team": "Fórmula 1",
