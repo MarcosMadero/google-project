@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:57:05.369Z",
+  "generatedAt": "2026-08-13T16:59:59.917Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 1 min"
         },
         {
+          "title": "\"Es absolutamente inaceptable\": por qué la visita de Putin a una isla en el Pacífico causó la indignación del gobierno de Japón",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4gj41jl0npo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "\"Al sentir el terremoto volví a la escuela por mi hija y una niña de 10 años acabó muriendo en mis brazos\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c1l12ed1336o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
-        },
-        {
-          "title": "¿Por qué es imposible predecir el momento preciso de un terremoto?",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c62edvvy7d9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 20 h"
+          "ago": "hace 18 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "\"Creo que es el mejor actor del mundo\": Quentin Tarantino tiene muy claro quién es su particular leyenda del cine",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/cine-y-tv/creo-que-mejor-actor-mundo-quentin-tarantino-tiene-muy-claro-quien-su-particular-leyenda-cine",
+          "ago": "hace 5 h"
+        },
+        {
+          "title": "Pese a los torpedos de EEUU, China ya está lista para jugar en el mercado global de la RAM. Y CXMT es su punta de lanza",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/componentes/pese-a-torpedos-eeuu-china-esta-lista-para-jugar-mercado-global-ram-cxmt-su-punta-lanza",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "En Asturias un restaurante cobra un euro por cada táper para llevar. El problema es que la ley le da la razón",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/asturias-restaurante-cobra-euro-cada-taper-para-llevar-problema-que-ley-le-da-razon",
-          "ago": "hace 26 min"
-        },
-        {
-          "title": "Eclipse total de Sol de agosto de 2027 en España: el mapa de los municipios donde se podrá ver",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/basics/eclipse-total-agosto-2027-espana-mapa-municipios-donde-se-podra-ver",
-          "ago": "hace 42 min"
-        },
-        {
-          "title": "Héctor Núñez, farmacéutico: \"En verano debería ser obligatorio, además del fotoprotector, usar antioxidantes\"",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/medicina-y-salud/hector-nunez-farmaceutico-verano-deberia-ser-obligatorio-fotoprotector-usar-antioxidantes",
-          "ago": "hace 56 min"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
-          "ago": "hace 12 min"
+          "ago": "hace 14 min"
         },
         {
-          "title": "Elecciones en Florida 2026: el plan de Jay Collins, si gana el lugar de DeSantis, para eliminar la crisis de asequibilidad",
+          "title": "Tras la furia de Martín Menem, Boggiano se retractó de su ataque a los aliados que hizo temblar el dictamen del BCRA",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/florida/elecciones-en-florida-2026-el-plan-de-jay-collins-si-gana-el-lugar-de-desantis-para-eliminar-la-nid12082026/",
-          "ago": "hace 8 h"
+          "url": "https://www.lanacion.com.ar/politica/tras-la-furia-en-el-oficialismo-boggiano-dio-marcha-atras-con-su-ataque-a-los-aliados-que-hizo-nid13082026/",
+          "ago": "hace 29 min"
         },
         {
-          "title": "Dylan, albañil argentino que trabaja en Australia: “Después de 8 horas de trabajo, nos vamos a casa con 320 dólares”",
+          "title": "Federico González Rouco, economista: “El Gobierno definió en qué se invertirá el FAL y no incluyó al crédito hipotecario, pero tampoco lo prohíbe”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/lifestyle/dylan-albanil-argentino-que-trabaja-en-australia-despues-de-8-horas-de-trabajo-nos-vamos-a-casa-con-nid13082026/",
-          "ago": "hace 34 min"
+          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/federico-gonzalez-rouco-economista-el-gobierno-definio-en-que-se-invertira-el-fal-y-no-incluyo-al-nid13082026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El impuesto a los combustibles duplicó su peso dentro del precio de la nafta durante el gobierno de Milei",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/12/el-impuesto-a-los-combustibles-duplico-su-peso-dentro-del-precio-de-la-nafta-durante-el-gobierno-de-milei/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Defender un dólar a $1.500 o priorizar tasas bajas que impulsen la actividad: la pulseada de Economía que mira de cerca el mercado",
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La llave de la Copa Argentina: Atlético Tucumán, el primero en cuar…",
-      "value": "hace 10 h"
+      "detail": "El mensaje de uno de los expulsados de Recoleta para sus compañeros…",
+      "value": "hace 36 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Tini Stoessel confirmó que se casa con De Paul",
-      "value": "hace 1 d"
+      "detail": "Las camisetas más recordadas de la Selección Argentina",
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Inside the F1 driver’s bubble: The performance coach",
+      "detail": "Why switching off is one of the most vital skills for F1 drivers",
       "value": "hace 1 min"
     }
   ]
