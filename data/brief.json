@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:32:14.620Z",
+  "generatedAt": "2026-08-14T09:53:57.371Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
+          "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
         },
         {
+          "title": "Las preocupantes condiciones a bordo del portaaviones de EE.UU. que lleva más de 250 días en el mar por la guerra de Irán",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cdrv4j4v02do?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 10 h"
+        },
+        {
           "title": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 31 min"
-        },
-        {
-          "title": "\"Al sentir el terremoto volví a la escuela por mi hija y una niña de 10 años acabó muriendo en mis brazos\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c1l12ed1336o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 12 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "El Gobierno iba a cerrar la central nuclear de Almaraz en 2027. La guerra en Oriente Próximo acaba de cambiar los planes",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/energia/gobierno-iba-a-cerrar-central-nuclear-almaraz-2027-guerra-oriente-proximo-acaba-cambiar-planes",
+          "ago": "hace 29 min"
+        },
+        {
           "title": "Alemania tenía a China como su mayor mercado de coches. Ahora, BMW, Audi, Mercedes y Volkswagen se hunden a un ritmo preocupante",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/alemania-tenia-a-china-como-su-mayor-mercado-coches-ahora-bmw-audi-mercedes-volkswagen-se-hunden-a-ritmo-preocupante",
-          "ago": "hace 4 h"
+          "ago": "hace 15 h"
         },
         {
-          "title": "La marina británica estrenó nuevos barcos dron. Una revisión encontró una sorpresa: componentes fabricados en China",
+          "title": "Parecía la dirección de correo más inútil de Internet. Hasta que alguien compró \"noreply.net\" y empezó a recibir secretos",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/marina-britanica-estreno-nuevos-barcos-dron-revision-encontro-sorpresa-componentes-fabricados-china",
-          "ago": "hace 41 min"
-        },
-        {
-          "title": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
-          "ago": "hace 2 h"
+          "url": "https://www.xataka.com/seguridad/parecia-direccion-correo-inutil-internet-que-alguien-compro-noreply-net-empezo-a-recibir-secretos",
+          "ago": "hace 23 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Créditos en dólares para empresas: cómo impactaría en el mercado inmobiliario",
+          "title": "Javier Milei y sus medidas, en vivo: las repercusiones de la inflación de julio y el armado electoral de cara al 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/inversiones/creditos-en-dolares-para-empresas-como-impactaria-en-el-mercado-inmobiliario-nid13082026/",
-          "ago": "hace 1 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
+          "ago": "hace 5 min"
         },
         {
-          "title": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
+          "title": "Las elecciones de 2027: obsesión de la política y los mercados",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
-          "ago": "hace 47 min"
+          "url": "https://www.lanacion.com.ar/opinion/las-elecciones-de-2027-obsesion-de-la-politica-y-los-mercados-nid14082026/",
+          "ago": "hace 7 h"
         },
         {
-          "title": "Federico González Rouco, economista: “El Gobierno definió en qué se invertirá el FAL y no incluyó al crédito hipotecario, pero tampoco lo prohíbe”",
+          "title": "La economía, el único desafío de Milei en las elecciones",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/federico-gonzalez-rouco-economista-el-gobierno-definio-en-que-se-invertira-el-fal-y-no-incluyo-al-nid13082026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/opinion/la-economia-el-unico-desafio-de-milei-en-las-elecciones-nid14082026/",
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El impuesto a los combustibles duplicó su peso dentro del precio de la nafta durante el gobierno de Milei",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/12/el-impuesto-a-los-combustibles-duplico-su-peso-dentro-del-precio-de-la-nafta-durante-el-gobierno-de-milei/",
-          "ago": "hace 1 d"
-        },
-        {
-          "title": "Defender un dólar a $1.500 o priorizar tasas bajas que impulsen la actividad: la pulseada de Economía que mira de cerca el mercado",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/11/defender-un-dolar-a-1500-o-priorizar-tasas-bajas-que-impulsen-la-actividad-la-pulseada-de-economia-que-mira-de-cerca-el-mercado/",
           "ago": "hace 2 d"
         },
         {
-          "title": "Jornada financiera: la cautela se impuso en el mercado local, con un dato de inflación más alto de lo previsto",
+          "title": "El Gobierno ahora pone el foco en el mercado interno, pero los motores para reactivar funcionan a media máquina",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/13/jornada-financiera-la-cautela-se-impuso-en-el-mercado-local-con-un-dato-de-inflacion-mas-alto-que-lo-previsto/",
-          "ago": "hace 39 min"
+          "url": "https://www.infobae.com/economia/2026/08/14/el-gobierno-ahora-pone-el-foco-en-el-mercado-interno-pero-los-motores-para-reactivar-funcionan-a-media-maquina/",
+          "ago": "hace 5 h"
+        },
+        {
+          "title": "Créditos en dólares, más reservas y alianzas políticas: el cambio de estrategia del Gobierno con la mira puesta en 2027",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/14/creditos-en-dolares-mas-reservas-y-alianzas-politicas-el-cambio-de-estrategia-del-gobierno-con-la-mira-puesta-en-2027/",
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,18 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El nuevo tatuaje que se hizo Flores tras su golazo ante Recoleta",
-      "value": "hace 4 h"
+      "detail": "Los Vascopibes: la influencia de los jóvenes en el Boca de Arruabar…",
+      "value": "hace 11 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Las camisetas más recordadas de la Selección Argentina",
-      "value": "hace 11 h"
+      "value": "hace 22 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why switching off is one of the most vital skills for F1 drivers",
+      "detail": "Inside the F1 driver’s bubble: The reserve driver",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "LaLiga abre el telón: así están las cuotas para campeón, Champions,…",
+      "value": "hace 22 h"
     }
   ]
 }
