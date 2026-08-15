@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-15T16:30:03.550Z",
+  "generatedAt": "2026-08-15T22:12:08.837Z",
   "agenda": [],
   "mail": [],
   "news": [
     {
       "sec": "Mundo",
       "items": [
+        {
+          "title": "Muere Daniela Largo, la mujer rescatada tras pasar 36 horas atrapada en los escombros por el terremoto en Colombia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckg447er5gpo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
         {
           "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
           "source": "BBC Mundo",
@@ -16,12 +22,6 @@
           "title": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Armenia, la ciudad de Colombia que se reconstruyó tras el terremoto de 1999 y ahora no registró muertos",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckgd8pzkyzxo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 8 h"
         }
       ]
@@ -33,19 +33,19 @@
           "title": "Miles de árboles limoneros en España viven una crisis histórica: el virus que ha puesto en jaque a toda la industria",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/limon-espanol-se-prometia-felices-campana-historica-que-virus-puso-jaque-miles-frutales",
-          "ago": "hace 29 min"
+          "ago": "hace 6 h"
         },
         {
           "title": "Un tren en China ha alcanzado los 800 km/h. Un nuevo récord para la tecnología de levitación magnética",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/tren-china-ha-alcanzado-800-km-h-nuevo-record-para-tecnologia-levitacion-magnetica",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         },
         {
-          "title": "Durante décadas, creímos que la carne hizo grande nuestro cerebro. Ahora todo apunta a la demonizada azúcar",
+          "title": "La evolución de nuestros ojos esconde un giro de guion: la ciencia apunta a un \"gusano cíclope\" de hace 600 millones de años",
           "source": "Xataka",
-          "url": "https://www.xataka.com/investigacion/durante-decadas-creimos-que-carne-hizo-grande-nuestro-cerebro-ahora-todo-apunta-a-demonizada-azucar",
-          "ago": "hace 59 min"
+          "url": "https://www.xataka.com/investigacion/evolucion-nuestros-ojos-esconde-giro-guion-ciencia-apunta-a-gusano-ciclope-hace-600-millones-anos",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Murió uno de los heridos en la emboscada con una ametralladora y el ataque a vecinos se convirtió en un doble crimen",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/seguridad/murio-uno-de-los-heridos-en-la-emboscada-con-una-ametralladora-y-el-ataque-a-vecinos-se-convirtio-en-nid15082026/",
+          "ago": "hace 38 min"
+        },
+        {
+          "title": "Victoria Villarruel se mostró con el presidente de la UCR en la Expo Venado y deslizó críticas al Gobierno",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/victoria-villarruel-se-mostro-con-el-presidente-de-la-ucr-en-la-expo-venado-y-deslizo-criticas-al-nid15082026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "A pedido de los gobernadores, el Gobierno evalúa cambios en la integración del directorio del BCRA",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/a-pedido-de-los-gobernadores-el-gobierno-evalua-cambios-en-la-integracion-del-directorio-del-bcra-nid15082026/",
-          "ago": "hace 42 min"
-        },
-        {
-          "title": "Santa Fe: un joven de 29 años volvía del velorio de su hermana y murió tras chocar con un camión",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/santa-fe-un-joven-de-29-anos-volvia-del-velorio-de-su-hermana-y-murio-chocar-con-un-camion-nid15082026/",
-          "ago": "hace 22 min"
-        },
-        {
-          "title": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-y-disparo-una-alerta-por-tsunami-nid14082026/",
-          "ago": "hace 3 h"
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Un ex presidente del BCRA partidario de Milei alertó por los riesgos de impulsar los préstamos en dólares: “Es una mala idea”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/14/un-ex-presidente-del-bcra-partidario-de-milei-alerto-por-los-riesgos-de-impulsar-los-prestamos-en-dolares-es-una-mala-idea/",
-          "ago": "hace 22 h"
+          "ago": "hace 1 d"
+        },
+        {
+          "title": "Cuánto operó el Gobierno en el mercado de futuros y en títulos indexados para mantener el dólar en torno a los 1.500 pesos",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/15/cuanto-opero-el-gobierno-en-el-mercado-de-futuros-y-en-titulos-indexados-para-mantener-el-dolar-en-torno-a-los-1500-pesos/",
+          "ago": "hace 2 h"
         },
         {
           "title": "El presidente del BCRA admitió que la economía crece “mucho más despacio” de lo que espera el Gobierno",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/14/el-presidente-del-bcra-admitio-que-la-economia-crece-mucho-mas-despacio-de-lo-que-espera-el-gobierno/",
-          "ago": "hace 17 h"
-        },
-        {
-          "title": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/15/mora-record-por-que-el-gobierno-rechaza-asistir-a-las-familias-endeudadas/",
-          "ago": "hace 12 h"
+          "ago": "hace 22 h"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Cuántos puntos necesita Boca en las fechas restantes para clasifica…",
+      "detail": "Platense vs. Boca, hoy EN VIVO por el Torneo Clausura: formaciones,…",
       "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Cada vez más galáctico: PSG presentó al verdugo de la Selección en …",
-      "value": "hace 5 h"
+      "detail": "A un mes de la victoria ante Inglaterra, el video especial que publ…",
+      "value": "hace 6 h"
     },
     {
       "team": "Fórmula 1",
