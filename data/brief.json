@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:13:28.760Z",
+  "generatedAt": "2026-08-15T09:19:47.030Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 1 min"
         },
         {
+          "title": "Armenia, la ciudad de Colombia que se reconstruyó tras el terremoto de 1999 y ahora no registró muertos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckgd8pzkyzxo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 27 min"
+        },
+        {
           "title": "La tragedia de Ana María Saavedra, la joven trilliza que perdió a sus dos hermanas y a sus padres en el terremoto en Colombia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cly59kek9w9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "\"Somos demasiado pobres\": cómo el terremoto agrava la desesperada situación en el Chocó, una de las regiones más olvidadas de Colombia",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c80n2vp7kvzo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 14 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Mientras China conquista el mercado global del automóvil, en su país está pasando algo peculiar: las ventas se están desplomando",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/china-conquista-mercado-global-automovil-su-pais-esta-pasando-algo-peculiar-ventas-se-estan-desplomando",
-          "ago": "hace 7 h"
+          "ago": "hace 18 h"
         },
         {
-          "title": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+          "title": "La fabricación alemana era la envidia del mundo. La lista de los coches eléctricos más vendidos de 2026 confirma que ya no lo es",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
-          "ago": "hace 30 min"
+          "url": "https://www.xataka.com/movilidad/fabricacion-alemana-era-envidia-mundo-lista-coches-electricos-vendidos-2026-confirma-que-no",
+          "ago": "hace 19 min"
         },
         {
-          "title": "El Boeing 737 es una maravilla de la ingeniería. También lo es que un dispositivo del tamaño de una moneda altere su aviónica",
+          "title": "Con solo 18 años, este desarrollador sería millonario gracias a su juego en Steam. El \"problema\" es un número: 99,9%",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/boeing-737-maravilla-ingenieria-tambien-que-dispositivo-tamano-moneda-altere-su-avionica",
-          "ago": "hace 3 h"
+          "url": "https://www.xataka.com/videojuegos/solo-18-anos-este-desarrollador-seria-millonario-gracias-a-su-juego-steam-problema-numero-99-9",
+          "ago": "hace 49 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: las repercusiones de la inflación de julio y el armado electoral de cara al 2027",
+          "title": "El Gobierno oficializó la medida que flexibiliza los préstamos en dólares para empresas",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
-          "ago": "hace 13 min"
+          "url": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-la-medida-de-flexibilizacion-de-prestamos-en-dolares-para-empresas-nid14082026/",
+          "ago": "hace 3 h"
         },
         {
-          "title": "El acercamiento de Pro al Gobierno decepcionó a los macristas críticos de Milei y se mantiene la idea de competir con un candidato propio",
+          "title": "Las inversiones favoritas del mercado tras la temporada de balances",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-acercamiento-de-pro-al-gobierno-decepciono-a-los-macristas-criticos-de-milei-y-se-mantiene-la-nid14082026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/economia/negocios/las-inversiones-favoritas-del-mercado-tras-la-temporada-de-balances-nid15082026/",
+          "ago": "hace 6 min"
         },
         {
-          "title": "Servicios de feriado y fin de semana largo: así funcionan los bancos, supermercados y transportes este lunes 17 de agosto",
+          "title": "Tarjetas de crédito en alza: cuánto deben los consumidores en EE.UU., según la Reserva Federal de Nueva York",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/servicios-de-feriado-y-fin-de-semana-largo-asi-funcionan-los-bancos-supermercados-y-transportes-este-nid14082026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/estados-unidos/tarjetas-de-credito-en-alza-cuanto-deben-los-consumidores-en-eeuu-segun-la-reserva-federal-de-nueva-nid15082026/",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Un ex presidente del BCRA partidario de Milei alertó por los riesgos de impulsar los préstamos en dólares: “Es una mala idea”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/14/un-ex-presidente-del-bcra-partidario-de-milei-alerto-por-los-riesgos-de-impulsar-los-prestamos-en-dolares-es-una-mala-idea/",
-          "ago": "hace 3 h"
+          "ago": "hace 15 h"
         },
         {
-          "title": "El impuesto a los combustibles duplicó su peso dentro del precio de la nafta durante el gobierno de Milei",
+          "title": "El presidente del BCRA admitió que la economía crece “mucho más despacio” de lo que espera el Gobierno",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/12/el-impuesto-a-los-combustibles-duplico-su-peso-dentro-del-precio-de-la-nafta-durante-el-gobierno-de-milei/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/08/14/el-presidente-del-bcra-admitio-que-la-economia-crece-mucho-mas-despacio-de-lo-que-espera-el-gobierno/",
+          "ago": "hace 10 h"
         },
         {
-          "title": "El viceministro de Caputo aseguró que el Gobierno comprará USD 10.000 millones extra antes de las elecciones de 2027",
+          "title": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/12/el-viceministro-de-caputo-aseguro-que-el-gobierno-comprara-usd-10000-millones-extra-antes-de-las-elecciones-de-2027/",
-          "ago": "hace 3 h"
+          "url": "https://www.infobae.com/economia/2026/08/15/mora-record-por-que-el-gobierno-rechaza-asistir-a-las-familias-endeudadas/",
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,18 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Platense vs. Boca, por el Torneo Clausura: día, horario y por dónde…",
-      "value": "hace 12 min"
+      "detail": "Así está la lucha por no descender en la Liga Profesional",
+      "value": "hace 7 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Scaloni se puso la camiseta de la Selección... de hockey: \"Estoy se…",
-      "value": "hace 59 min"
+      "detail": "Selección: una gastada de alto vuelo",
+      "value": "hace 10 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "5 things to look forward to in the second half of 2026",
+      "detail": "How Racing Bulls’ 2026 season has played out so far",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "Macroencuesta de inicio de LaLiga: campeón, MVP, descenso, revelaci…",
+      "value": "hace 11 h"
     }
   ]
 }
