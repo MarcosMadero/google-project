@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:39:26.657Z",
+  "generatedAt": "2026-08-20T22:17:47.522Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c62epjggd7mo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "\"Mi prioridad era sacar a esos niños\": la historia de una de las imágenes más conmovedoras del terremoto en Colombia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c8en3n78x5go?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "Cómo el juicio contra una madre acusada de matar a sus 3 hijos impulsa la discusión sobre la psicosis posparto en EE.UU.",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c2lq44gqg1jo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
-        },
-        {
-          "title": "Lo que la exitosa salida a bolsa de la mayor empresa de robots humanoides del mundo revela sobre el liderazgo tecnológico de China",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c4g61pmn1vzo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 10 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Silicon Valley ha copiado de China la jornada 996 para trabajar más. DeepSeek está logrando lo mismo haciendo justo lo contrario",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-copiado-china-jornada-996-para-trabajar-deepseek-esta-logrando-haciendo-justo-contrario",
-          "ago": "hace 8 min"
+          "ago": "hace 6 h"
         },
         {
-          "title": "La odisea del emprendedor que compró un viejo crucero, gastó un millón de dólares en su restauración y no pudo disfrutarlo",
+          "title": "China ha probado durante 5.211 segundos el motor de su nuevo “taxi espacial”. El siguiente paso será llevarlo al espacio",
           "source": "Xataka",
-          "url": "https://www.xataka.com/transporte/odisea-emprendedor-que-compro-viejo-crucero-gasto-millon-dolares-su-restauracion-no-pudo-disfrutarlo-1",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/espacio/china-ha-probado-durante-5-211-segundos-motor-su-nuevo-taxi-espacial-siguiente-paso-sera-llevarlo-al-espacio",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Estos iPhone reacondicionados de Back Market son una gran opción calidad-precio, y tienen 24 meses de garantía",
+          "title": "La “primera ciudad aeropuerto” de Latinoamérica comienza a tomar forma: así es el proyecto que quiere cambiar el transporte",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/estos-iphone-reacondicionados-back-market-gran-opcion-calidad-precio-tienen-24-meses-garantia",
-          "ago": "hace 24 min"
+          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/primera-ciudad-aeropuerto-latinoamerica-comienza-a-tomar-forma-asi-proyecto-que-quiere-cambiar-transporte",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Milei retuiteó mensajes que ponen en duda el atentado por el que está preso su exasesor Fernando Cerimedo",
+          "title": "La escalada en la guerra entre Rusia y Ucrania vuelve a tensionar el mercado de granos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/milei-retuiteo-mensajes-que-ponen-en-duda-el-atentado-por-el-que-esta-preso-su-exasesor-fernando-nid20082026/",
-          "ago": "hace 54 min"
+          "url": "https://www.lanacion.com.ar/economia/campo/la-escalada-en-la-guerra-entre-rusia-y-ucrania-vuelve-a-tensionar-el-mercado-de-granos-nid20082026/",
+          "ago": "hace 2 min"
         },
         {
-          "title": "Caso Cerimedo: qué se sabe de la investigación al exasesor de Milei por el ataque a balazos contra Nadia Beller",
+          "title": "Un docente jubilado chaqueño, detenido en su casa hace un año, irá a juicio por amenazar en las redes a Milei",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-por-el-ataque-a-balazos-contra-nid20082026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/politica/un-docente-jubilado-chaqueno-detenido-en-su-casa-hace-un-ano-ira-a-juicio-por-amenazar-en-las-redes-nid20082026/",
+          "ago": "hace 34 min"
         },
         {
-          "title": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
+          "title": "Dólar y mercados: el riesgo país subió y llegó a los 532 puntos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
-          "ago": "hace 13 min"
+          "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sigue-subiendo-y-se-acerca-a-los-530-puntos-nid20082026/",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno alentó la suba de las tasas de interés y el mercado detectó una intervención oficial para controlar el dólar",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/20/el-gobierno-alento-la-suba-de-las-tasas-de-interes-y-el-mercado-detecto-una-intervencion-oficial-para-controlar-el-dolar/",
-          "ago": "hace 11 h"
+          "ago": "hace 17 h"
         },
         {
           "title": "Suben las tasas de interés: cuál es la señal que dio el Gobierno para el dólar, el crédito y la actividad",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/19/suben-las-tasas-de-interes-cual-es-la-senal-que-dio-el-gobierno-para-el-dolar-el-credito-y-la-actividad/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
-          "title": "Iván Carrino: “Nos vamos a tener que acostumbrar a tener un dólar que suba menos que la inflación”",
+          "title": "Las bolsas europeas cerraron en rojo y Wall Street opera en baja mientras el dólar se debilita y el crudo se dispara",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/19/ivan-carrino-nos-vamos-a-tener-que-acostumbrar-a-tener-un-dolar-que-suba-menos-que-la-inflacion/",
-          "ago": "hace 17 h"
+          "url": "https://www.infobae.com/america/mundo/2026/08/20/las-bolsas-europeas-cerraron-en-rojo-y-wall-street-opera-en-baja-mientras-el-dolar-se-debilita-y-el-crudo-se-dispara/",
+          "ago": "hace 3 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Las palabras de Arruabarrena para Jagger Hererra antes de su debut:…",
-      "value": "hace 40 min"
+      "detail": "En defensa y ataque, las dos dudas de Arruabarrena en Boca para vis…",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Xabi Alonso sobre el futuro de Enzo Fernández: \"Es jugador del Chel…",
-      "value": "hace 30 min"
+      "detail": "La Selección Argentina palpita el Mundial femenino 2027: fechas con…",
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Best value early bets for the Dutch Grand Prix",
+      "detail": "When to target in-race betting at Zandvoort",
       "value": "hace 1 min"
     }
   ]
