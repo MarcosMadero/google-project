@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:20:50.318Z",
+  "generatedAt": "2026-08-23T16:30:46.687Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,7 +10,7 @@
           "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
+          "ago": "hace 9 h"
         },
         {
           "title": "Quién es Fernando Cerimedo, el asesor de Milei y otros políticos de derecha acusado en Bolivia de ordenar un ataque de sicarios contra su pareja",
@@ -19,10 +19,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
+          "title": "Zelensky debería responder qué sabe de la corrupción al interior del gobierno de Ucrania dice exministro a la BBC",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5yevxyd21eo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
+          "url": "https://www.bbc.com/mundo/articles/c4gwgy97w12o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 7 min"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Las segundas Olimpiadas de robots humanoides de China ya \nhan roto un impresionante récord: los 100 metros de Usain Bolt",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/segundas-olimpiadas-robots-humanoides-china-han-roto-impresionante-record-100-metros-usain-bolt",
-          "ago": "hace 49 min"
+          "ago": "hace 8 h"
         },
         {
-          "title": "Unitree ya vale más de 50.000 millones. Hay un problema: el gran mercado de los robots humanoides todavía no existe",
+          "title": "En 1923 Einstein hizo un peculiar \"tour\" por España: pagos desorbitados, fiestas y conferencias que casi nadie entendía",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/unitree-vale-50-000-millones-hay-problema-gran-mercado-robots-humanoides-todavia-no-existe",
-          "ago": "hace 22 h"
+          "url": "https://www.xataka.com/magnet/einstein-espana",
+          "ago": "hace 29 min"
         },
         {
-          "title": "LG y Nvidia llegan a un acuerdo para fabricar robots humanoides. Empiezan por unos con ruedas en una fábrica de lavadoras",
+          "title": "La URSS fabricó el helicóptero más gigantesco de la historia para llevar misiles nucleares. Funcionó y aun así fracasó",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/lg-nvidia-llegan-a-acuerdo-para-fabricar-robots-humanoides-empiezan-unos-ruedas-fabrica-lavadoras",
-          "ago": "hace 23 h"
+          "url": "https://www.xataka.com/movilidad/urss-fabrico-helicoptero-gigantesco-historia-para-llevar-misiles-nucleares-funciono-asi-fracaso",
+          "ago": "hace 59 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Fernando Cerimedo ingresó al menos 13 veces a la Casa Rosada desde que Milei es presidente",
+          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/fernando-cerimedo-ingreso-al-menos-13-veces-a-la-casa-rosada-desde-que-milei-es-presidente-nid22082026/",
-          "ago": "hace 9 h"
+          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 23 de agosto",
+          "title": "Elecciones: cuándo se vota para presidente en Brasil 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-23-de-agosto-nid23082026/",
-          "ago": "hace 11 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "La ley es clara: los casos en los que un viajero puede negarse a mostrar su teléfono al ICE y la CBP en aeropuertos",
+          "title": "Los cambios impositivos del Gobierno de Milei impactan en un 3% del PBI",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/la-ley-es-clara-los-casos-en-los-que-un-viajero-puede-negarse-a-mostrar-su-telefono-al-ice-y-la-cbp-nid23082026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/economia/menor-recaudacion-los-cambios-impositivos-del-gobierno-de-milei-impactan-en-un-3-del-pbi-nid23082026/",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "¿Qué pasará con la inflación de este mes?: el 0,8% que dio el dato mayorista alienta al Gobierno, pero el petróleo abre dudas",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/22/que-pasara-con-la-inflacion-de-este-mes-el-08-que-dio-el-dato-mayorista-alienta-al-gobierno-pero-el-petroleo-abre-dudas/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Javier Milei: “No hay elementos para culpar a la política del Gobierno por lo que está pasando con la morosidad”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/21/javier-milei-no-hay-elementos-para-culpar-a-la-politica-del-gobierno-por-lo-que-esta-pasando-con-la-morosidad/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La buena chance en las tablas que tendrá Boca ante Racing tras los …",
-      "value": "hace 8 h"
+      "detail": "Alerta Boca: la decisión forzosa del Vasco para visitar a Racing",
+      "value": "hace 37 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "El medio de España que disparó contra Argentina en su tapa: \"Duro c…",
-      "value": "hace 20 h"
+      "value": "hace 1 d"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Final predictions and latest Dutch Grand Prix odds",
+      "detail": "Norris dissects the ‘move that won me’ the final Dutch GP",
       "value": "hace 1 min"
     }
   ]
