@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:30:46.687Z",
+  "generatedAt": "2026-08-23T22:12:40.853Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "A Zelensky se le debería preguntar qué sabe de la corrupción dentro de su gobierno, dice el exministro que destituyó el presidente de Ucrania",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4gwgy97w12o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
+          "ago": "hace 15 h"
         },
         {
           "title": "Quién es Fernando Cerimedo, el asesor de Milei y otros políticos de derecha acusado en Bolivia de ordenar un ataque de sicarios contra su pareja",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/clyx45xkzzyo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 2 d"
-        },
-        {
-          "title": "Zelensky debería responder qué sabe de la corrupción al interior del gobierno de Ucrania dice exministro a la BBC",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c4gwgy97w12o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 min"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Las segundas Olimpiadas de robots humanoides de China ya \nhan roto un impresionante récord: los 100 metros de Usain Bolt",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/segundas-olimpiadas-robots-humanoides-china-han-roto-impresionante-record-100-metros-usain-bolt",
-          "ago": "hace 8 h"
+          "ago": "hace 14 h"
         },
         {
-          "title": "En 1923 Einstein hizo un peculiar \"tour\" por España: pagos desorbitados, fiestas y conferencias que casi nadie entendía",
+          "title": "‘Cyberpunk 2077’ lleva casi seis años encerrando a los jugadores en Night City. Uno ha encontrado una forma de escapar",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/einstein-espana",
-          "ago": "hace 29 min"
+          "url": "https://www.xataka.com/videojuegos/cyberpunk-2077-lleva-casi-seis-anos-encerrando-a-jugadores-night-city-uno-ha-encontrado-forma-escapar",
+          "ago": "hace 3 h"
         },
         {
-          "title": "La URSS fabricó el helicóptero más gigantesco de la historia para llevar misiles nucleares. Funcionó y aun así fracasó",
+          "title": "Llevamos medio siglo intentando demostrar con la ciencia que existe el \"más allá\". Los resultados apuntan a otra parte",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/urss-fabrico-helicoptero-gigantesco-historia-para-llevar-misiles-nucleares-funciono-asi-fracaso",
-          "ago": "hace 59 min"
+          "url": "https://www.xataka.com/investigacion/llevamos-medio-siglo-intentando-demostrar-ciencia-que-existe-alla-resultados-apuntan-a-otra-parte",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,21 +53,21 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "title": "El plan del Gobierno para sostener el dólar debajo de $1500 amenaza con hacer más lenta la recuperación de la economía",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/el-plan-del-gobierno-para-sostener-el-dolar-debajo-de-1500-amenaza-con-hacer-mas-lenta-la-nid23082026/",
+          "ago": "hace 38 min"
         },
         {
-          "title": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+          "title": "Zelensky descarta celebrar elecciones en plena guerra y advierte que podrían “partir a Ucrania en dos”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/zelensky-descarta-celebrar-elecciones-en-plena-guerra-y-advierte-que-podrian-partir-a-ucrania-en-dos-nid23082026/",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Los cambios impositivos del Gobierno de Milei impactan en un 3% del PBI",
+          "title": "El Gobierno confía en suspender las PASO, pero antes dará prioridad a la aprobación de las leyes económicas",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/menor-recaudacion-los-cambios-impositivos-del-gobierno-de-milei-impactan-en-un-3-del-pbi-nid23082026/",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-confia-en-suspender-las-paso-pero-antes-dara-prioridad-a-la-aprobacion-de-las-leyes-nid23082026/",
           "ago": "hace 3 h"
         }
       ]
@@ -79,19 +79,19 @@
           "title": "La delgada línea de la tríada: tasas, dólar e inflación en la Argentina actual",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/opinion/2026/08/22/la-delgada-linea-de-la-triada-tasas-dolar-e-inflacion-en-la-argentina-actual/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
+        },
+        {
+          "title": "El nuevo mapa de los impuestos: cuáles bajaron, qué puntos siguen en debate y hasta dónde llegará el recorte del Gobierno",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/23/el-nuevo-mapa-de-los-impuestos-cuales-bajaron-que-puntos-siguen-en-debate-y-hasta-donde-llegara-el-recorte-del-gobierno/",
+          "ago": "hace 1 h"
         },
         {
           "title": "¿Qué pasará con la inflación de este mes?: el 0,8% que dio el dato mayorista alienta al Gobierno, pero el petróleo abre dudas",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/22/que-pasara-con-la-inflacion-de-este-mes-el-08-que-dio-el-dato-mayorista-alienta-al-gobierno-pero-el-petroleo-abre-dudas/",
           "ago": "hace 1 d"
-        },
-        {
-          "title": "Javier Milei: “No hay elementos para culpar a la política del Gobierno por lo que está pasando con la morosidad”",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/21/javier-milei-no-hay-elementos-para-culpar-a-la-politica-del-gobierno-por-lo-que-esta-pasando-con-la-morosidad/",
-          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,8 +99,8 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Alerta Boca: la decisión forzosa del Vasco para visitar a Racing",
-      "value": "hace 37 min"
+      "detail": "La República de la Boca festeja otro aniversario: el nuevo ciudadan…",
+      "value": "hace 5 h"
     },
     {
       "team": "Selección Argentina",
@@ -109,7 +109,7 @@
     },
     {
       "team": "Fórmula 1",
-      "detail": "Norris dissects the ‘move that won me’ the final Dutch GP",
+      "detail": "5 key betting lessons after Norris wins at Zandvoort",
       "value": "hace 1 min"
     }
   ]
