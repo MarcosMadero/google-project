@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-08-24T09:39:41.815Z",
+  "generatedAt": "2026-08-24T16:41:58.215Z",
   "agenda": [],
   "mail": [],
   "news": [
     {
       "sec": "Mundo",
       "items": [
-        {
-          "title": "A Zelensky se le debería preguntar qué sabe de la corrupción dentro de su gobierno, dice el exministro que destituyó el presidente de Ucrania",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c4gwgy97w12o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 17 h"
-        },
         {
           "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
           "source": "BBC Mundo",
@@ -23,6 +17,12 @@
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/clyx45xkzzyo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 3 d"
+        },
+        {
+          "title": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Un pueblo de Zaragoza organizó el plan más sencillo del mundo, \"salir a la fresca\". Han batido algo más que un récord",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/pueblo-zaragoza-organizo-plan-sencillo-mundo-salir-a-fresca-han-batido-algo-que-record",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Mercadona tiene una nueva creatina en sus estanterías. Un tecnólogo alimentario ya la ha analizado y no trae buenas noticias",
           "source": "Xataka",
           "url": "https://www.xataka.com/medicina-y-salud/mercadona-tiene-nueva-creatina-sus-estanterias-tecnologo-alimentario-ha-analizado-no-trae-buenas-noticias",
-          "ago": "hace 38 min"
+          "ago": "hace 8 h"
         },
         {
-          "title": "Ox Alpha es el nuevo y misterioso modelo de IA del que todos hablan. Nadie sabe quién está detrás",
+          "title": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/ox-alpha-nuevo-misterioso-modelo-ia-que-todos-hablan-nadie-sabe-quien-esta-detras",
-          "ago": "hace 8 min"
-        },
-        {
-          "title": "Una criatura marina está tomando forma en un puerto: mide 320 metros y sitúa a China en la liga más peligrosa del planeta",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/criatura-marina-esta-tomando-forma-puerto-mide-320-metros-situa-a-china-liga-peligrosa-planeta",
-          "ago": "hace 1 h"
+          "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
+          "title": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
-          "ago": "hace 29 min"
+          "ago": "hace 37 min"
         },
         {
-          "title": "Diputados: el Gobierno buscará esta semana darle media sanción a los proyectos económicos de Milei",
+          "title": "Un funcionario de Kicillof dijo que el gobierno de Milei compra votos para suspender las PASO",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-buscara-esta-semana-darle-media-sancion-a-los-proyectos-economicos-de-milei-nid23082026/",
-          "ago": "hace 8 h"
+          "url": "https://www.lanacion.com.ar/politica/un-funcionario-de-kicillof-dijo-que-el-gobierno-de-milei-compra-votos-para-suspender-las-paso-nid24082026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Elecciones en EE.UU.: Texas e Iowa pueden cambiar todo en las “midterms” 2026",
+          "title": "Trump busca convertir en permanente la polémica tasa de más de 100.000 dólares para las visas H-1B",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-eeuu-texas-e-iowa-pueden-cambiar-todo-en-las-midterms-2026-nid24082026/",
-          "ago": "hace 7 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/trump-busca-convertir-en-permanente-la-polemica-tasa-de-mas-de-100000-dolares-para-las-visas-h-1b-nid24082026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "Reforma del BCRA, Inocencia Fiscal II y una licitación decisiva: los desafíos del Gobierno en una semana de alto voltaje",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/24/reforma-del-bcra-inocencia-fiscal-ii-y-una-licitacion-decisiva-los-desafios-del-gobierno-en-una-semana-de-alto-voltaje/",
-          "ago": "hace 4 h"
+          "ago": "hace 11 h"
         },
         {
           "title": "Un techo incómodo para el dólar, tensión electoral y suba de tasas en EEUU: las señales de alerta que preocupan a los analistas",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/24/un-techo-incomodo-para-el-dolar-tension-electoral-y-suba-de-tasas-en-eeuu-las-senales-de-alerta-que-preocupan-a-los-analistas/",
-          "ago": "hace 4 h"
+          "ago": "hace 11 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Arruabarrena, de \"merecíamos un poquito más\" a \"hay rebeldía\"",
-      "value": "hace 7 h"
+      "detail": "Rojo y un fuerte comentario después del gol: \"En Boca jamás me cagué\"",
+      "value": "hace 3 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "El medio de España que disparó contra Argentina en su tapa: \"Duro c…",
-      "value": "hace 2 d"
+      "detail": "La fuerte banca de Giuliano Simeone para Julián Álvarez: \"Vamos a m…",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Hulkenberg reacts to 'scary' near-miss in Dutch GP",
+      "detail": "F1 ACADEMY unveils expanded 2026 Rookie Test",
       "value": "hace 1 min"
     }
   ]
