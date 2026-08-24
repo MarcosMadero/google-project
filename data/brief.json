@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:41:58.215Z",
+  "generatedAt": "2026-08-24T22:16:47.002Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
-        },
-        {
           "title": "Quién es Fernando Cerimedo, el asesor de Milei y otros políticos de derecha acusado en Bolivia de ordenar un ataque de sicarios contra su pareja",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/clyx45xkzzyo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 3 d"
         },
         {
+          "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "La crisis de la RAM ha encarecido toda la electrónica de consumo. La siguiente víctima es el coche",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/movilidad/crisis-ram-ha-encarecido-toda-electronica-consumo-siguiente-victima-coche",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Un pueblo de Zaragoza organizó el plan más sencillo del mundo, \"salir a la fresca\". Han batido algo más que un récord",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/pueblo-zaragoza-organizo-plan-sencillo-mundo-salir-a-fresca-han-batido-algo-que-record",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Mercadona tiene una nueva creatina en sus estanterías. Un tecnólogo alimentario ya la ha analizado y no trae buenas noticias",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/medicina-y-salud/mercadona-tiene-nueva-creatina-sus-estanterias-tecnologo-alimentario-ha-analizado-no-trae-buenas-noticias",
           "ago": "hace 8 h"
         },
         {
-          "title": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
+          "title": "El yate más rápido del mundo tenía tres turbinas, 60.000 CV y una obsesión: cruzar el Atlántico en 58 horas",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
-          "ago": "hace 10 min"
+          "url": "https://www.xataka.com/movilidad/yate-rapido-mundo-tenia-tres-turbinas-60-000-cv-obsesion-cruzar-atlantico-58-horas",
+          "ago": "hace 19 min"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, en vivo: el Presidente volvió a la Casa Rosada tras 23 días y reúne al gabinete",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
-          "ago": "hace 37 min"
+          "ago": "hace 32 min"
         },
         {
-          "title": "Un funcionario de Kicillof dijo que el gobierno de Milei compra votos para suspender las PASO",
+          "title": "El maíz alcanzó su valor más alto en un año y siete meses en el mercado internacional",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/un-funcionario-de-kicillof-dijo-que-el-gobierno-de-milei-compra-votos-para-suspender-las-paso-nid24082026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/campo/el-maiz-alcanzo-su-valor-mas-alto-en-un-ano-y-siete-meses-en-el-mercado-internacional-nid24082026/",
+          "ago": "hace 2 min"
         },
         {
-          "title": "Trump busca convertir en permanente la polémica tasa de más de 100.000 dólares para las visas H-1B",
+          "title": "Ahorró cuatro euros por día para volver a España, fue estafado y una mano mágica lo salvó: finalmente, murió en el lugar que lo hizo tan feliz",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/trump-busca-convertir-en-permanente-la-polemica-tasa-de-mas-de-100000-dolares-para-las-visas-h-1b-nid24082026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/lifestyle/ahorro-cuatro-euros-por-dia-para-volver-a-espana-fue-estafado-y-una-mano-magica-lo-salvo-finalmente-nid24082026/",
+          "ago": "hace 2 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "La delgada línea de la tríada: tasas, dólar e inflación en la Argentina actual",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/opinion/2026/08/22/la-delgada-linea-de-la-triada-tasas-dolar-e-inflacion-en-la-argentina-actual/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
+        },
+        {
+          "title": "El Gobierno permitió que el dólar mayorista supere los $1.500 por primera vez",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/08/24/el-gobierno-permitio-que-el-dolar-mayorista-supere-los-1500-por-primera-vez/",
+          "ago": "hace 3 h"
         },
         {
           "title": "Reforma del BCRA, Inocencia Fiscal II y una licitación decisiva: los desafíos del Gobierno en una semana de alto voltaje",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/24/reforma-del-bcra-inocencia-fiscal-ii-y-una-licitacion-decisiva-los-desafios-del-gobierno-en-una-semana-de-alto-voltaje/",
-          "ago": "hace 11 h"
-        },
-        {
-          "title": "Un techo incómodo para el dólar, tensión electoral y suba de tasas en EEUU: las señales de alerta que preocupan a los analistas",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/24/un-techo-incomodo-para-el-dolar-tension-electoral-y-suba-de-tasas-en-eeuu-las-senales-de-alerta-que-preocupan-a-los-analistas/",
-          "ago": "hace 11 h"
+          "ago": "hace 16 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Rojo y un fuerte comentario después del gol: \"En Boca jamás me cagué\"",
-      "value": "hace 3 h"
+      "detail": "Los tres jugadores clave que Boca apuesta a recuperar para lo que v…",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "La fuerte banca de Giuliano Simeone para Julián Álvarez: \"Vamos a m…",
-      "value": "hace 3 h"
+      "value": "hace 8 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "F1 ACADEMY unveils expanded 2026 Rookie Test",
+      "detail": "7 moments you might have missed at the 2026 Dutch Grand Prix",
       "value": "hace 1 min"
     }
   ]
