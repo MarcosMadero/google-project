@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:41:26.230Z",
+  "generatedAt": "2026-08-25T22:17:09.982Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Cómo puede Canadá contraatacar para perjudicar la economía de EE.UU. (y a Trump) en plena guerra comercial",
+          "title": "Muere Dolly Parton, la leyenda del country que cantaba desde el corazón",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 29 min"
+        },
+        {
+          "title": "Muere Dolly Parton: la fabulosa vida de una de las estrellas más queridas en imágenes",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cjdv5kr7945o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 23 min"
+        },
+        {
+          "title": "Cómo puede contraatacar Canadá para perjudicar a la economía de EE.UU. (y a Trump) en plena guerra comercial",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ce8x1l47l30o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 min"
-        },
-        {
-          "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 23 h"
-        },
-        {
-          "title": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Muchos millonarios se mudaron a Portugal para pagar menos impuestos: ahora piden volver a España para seguir pagando menos",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/muchos-millonarios-se-mudaron-a-portugal-para-pagar-impuestos-ahora-piden-volver-a-espana-para-seguir-pagando",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Yang Zhilin tenía Silicon Valley a sus pies: prefirió regresar a China y construir una de las IA más impresionantes del mundo",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/tenia-silicon-valley-a-sus-pies-prefirio-volver-a-china-crear-ia-que-le-hace-sombra-a-eeuu",
-          "ago": "hace 3 h"
+          "ago": "hace 9 h"
         },
         {
-          "title": "Un empresario de Yecla abandonó un Boeing 747 en el Aeropuerto de Valencia en 2008. Ahora Aena se ha cansado de tenerlo aparcado",
+          "title": "Europa tiene por fin un cohete fiable, Ariane 6. Su gran evolución ha quedado aparcada con un viejo problema de fondo: el coste",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/empresario-yecla-abandono-boeing-747-aeropuerto-valencia-2008-ahora-aena-se-ha-cansado-tenerlo-aparcado",
-          "ago": "hace 10 min"
-        },
-        {
-          "title": "Asus ha creado una de las consolas portátiles más completas. OLED de 7,4 pulgadas, diseño exquisito y un problema: el precio",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/videojuegos/asus-rog-xbox-ally-x20-caracteristicas-precio-ficha-tecnica",
-          "ago": "hace 25 min"
+          "url": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
+          "ago": "hace 30 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: la suba del dólar y la agenda legislativa en el Congreso",
+          "title": "El dólar mayorista se consolidó por encima de los $1500 y las acciones argentinas treparon hasta 5% en Wall Street",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-mayorista-tuvo-una-leve-suba-y-se-consolido-por-encima-de-los-1500-nid25082026/",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "Javier Milei y sus medidas, en vivo: Cancillería aclaró los dichos del jefe de la Fuerza Aérea sobre el Estrecho de Magallanes",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-suba-del-dolar-y-la-agenda-legislativa-en-el-congreso-nid25082026/",
-          "ago": "hace 24 min"
+          "ago": "hace 7 min"
         },
         {
-          "title": "El dólar mayorista sigue arriba de los $1500: los motivos y las expectativas del mercado",
+          "title": "Los negocios del exasesor de Milei: Cerimedo aparece ligado a una empresa “fantasma” de la Hidrovía",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-mayorista-sigue-arriba-de-los-1500-los-motivos-y-las-expectativas-del-mercado-nid25082026/",
-          "ago": "hace 8 min"
-        },
-        {
-          "title": "Luis Caputo reclamó una ley que castigue a periodistas que escriban “cosas sin sustento” y Milei lo respaldó",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/luis-caputo-reclamo-una-ley-que-castigue-a-periodistas-que-escriban-cosas-sin-sustento-nid25082026/",
-          "ago": "hace 31 min"
+          "url": "https://www.lanacion.com.ar/politica/mientras-sigue-preso-en-bolivia-cerimedo-aparece-ligado-a-una-empresa-fantasma-de-la-hidrovia-nid25082026/",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El dólar rompió la barrera de los $1.500: por qué el Gobierno dejó de defender ese techo y qué espera el mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/25/el-dolar-rompio-la-barrera-de-los-1500-por-que-el-gobierno-dejo-de-defender-ese-techo-y-que-espera-el-mercado/",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "El crédito en dólares aumentó 600% en la era Milei y el Gobierno busca impulsarlo para reactivar la economía",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/25/el-credito-en-dolares-aumento-600-en-la-era-milei-y-el-gobierno-busca-impulsarlo-para-reactivar-la-economia/",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "La delgada línea de la tríada: tasas, dólar e inflación en la Argentina actual",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/opinion/2026/08/22/la-delgada-linea-de-la-triada-tasas-dolar-e-inflacion-en-la-argentina-actual/",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Otra sorpresa de Paredes y sus recuperaciones: ¿juega contra Lanús?",
-      "value": "hace 1 h"
+      "detail": "Tras la preocupación, la buena noticia que recibió Arruabarrena par…",
+      "value": "hace 51 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Di María cuestionó las sanciones a Paredes y Molina con la Selecció…",
-      "value": "hace 2 h"
+      "detail": "Después de las duras sanciones de FIFA, Luis de la Fuente recordó l…",
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Who impressed our Power Rankings judges at Zandvoort?",
+      "detail": "PALMER: Is Norris in the title race after his Zandvoort win?",
       "value": "hace 1 min"
     }
   ]
