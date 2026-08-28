@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T05:52:47.597Z",
+  "generatedAt": "2026-08-28T20:34:35.772Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Muere Dolly Parton, la leyenda del country que conquistó a millones cantando desde el corazón",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
+        },
+        {
+          "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una plebeya y reformó la monarquía de su país",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 13 h"
         },
         {
           "title": "Trump le cambia el nombre al lago Ontario en medio de la guerra comercial entre EE.UU. y Canadá",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c8e3kdn1wp7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "5 momentos clave del juicio a Lindsay Clancy, la madre acusada de asesinar a sus tres hijos en EE.UU.",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c2l899jkjp7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
+          "ago": "hace 23 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "De 28,8 ºC a 15,6 ºC en siete días: el histórico desplome térmico del mar en Málaga",
+          "title": "China desafía a Samsung y SK hynix: YMTC aspira a dominar el mercado mundial de chips NAND en 2027",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/28-8-oc-a-15-6-oc-siete-dias-historico-desplome-termico-mar-malaga",
-          "ago": "hace 12 h"
+          "url": "https://www.xataka.com/empresas-y-economia/china-desafia-a-samsung-sk-hynix-ymtc-aspira-a-dominar-mercado-mundial-chips-nand-2027",
+          "ago": "hace 8 h"
         },
         {
-          "title": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
+          "title": "Android pondrá límite a la RAM que pueden gastar las apps. Es una gran noticia para la gama baja",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/moviles/android-pondra-limite-a-ram-que-pueden-gastar-apps-gran-noticia-para-gama-baja",
+          "ago": "hace 34 min"
         },
         {
-          "title": "Un fabricante de ensaladas valenciano ha disparado sus beneficios un 23% en solo un año. Hay una palabra que lo explica: Mercadona",
+          "title": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/fabricante-ensaladas-valenciano-ha-disparado-sus-beneficios-23-solo-ano-hay-palabra-que-explica-mercadona",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Aún sin acuerdo con los aliados a la vista, el Gobierno avanza con el proyecto para eliminar las PASO",
+          "title": "Escandaloso final del Consejo del Salario Mínimo: la CGT y las CTA abandonaron el encuentro y el Gobierno fijará el aumento",
           "source": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/08/28/aun-sin-acuerdo-con-los-aliados-a-la-vista-el-gobierno-avanza-con-el-proyecto-para-eliminar-las-paso/",
-          "ago": "hace 40 min"
+          "url": "https://www.infobae.com/politica/2026/08/28/escandaloso-final-del-consejo-del-salario-minimo-la-cgt-y-las-cta-abandonaron-el-encuentro-y-el-gobierno-fijara-el-aumento/",
+          "ago": "hace 6 min"
         },
         {
-          "title": "Enojado, Milei se encierra en sus certezas mientras la economía pone a prueba a la Casa Rosada",
+          "title": "La Corte ratificó una cautelar contra la provincia de Misiones que impide cobros anticipados de impuestos a una empresa yerbatera",
           "source": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/08/28/enojado-milei-se-encierra-en-sus-certezas-mientras-la-economia-pone-a-prueba-a-la-casa-rosada/",
-          "ago": "hace 11 min"
+          "url": "https://www.infobae.com/judiciales/2026/08/28/la-corte-ratifico-una-cautelar-contra-la-provincia-de-misiones-por-cobros-anticipados-de-impuestos-a-una-empresa-yerbatera/",
+          "ago": "hace 13 min"
         },
         {
-          "title": "El planisferio roto de Milei: hacia una política exterior soberana y diversificada en el post-2027",
+          "title": "Precio del dólar hoy en Panamá: cotización de cierre del 28 de agosto",
           "source": "Infobae",
-          "url": "https://www.infobae.com/opinion/2026/08/28/el-planisferio-roto-de-milei-hacia-una-politica-exterior-soberana-y-diversificada-en-el-post-2027/",
-          "ago": "hace 39 min"
+          "url": "https://www.infobae.com/noticias/2026/08/28/precio-del-dolar-hoy-en-panama-cotizacion-de-cierre-del-28-de-agosto/",
+          "ago": "hace 17 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "El presidente de la Reserva Federal de EEUU dijo que la inflación subyacente debe bajar: “De lo contrario, tendremos trabajo por hacer”",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/estados-unidos/2026/08/28/el-presidente-de-la-reserva-federal-de-eeuu-dijo-que-la-inflacion-subyacente-debe-bajar-de-lo-contrario-tendremos-trabajo-por-hacer/",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "Inflación en baja, tasas estables y más crédito: el Gobierno lanzó un plan “sin platita” para reactivar la economía",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/27/inflacion-en-baja-tasas-estables-y-mas-credito-el-gobierno-lanzo-un-plan-sin-platita-para-reactivar-la-economia/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
-          "title": "Licitación clave: por qué el Gobierno acortó los plazos de la deuda en pesos y pausó la emisión de bonos en dólares",
+          "title": "Se aceleró la demanda de dólares: los argentinos compraron la cifra más alta desde las elecciones de 2025",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/28/licitacion-clave-por-que-el-gobierno-acorto-los-plazos-de-la-deuda-en-pesos-y-pauso-la-emision-de-bonos-en-dolares/",
-          "ago": "hace 54 min"
-        },
-        {
-          "title": "Licitación de deuda clave: el Gobierno renovó casi el 100% de los vencimientos y liberó pesos al mercado",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/27/licitacion-de-deuda-clave-el-gobierno-renovo-casi-el-100-de-los-vencimientos-y-libero-pesos-al-mercado/",
-          "ago": "hace 8 h"
+          "url": "https://www.infobae.com/economia/2026/08/28/se-acelero-la-demanda-de-dolares-los-argentinos-compraron-la-cifra-mas-alta-desde-las-elecciones-de-2025/",
+          "ago": "hace 11 min"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Panorama complicado: solo tres equipos argentinos siguen con vida e…",
-      "value": "hace 6 h"
+      "detail": "Así quedó el hall de la Bombonera y así lo encontrarán los socios e…",
+      "value": "hace 22 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Exequiel Palacios ya está en Ipswich Town y mantiene su número",
-      "value": "hace 8 h"
+      "detail": "Nació en España, lo sigue Scaloni y ahora jugará en Francia",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Vowles on Sainz's 'unique' trait aiding Williams",
+      "detail": "Why Aston Martin is bringing house music to F1 fans",
       "value": "hace 1 min"
     }
   ]
