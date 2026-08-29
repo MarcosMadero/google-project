@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:25:50.279Z",
+  "generatedAt": "2026-08-29T14:06:29.543Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Muere Dolly Parton, la leyenda del country que conquistó a millones cantando desde el corazón",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         },
         {
           "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 min"
+          "ago": "hace 11 h"
         },
         {
           "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una plebeya y reformó la monarquía de su país",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 19 h"
+          "ago": "hace 1 d"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "China desafía a Samsung y SK hynix: YMTC aspira a dominar el mercado mundial de chips NAND en 2027",
+          "title": "La IA no ha acabado con los radiólogos: \"Decidimos qué es importante y qué no, el juicio clínico no es automatizable\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/china-desafia-a-samsung-sk-hynix-ymtc-aspira-a-dominar-mercado-mundial-chips-nand-2027",
-          "ago": "hace 14 h"
+          "url": "https://www.xataka.com/medicina-y-salud/ia-no-ha-acabado-radiologos-decidimos-que-importante-que-no-juicio-clinico-no-automatizable",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Android pondrá límite a la RAM que pueden gastar las apps. Es una gran noticia para la gama baja",
+          "title": "Cambié mi móvil de 1.500 euros por uno de 40 euros que ni siquiera tiene WhatsApp. Mereció la pena",
           "source": "Xataka",
-          "url": "https://www.xataka.com/moviles/android-pondra-limite-a-ram-que-pueden-gastar-apps-gran-noticia-para-gama-baja",
-          "ago": "hace 7 h"
+          "url": "https://www.xataka.com/analisis/cambie-mi-movil-1-500-euros-uno-40-euros-que-siquiera-tiene-whatsapp-merecio-pena",
+          "ago": "hace 5 min"
         },
         {
-          "title": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
+          "title": "\"Si me ves, llora\". La sequía europea está haciendo reaparecer piedras grabadas hace siglos para advertir de futuras hambrunas",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
-          "ago": "hace 8 h"
+          "url": "https://www.xataka.com/magnet/me-ves-llora-sequia-europea-esta-haciendo-reaparecer-piedras-grabadas-hace-siglos-para-advertir-futuras-hambrunas",
+          "ago": "hace 35 min"
         }
       ]
     },
@@ -53,21 +53,21 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "El dólar supera los 27 lempiras y el BCH pide calma a los hondureños",
+          "title": "Allanaron a las familias de los alumnos que fueron armados a dos colegios de Tucumán: secuestraron pistolas y municiones",
           "source": "Infobae",
-          "url": "https://www.infobae.com/honduras/2026/08/29/el-dolar-supera-los-27-lempiras-y-el-bch-pide-calma-a-los-hondurenos/",
-          "ago": "hace 51 min"
+          "url": "https://www.infobae.com/sociedad/policiales/2026/08/29/allanaron-a-las-familias-de-los-alumnos-que-fueron-armados-a-dos-colegios-de-tucuman-secuestraron-pistolas-y-municiones/",
+          "ago": "hace 12 min"
         },
         {
-          "title": "Qué contamina más: un auto eléctrico o uno de gasolina, esto reveló el MIT",
+          "title": "Cinco beneficios de levantar pesas livianas para la salud y el envejecimiento",
           "source": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/08/29/que-contamina-mas-un-auto-electrico-o-uno-de-gasolina-esto-revelo-el-mit/",
-          "ago": "hace 9 min"
+          "url": "https://www.infobae.com/salud/2026/08/29/cinco-beneficios-de-levantar-pesas-livianas-para-la-salud-y-el-envejecimiento/",
+          "ago": "hace 13 min"
         },
         {
-          "title": "La longevidad en la superpoblada India fuerza a rediseñar la vejez cuando las redes familiares se debilitan",
+          "title": "Gemini puede convertir tus hojas de cálculo en apps interactivas con su nueva función de IA",
           "source": "Infobae",
-          "url": "https://www.infobae.com/generacion-silver/2026/08/29/la-longevidad-en-la-superpoblada-india-fuerza-a-redisenar-la-vejez-cuando-las-redes-familiares-se-debilitan/",
+          "url": "https://www.infobae.com/tecno/2026/08/29/gemini-puede-convertir-tus-hojas-de-calculo-en-apps-interactivas-con-su-nueva-funcion-de-ia/",
           "ago": "hace 19 min"
         }
       ]
@@ -79,7 +79,7 @@
           "title": "El presidente de la Reserva Federal de EEUU dijo que la inflación subyacente debe bajar: “De lo contrario, tendremos trabajo por hacer”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/estados-unidos/2026/08/28/el-presidente-de-la-reserva-federal-de-eeuu-dijo-que-la-inflacion-subyacente-debe-bajar-de-lo-contrario-tendremos-trabajo-por-hacer/",
-          "ago": "hace 13 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Inflación en baja, tasas estables y más crédito: el Gobierno lanzó un plan “sin platita” para reactivar la economía",
@@ -88,10 +88,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Se aceleró la demanda de dólares: los argentinos compraron la cifra más alta desde las elecciones de 2025",
+          "title": "El Gobierno dejó que el dólar supere los $1.500 en una semana en la que subieron bonos y acciones",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/28/se-acelero-la-demanda-de-dolares-los-argentinos-compraron-la-cifra-mas-alta-desde-las-elecciones-de-2025/",
-          "ago": "hace 7 h"
+          "url": "https://www.infobae.com/economia/2026/08/29/el-gobierno-dejo-que-el-dolar-supere-los-1500-en-una-semana-en-la-que-subieron-bonos-y-acciones/",
+          "ago": "hace 10 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El uno por uno del triunfo agónico de Boca contra Lanús",
-      "value": "hace 44 min"
+      "detail": "Paredes y su confesión tras el triunfo de Boca: “Jugué un poco cagado”",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Nació en España, lo sigue Scaloni y ahora jugará en Francia",
-      "value": "hace 8 h"
+      "value": "hace 19 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Aston Martin is bringing house music to F1 fans",
+      "detail": "Why Norris has committed to McLaren for the long term",
       "value": "hace 1 min"
     }
   ]
