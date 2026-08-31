@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:36:03.924Z",
+  "generatedAt": "2026-08-31T21:22:45.593Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,13 +10,13 @@
           "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 13 h"
+          "ago": "hace 17 h"
         },
         {
           "title": "EE.UU. bombardea lanzadores iraníes en la isla de Larek en el primer ataque en semanas",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cly4e67lzpgo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/cuando-microsoft-miro-que-gastaba-cada-empleado-ia-descubrio-algo-alguien-habia-quemado-28-000-dolares-mes",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "El mercado de la vivienda está tan roto que ha llegado a un sinsentido: se vende menos, pero los pisos nunca habían sido tan caros",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/espana-se-vende-vivienda-hoy-que-hace-ano-eso-ha-evitado-que-metro-cuadrado-se-dispare-a-2-100-euros",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "BYD se ha propuesto inundar el mercado mundial de coches con un motivo muy simple: sobrevivir",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/primera-vez-exportaciones-byd-facturan-que-sus-ventas-china-dato-que-dice-mucho-su-futuro",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "Encuentran 544 kilos de proyectiles de la Guerra Civil enterrados en un pueblo de Castellón de 51 habitantes",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/encuentran-544-kilos-proyectiles-guerra-civil-enterrados-pueblo-castellon-51-habitantes",
           "ago": "hace 7 h"
-        },
-        {
-          "title": "Ceuta era de Portugal. El problema es que nadie la reclamó y Felipe II se la metió en el bolsillo",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/ceuta-era-portugal-problema-que-nadie-reclamo-felipe-ii-se-metio-bolsillo",
-          "ago": "hace 4 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Anticipar atentados terroristas",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/editoriales/anticipar-atentados-terroristas-nid31082026/",
-          "ago": "hace 14 h"
+          "title": "LLA busca monitorear la oficina clave del Congreso para saber el impacto fiscal de las leyes",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/08/31/lla-busca-monitorear-la-oficina-clave-del-congreso-para-saber-el-impacto-fiscal-de-las-leyes/",
+          "ago": "hace 10 min"
         },
         {
-          "title": "Los patéticos cómplices de un Milei escatológico",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/opinion/los-pateticos-complices-de-un-milei-escatologico-nid29082026/",
-          "ago": "hace 2 d"
+          "title": "Precio del dólar hoy en Canadá: cotización de cierre del 31 de agosto",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/noticias/2026/08/31/precio-del-dolar-hoy-en-canada-cotizacion-de-cierre-del-31-de-agosto/",
+          "ago": "hace 20 min"
         },
         {
-          "title": "El oficio de narrar en la penumbra",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/lifestyle/el-oficio-de-narrar-en-la-penumbra-nid31082026/",
-          "ago": "hace 7 h"
+          "title": "Precio del dólar hoy en Guatemala: cotización de cierre del 31 de agosto",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/noticias/2026/08/31/precio-del-dolar-hoy-en-guatemala-cotizacion-de-cierre-del-31-de-agosto/",
+          "ago": "hace 21 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El Gobierno postergó hasta octubre el aumento de los impuestos a los combustibles para evitar un salto en la inflación",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "El presidente de la Reserva Federal de EEUU dijo que la inflación subyacente debe bajar: “De lo contrario, tendremos trabajo por hacer”",
@@ -88,10 +88,10 @@
           "ago": "hace 3 d"
         },
         {
-          "title": "La economía de Milei mantiene las dos velocidades: qué pasó en los gobiernos anteriores",
+          "title": "¿Vuelve la F1?: Milei criticó la antigüedad del parque automotor como defensa de la baja de impuestos a los 0 km de su gestión",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/31/la-economia-de-milei-mantiene-las-dos-velocidades-que-paso-en-los-gobiernos-anteriores/",
-          "ago": "hace 4 h"
+          "url": "https://www.infobae.com/economia/2026/08/31/vuelve-la-f1-milei-critico-la-antiguedad-del-parque-automotor-como-defensa-de-la-baja-de-impuestos-a-los-0-km-de-su-gestion/",
+          "ago": "hace 15 min"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Del Changuito a Chango: los momentos clave de la carrera de Exequie…",
-      "value": "hace 2 h"
+      "detail": "Armá tu 11 de Boca ante Vélez",
+      "value": "hace 26 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Messi a través de los 30 años de Olé: una conexión única",
-      "value": "hace 12 min"
+      "detail": "El conmovedor mensaje que De Paul le dedicó a Messi por su despedid…",
+      "value": "hace 27 min"
     },
     {
       "team": "Fórmula 1",
