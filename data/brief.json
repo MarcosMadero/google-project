@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:54:52.841Z",
+  "generatedAt": "2026-09-01T13:51:02.755Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,21 +7,21 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgy73en40eo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Por qué la reserva estratégica de petróleo de EE.UU. está en su nivel más bajo desde 1983 y cómo influye en el polémico acuerdo con Venezuela",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c980yn9rv68o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 16 h"
         },
         {
           "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
-        },
-        {
-          "title": "EE.UU. bombardea lanzadores iraníes en la isla de Larek en el primer ataque en semanas",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cly4e67lzpgo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 d"
         }
       ]
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
+          "title": "Dependemos del GPS para conducir, cultivar y mover mercancías. El Sol acaba de recordarnos lo frágil que es",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/cuando-microsoft-miro-que-gastaba-cada-empleado-ia-descubrio-algo-alguien-habia-quemado-28-000-dolares-mes",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/espacio/dependemos-gps-para-conducir-cultivar-mover-mercancias-sol-acaba-recordarnos-fragil-que",
+          "ago": "hace 2 h"
         },
         {
-          "title": "El mercado de la vivienda está tan roto que ha llegado a un sinsentido: se vende menos, pero los pisos nunca habían sido tan caros",
+          "title": "Estos son los mejores chollos que hemos encontrado en el 15 aniversario de Amazon hoy, 1 de septiembre",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/espana-se-vende-vivienda-hoy-que-hace-ano-eso-ha-evitado-que-metro-cuadrado-se-dispare-a-2-100-euros",
-          "ago": "hace 10 h"
+          "url": "https://www.xataka.com/seleccion/estos-mejores-chollos-que-hemos-encontrado-15-aniversario-amazon-hoy-1-septiembre",
+          "ago": "hace 5 min"
         },
         {
-          "title": "BYD se ha propuesto inundar el mercado mundial de coches con un motivo muy simple: sobrevivir",
+          "title": "Stephen Hawking: \"Cada uno de nosotros vive solo un breve periodo de tiempo, y solo visitamos apenas una minúscula parte del universo\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/primera-vez-exportaciones-byd-facturan-que-sus-ventas-china-dato-que-dice-mucho-su-futuro",
-          "ago": "hace 11 h"
+          "url": "https://www.xataka.com/espacio/stephen-hawking-cada-uno-nosotros-vive-solo-breve-periodo-tiempo-solo-visitamos-apenas-minuscula-parte-universo",
+          "ago": "hace 19 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Fernando de Andreis habló de las reuniones del PRO con el Gobierno: “Imagino una fórmula Jorge Macri-Pilar Ramírez”",
+          "title": "Juicio por la Causa de los Cuadernos, en vivo: declaró el expresidente de la empresa SIDOR en Venezuela",
           "source": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/09/01/fernando-de-andreis-hablo-de-las-reuniones-del-pro-con-el-gobierno-imagino-una-formula-jorge-macri-pilar-ramirez/",
-          "ago": "hace 13 min"
+          "url": "https://www.infobae.com/judiciales/2026/09/01/juicio-por-la-causa-de-los-cuadernos-en-vivo-las-ultimas-noticias-de-hoy-1-de-septiembre-minuto-a-minuto/",
+          "ago": "hace 16 min"
         },
         {
-          "title": "“Estoy más triste que cuando murió mi abuelo”: los testimonios de la gente a Infobae tras el retiro de Messi de la Selección",
+          "title": "Video | Exarquero de Colombia recordó su duelo ante Lionel Messi, tras su anuncio de retiro de la selección Argentina: “No fue difícil” - Clone",
           "source": "Infobae",
-          "url": "https://www.infobae.com/sociedad/2026/09/01/estoy-mas-triste-que-cuando-murio-mi-abuelo-los-testimonios-de-la-gente-a-infobae-tras-el-retiro-de-messi-de-la-seleccion/",
-          "ago": "hace 14 min"
+          "url": "https://www.infobae.com/arc-support/2026/09/01/video-exarquero-de-colombia-recordo-su-duelo-ante-lionel-messi-tras-su-anuncio-de-retiro-de-la-seleccion-argentina-no-fue-dificil-clone/",
+          "ago": "hace 2 min"
         },
         {
-          "title": "Tragedia en Lanús: manipulaba un arma, se le escapó un tiro y mató a su sobrina de 11 meses",
+          "title": "\"Más dinamismo\": Javier Milei reúne a su Gabinete en Casa Rosada e inaugura una nueva modalidad de encuentros semanales",
           "source": "Infobae",
-          "url": "https://www.infobae.com/sociedad/policiales/2026/09/01/tragedia-en-lanus-manipulaba-un-arma-se-le-escapo-un-tiro-y-mato-a-su-sobrina-de-11-meses/",
-          "ago": "hace 12 min"
+          "url": "https://www.infobae.com/politica/2026/09/01/mas-dinamismo-javier-milei-reune-a-su-gabinete-en-casa-rosada-e-inaugura-una-nueva-modalidad-de-encuentros-semanales/",
+          "ago": "hace 11 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno postergó hasta octubre el aumento de los impuestos a los combustibles para evitar un salto en la inflación",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
-          "ago": "hace 11 h"
+          "ago": "hace 1 d"
         },
         {
-          "title": "El presidente de la Reserva Federal de EEUU dijo que la inflación subyacente debe bajar: “De lo contrario, tendremos trabajo por hacer”",
+          "title": "Se aceleró la dolarización a más de un año de las elecciones: ¿es USD 3.000 millones un nuevo piso?",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/estados-unidos/2026/08/28/el-presidente-de-la-reserva-federal-de-eeuu-dijo-que-la-inflacion-subyacente-debe-bajar-de-lo-contrario-tendremos-trabajo-por-hacer/",
-          "ago": "hace 3 d"
+          "url": "https://www.infobae.com/economia/2026/09/01/se-acelero-la-dolarizacion-a-mas-de-un-ano-de-las-elecciones-es-usd-3000-millones-un-nuevo-piso/",
+          "ago": "hace 8 h"
         },
         {
-          "title": "¿Vuelve la F1?: Milei criticó la antigüedad del parque automotor como defensa de la baja de impuestos a los 0 km de su gestión",
+          "title": "Riesgo país, petróleo y elecciones: los desafíos que enfrenta la Argentina y que definen el pulso del mercado",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/08/31/vuelve-la-f1-milei-critico-la-antiguedad-del-parque-automotor-como-defensa-de-la-baja-de-impuestos-a-los-0-km-de-su-gestion/",
-          "ago": "hace 4 h"
+          "url": "https://www.infobae.com/economia/2026/09/01/riesgo-pais-petroleo-y-elecciones-los-desafios-que-enfrenta-la-argentina-y-que-definen-el-pulso-del-mercado/",
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Cómo sigue la Copa Argentina",
-      "value": "hace 1 h"
+      "detail": "La señal de alerta en Boca en el inicio de una nueva seguidilla",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "El legado de Messi: ¿quién nos quita lo jugado?",
-      "value": "hace 58 min"
+      "detail": "La lista de los 182 compañeros con los que Messi compartió cancha e…",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Italian Grand Prix betting guide and latest odds",
+      "detail": "What do McLaren’s newest upgrades tell us ahead of Monza?",
       "value": "hace 1 min"
     }
   ]
