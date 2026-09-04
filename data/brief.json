@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:42:31.151Z",
+  "generatedAt": "2026-09-04T13:04:00.380Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Milei anuncia sanciones a petroleras en las Malvinas/Falklands y la construcción de una base naval en Tierra del Fuego",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgypk9lx1no?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "El hombre que ha vivido 271 días con un riñón de cerdo, un récord para una persona con un órgano de otra especie",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn74x1261edo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "\"Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cy4zvelnynyo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "Muere a los 33 años la \"hermosa y vibrante\" estrella de Disney Carla Jeffery",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/clym2vyjy81o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
-        },
-        {
-          "title": "Muere a los 92 años Gloria Steinem, el ícono feminista de EE.UU. que se infiltró en un club de Playboy para denunciar las duras condiciones de sus empleadas",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cgk5g72nml0o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 12 h"
+          "ago": "hace 16 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La nueva película bélica de Nicolas Cage provocó una demanda de 105 millones de dólares: primer tráiler de 'Fortitude'",
+          "title": "Jeff Bezos se fue a Miami para pagar menos impuestos. Ahora tiene otro problema: una multa de 244.000 dólares por aparcar su avión",
           "source": "Xataka",
-          "url": "https://www.xataka.com/cine-y-tv/nueva-pelicula-belica-nicolas-cage-provoco-demanda-105-millones-dolares-primer-trailer-fortitude",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/transporte/jeff-bezos-se-fue-a-miami-para-pagar-impuestos-ahora-tiene-otro-problema-multa-244-000-dolares-aparcar-su-avion",
+          "ago": "hace 48 min"
         },
         {
-          "title": "En plena crisis europea de la cerveza, España bebe y fabrica más que antes de la pandemia. El secreto: sacar el alcohol de la ecuación",
+          "title": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/plena-crisis-europea-cerveza-espana-bebe-fabrica-que-antes-pandemia-secreto-sacar-alcohol-ecuacion",
-          "ago": "hace 7 h"
+          "url": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
+          "ago": "hace 4 h"
         },
         {
-          "title": "Ecovacs presenta su nuevo buque insignia: el Deebot X12S OmniCyclone estrena base sin bolsas, succión de 53 AW y desinfección de ácaros",
+          "title": "Whoop o la Fitbit Air de Google tienen nueva rival: una nueva pulsera sin pantalla que no necesita suscripción",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/ecovacs-presenta-su-nuevo-buque-insignia-deebot-x12s-omnicyclone-estrena-base-bolsas-succion-53-aw-desinfeccion-acaros",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/seleccion/whoop-fitbit-air-google-tienen-nueva-rival-nueva-pulsera-pantalla-que-no-necesita-suscripcion",
+          "ago": "hace 18 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Habla Javier Milei en cadena nacional por Malvinas, EN VIVO: “Es la causa más sagrada de los argentinos”, anticipó el presidente",
+          "title": "Las petroleras que operan en Malvinas le respondieron a Milei y aseguraron que las sanciones no frenarán el proyecto",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/",
-          "ago": "hace 21 min"
+          "url": "https://www.lanacion.com.ar/economia/las-petroleras-que-operan-en-malvinas-desafiaron-las-sanciones-de-milei-y-ratificaron-que-avanzaran-nid04092026/",
+          "ago": "hace 15 min"
         },
         {
-          "title": "El pedido del CASI antes del juicio por el asesinato de Federico Martín Aramburú",
+          "title": "Javier Milei y sus medidas, en vivo: “Los isleños no tienen derecho legítimo a la autodeterminación”, dijo el Presidente",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/deportes/rugby/el-pedido-del-casi-antes-del-juicio-por-el-asesinato-de-federico-martin-aramburu-nid03092026/",
-          "ago": "hace 47 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-corren-vientos-de-cambio-respecto-a-la-nid04092026/",
+          "ago": "hace 17 min"
         },
         {
-          "title": "Bradley Barcola, una explosión de 166 millones: el crack tatuado que aprendió a jugar en el barro y que Luis Enrique no pudo frenar",
+          "title": "Murió a los 33 años Carla Jeffery, recordada actriz de Disney",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/bradley-barcola-una-explosion-de-166-millones-el-crack-tatuado-que-aprendio-a-jugar-en-el-barro-y-nid03092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/espectaculos/murio-la-actriz-de-disney-carla-jeffery-a-los-33-anos-nid03092026/",
+          "ago": "hace 32 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno enviará un proyecto al Congreso para liberar de impuestos a la nuevas inversiones en rutas nacionales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/02/el-gobierno-enviara-un-proyecto-al-congreso-para-liberar-de-impuestos-a-la-nuevas-inversiones-en-rutas-nacionales/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "El Congreso de Brasil aprobó una ley para impulsar la extracción de minerales críticos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/america/america-latina/2026/09/03/el-congreso-de-brasil-aprobo-una-ley-para-impulsar-la-extraccion-de-minerales-criticos/",
-          "ago": "hace 10 h"
+          "ago": "hace 23 h"
         },
         {
           "title": "El descenso más acelerado de la inflación ayudaría a revertir en los próximos meses el repunte de la pobreza",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/03/el-descenso-mas-acelerado-de-la-inflacion-ayudaria-a-revertir-en-los-proximos-meses-el-repunte-de-la-pobreza/",
-          "ago": "hace 18 h"
+          "ago": "hace 1 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La Conmebol dio a conocer a los árbitros para la ida de los cuartos…",
-      "value": "hace 25 min"
+      "detail": "El consejo que Navarro Montoya le quiere dar a Montero sobre el arc…",
+      "value": "hace 13 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "El contundente resultado de la encuesta de Olé: ¿dónde debería juga…",
-      "value": "hace 1 h"
+      "value": "hace 14 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Tsunoda feels ‘like a rookie’ for Racing Bulls return",
+      "detail": "F1 Live to return in 2027 with unmissable Milan fan event",
       "value": "hace 1 min"
     }
   ]
