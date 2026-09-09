@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:18:11.709Z",
+  "generatedAt": "2026-09-09T19:09:55.537Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "\"¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?\": la preocupación de padres palestinos por el aumento de los ataques a escuelas",
+          "title": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1mvpng28epo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "\"Una fuerza destructiva\": el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy0zq18n2k1o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "\"¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?\": la preocupación de padres palestinos por el aumento de los ataques a escuelas en Cisjordania",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c07ld7zd092o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "Reino Unido anuncia sanciones contra los colonos judíos en Cisjordania y provoca una airada respuesta de Israel",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 18 h"
-        },
-        {
-          "title": "Qué es Sea Lion, el proyecto petrolero señalado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cvgy51v7281o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
+          "ago": "hace 15 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Apple Watch Series 12 y Ultra 4: el gran salto está en salud, pero ahora también pueden recordar lo que hemos hablado",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/wearables/apple-watch-series-12-watch-ultra-4-caracteristicas-precio-ficha-tecnica",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "La empresa detrás de las regañás y picos tostados de Mercadona se llama Anitín y está multiplicando sus beneficios",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/empresa-detras-reganas-picos-tostados-mercadona-se-llama-anitin-esta-multiplicando-sus-beneficios",
-          "ago": "hace 17 min"
+          "ago": "hace 6 h"
         },
         {
-          "title": "Solo dos de cada diez españoles creen que los impuestos son justos: el debate no es cuánto se paga sino quién parece escaquearse",
+          "title": "El chip Apple C2 no es sólo el motor de las comunicaciones del iPhone Duo: es un salvavidas para la batería",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/solo-dos-cada-diez-espanoles-creen-que-impuestos-justos-debate-no-cuanto-se-paga-sino-quien-parece-escaquearse",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "\"El trasvase Tajo-Segura va a seguir siendo irrenunciable\" pese a la indignación en Toledo",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/tajo-segura-acaba-firmar-su-cuarto-mejor-ano-problema-que-quiza-no-vuelva-a-repetirse",
-          "ago": "hace 3 h"
+          "url": "https://www.xataka.com/moviles/chip-apple-c2-no-solo-motor-comunicaciones-iphone-duo-salvavidas-para-bateria",
+          "ago": "hace 9 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Malvinas: el Gobierno evalúa extender las sanciones a las pesqueras en la ley que enviará al Congreso",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-evalua-extender-las-sanciones-a-las-pesqueras-en-la-ley-que-enviara-al-congreso-nid09092026/",
+          "ago": "hace 39 min"
+        },
+        {
           "title": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
-          "ago": "hace 7 min"
+          "ago": "hace 20 min"
         },
         {
           "title": "Juicio por el crimen de Federico Martín Aramburú, EN VIVO: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-en-vivo-que-se-sabe-de-los-acusados-por-el-nid09092026/",
-          "ago": "hace 55 min"
-        },
-        {
-          "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-          "ago": "hace 2 h"
+          "ago": "hace 4 min"
         }
       ]
     },
@@ -82,16 +82,16 @@
           "ago": "hace 2 d"
         },
         {
+          "title": "Wall Street y las bolsas europeas caen tras el salto del petróleo a más de 100 dólares por la guerra en Medio Oriente",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/america/mundo/2026/09/09/wall-street-y-las-bolsas-europeas-caen-despues-de-que-el-petroleo-supero-los-100-dolares-por-la-guerra-entre-estados-unidos-e-iran/",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "A cuánto llegarán el dólar y la inflación a fin de 2026, según los principales analistas de mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/08/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-2026-segun-los-principales-analistas-de-mercado/",
           "ago": "hace 1 d"
-        },
-        {
-          "title": "Pese al consumo débil, Milei evitó la crisis del tercer año y se mantiene competitivo de cara a las elecciones del 2027",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/06/pese-al-consumo-debil-milei-evito-la-crisis-del-tercer-ano-y-se-mantiene-competitivo-de-cara-a-las-elecciones-del-2027/",
-          "ago": "hace 3 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Alerta Boca: Álvaro Montero se fue de urgencia a Colombia",
-      "value": "hace 1 h"
+      "detail": "El medio equipo tocado que tiene Boca y un duro pronóstico: \"Los so…",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "La Selección Argentina define amistosos y aparece un rival conocido…",
-      "value": "hace 9 h"
+      "detail": "¿Por qué se armó ruido entre dos Leonas campeonas y Messi?",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "8 of the best debut Grands Prix in F1 history",
+      "detail": "How the new Madring circuit looks ahead of its inaugural GP",
       "value": "hace 1 min"
     }
   ]
