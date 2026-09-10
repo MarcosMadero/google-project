@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:41:40.582Z",
+  "generatedAt": "2026-09-10T13:15:30.955Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Drones, ciberataques y desinformación: la \"guerra híbrida\" de la que se acusa a Rusia en Europa",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5yw3wqw35no?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 9 h"
+        },
+        {
           "title": "\"Una montaña rusa de emociones\": miembros del jurado del caso Lindsay Clancy hablan sobre el desacuerdo que llevó a la anulación del juicio",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx2zx7lwrk3o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 h"
+          "ago": "hace 15 h"
         },
         {
-          "title": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
+          "title": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c1mvpng28epo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "\"Una fuerza destructiva\": el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy0zq18n2k1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
+          "url": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Apple Watch Series 12 y Ultra 4: el gran salto está en salud, pero ahora también pueden recordar lo que hemos hablado",
+          "title": "La pregunta no es si la tortilla debe o no llevar cebolla, sino por qué seguimos debatiéndolo en 2026: el 71% ya opina lo mismo",
           "source": "Xataka",
-          "url": "https://www.xataka.com/wearables/apple-watch-series-12-watch-ultra-4-caracteristicas-precio-ficha-tecnica",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/magnet/pregunta-no-tortilla-debe-no-llevar-cebolla-sino-que-seguimos-debatiendolo-2026-71-opina",
+          "ago": "hace 14 min"
         },
         {
-          "title": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, AirPods 5 y todas las novedades del evento de Apple",
+          "title": "Han contado cuántos NPC hay en GTA VI y lo sorprendente no es la cantidad, sino que cada uno podría protagonizar su propio juego",
           "source": "Xataka",
-          "url": "https://www.xataka.com/eventos/iphone-duo-iphone-18-pro-apple-watch-series-12-apple-watch-ultra-4-airpods-5-todas-novedades-evento-apple",
-          "ago": "hace 3 h"
+          "url": "https://www.xataka.com/videojuegos/han-contado-cuantos-npc-hay-gta-vi-sorprendente-no-cantidad-sino-que-cada-uno-podria-protagonizar-su-propio-juego",
+          "ago": "hace 28 min"
         },
         {
-          "title": "Si quieres un iPhone asequible, te costará más que ayer: Apple sube de precios toda la gama iPhone incluso modelos \"viejos\"",
+          "title": "China nunca había desplegado tantos aviones militares fuera de casa. Lo ha hecho frente al ejército más poderoso de África",
           "source": "Xataka",
-          "url": "https://www.xataka.com/moviles/quieres-iphone-asequible-te-costara-que-ayer-apple-sube-precios-toda-gama-iphone-incluso-modelos-viejos",
-          "ago": "hace 4 h"
+          "url": "https://www.xataka.com/magnet/china-nunca-habia-desplegado-aviones-militares-fuera-casa-ha-hecho-frente-al-ejercito-poderoso-africa",
+          "ago": "hace 44 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: “Obvio que odia a nuestro gobierno”: el Presidente apuntó contra una periodista",
+          "title": "Malvinas: el Gobierno evalúa extender las sanciones a las pesqueras en la ley que enviará al Congreso",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
+          "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-evalua-extender-las-sanciones-a-las-pesqueras-en-la-ley-que-enviara-al-congreso-nid09092026/",
+          "ago": "hace 31 min"
+        },
+        {
+          "title": "Juicio por el crimen de Federico Martín Aramburú: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-que-se-sabe-de-los-acusados-por-el-asesinato-a-nid10092026/",
           "ago": "hace 22 min"
         },
         {
-          "title": "Juicio por el crimen de Federico Martín Aramburú, EN VIVO: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
+          "title": "Javier Milei y sus medidas, en vivo: “Fenómeno barrial” y “extraordinario”, la reacción del Presidente ante mensajes de dos funcionarios de Trump",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-en-vivo-que-se-sabe-de-los-acusados-por-el-nid09092026/",
-          "ago": "hace 7 min"
-        },
-        {
-          "title": "Elecciones: cuándo se vota para presidente en Brasil 2026",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
-          "ago": "hace 9 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-fenomeno-barrial-y-extraordinario-la-reaccion-del-presidente-ante-nid10092026/",
+          "ago": "hace 31 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "Los mercados globales, cada vez más condicionados por la inflación en EEUU y la decisión de tasas de la Fed",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/07/los-mercados-globales-cada-vez-mas-condicionados-por-la-inflacion-en-eeuu-y-la-decision-de-tasas-de-la-fed/",
-          "ago": "hace 2 d"
-        },
-        {
           "title": "Wall Street y las bolsas europeas caen tras el salto del petróleo a más de 100 dólares por la guerra en Medio Oriente",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/america/mundo/2026/09/09/wall-street-y-las-bolsas-europeas-caen-despues-de-que-el-petroleo-supero-los-100-dolares-por-la-guerra-entre-estados-unidos-e-iran/",
-          "ago": "hace 9 h"
+          "ago": "hace 22 h"
         },
         {
           "title": "A cuánto llegarán el dólar y la inflación a fin de 2026, según los principales analistas de mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/08/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-2026-segun-los-principales-analistas-de-mercado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
+        },
+        {
+          "title": "Morosidad récord: las mujeres menores de 25 años tienen las tasas de incumplimiento más altas del país",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/09/10/morosidad-record-las-mujeres-menores-de-25-anos-tienen-las-tasas-de-incumplimiento-mas-altas-del-pais/",
+          "ago": "hace 16 min"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El refuerzo esperado que sumó el Vasco Arruabarrena al plantel de Boca",
-      "value": "hace 4 h"
+      "detail": "Boca, EN VIVO: la venta de Zenón, el 11 y los cambios del Vasco vs.…",
+      "value": "hace 27 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "¿Por qué se armó ruido entre dos Leonas campeonas y Messi?",
-      "value": "hace 8 h"
+      "value": "hace 21 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "How the new Madring circuit looks ahead of its inaugural GP",
+      "detail": "Everything you need to know about the Madring",
       "value": "hace 1 min"
     }
   ]
