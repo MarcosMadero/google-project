@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:42:48.484Z",
+  "generatedAt": "2026-09-12T12:33:25.462Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 1 min"
         },
         {
+          "title": "Cómo el rápido avance de los hutíes en Yemen puede sumar una nueva y peligrosa dimensión a la guerra de Irán",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/crr4elkypzyo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Por qué en 2026 se ha batido el récord de días sin huracanes en el Atlántico y qué tiene que ver El Niño",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cpwl1l5e0jzo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
-        },
-        {
-          "title": "EN VIDEO: minuto a minuto de cómo fueron los ataques del 11-S",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
+          "ago": "hace 20 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Nadie habla del fabricante de chips de memoria casi desconocido que quiere aliviar la crisis: Nanya Technology",
+          "title": "La guerra de drones acaba de entrar en su fase más darwiniana: China está fabricando en masa un depredador que viaja a 320 km/h para cazarlos",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nadie-habla-fabricante-chips-memoria-casi-desconocido-que-quiere-aliviar-crisis-nanya-technology",
-          "ago": "hace 11 h"
+          "url": "https://www.xataka.com/magnet/guerra-drones-acaba-entrar-su-fase-darwiniana-china-esta-fabricando-masa-depredador-para-cazarlos",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
+          "title": "El club más exclusivo del planeta sigue creciendo: 4.000 multimillonarios ya concentran 15 billones de dólares en riqueza",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
-          "ago": "hace 13 h"
-        },
-        {
-          "title": "Comprar un juego de PC antes también significaba tener una caja enorme en la estantería. GOG quiere recuperar eso",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/videojuegos/comprar-juego-pc-antes-tambien-significaba-tener-caja-enorme-estanteria-gog-quiere-recuperar-eso",
+          "url": "https://www.xataka.com/empresas-y-economia/club-exclusivo-planeta-sigue-creciendo-4-000-multimillonarios-concentran-15-billones-dolares-riqueza",
           "ago": "hace 4 h"
+        },
+        {
+          "title": "Los nuevos iPhone 18 Pro y 18 Pro Max ya se pueden reservar en España: dónde comprarlos hoy antes de que se agoten",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/seleccion/nuevos-iphone-18-pro-18-pro-max-se-pueden-reservar-espana-donde-comprarlos-hoy-se-agoten",
+          "ago": "hace 16 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Juicio por el crimen de Federico Martín Aramburú: qué se sabe de los acusados por el asesinato a sangre fría en París del expuma",
+          "title": "Un temporal en Misiones provocó destrozos y cortes de luz: murió un hombre de 42 años",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/juicio-por-el-crimen-de-federico-martin-aramburu-que-se-sabe-de-los-acusados-por-el-asesinato-a-nid11092026/",
-          "ago": "hace 2 min"
+          "url": "https://www.lanacion.com.ar/sociedad/un-temporal-en-misiones-provoco-destrozos-y-cortes-de-luz-murio-un-hombre-de-42-anos-nid12092026/",
+          "ago": "hace 11 min"
         },
         {
-          "title": "Javier Milei y sus medidas, en vivo: “La Argentina que queremos se construye en las aulas”, dijo el Presidente",
+          "title": "Trump alertó que otro conflicto entre la Argentina y Reino Unido sería un “potencial desastre”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tras-la-inflacion-de-agosto-el-presidente-pidio-que-confien-nid11092026/",
-          "ago": "hace 28 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/trump-dijo-que-esta-dispuesto-a-intervenir-entre-el-reino-unido-y-la-argentina-ante-un-posible-nid12092026/",
+          "ago": "hace 14 min"
         },
         {
-          "title": "El Gobierno renovó toda la deuda que le vence en pesos y bajó la tasa fija",
+          "title": "Cambió el mercado: el negocio de bajo perfil que multiplicó por 20 sus exportaciones y puso al país en un ranking mundial por EE.UU.",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-gobierno-renovo-toda-la-deuda-que-le-vence-en-pesos-y-bajo-la-tasa-fija-nid11092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/campo/cambio-el-mercado-el-negocio-de-bajo-perfil-que-multiplico-por-20-sus-exportaciones-y-puso-al-pais-nid12092026/",
+          "ago": "hace 33 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Tras el dato de inflación en EEUU, los analistas esperan una suba de tasas de la Fed: cómo podría impactar en la Argentina",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/11/tras-el-dato-de-inflacion-en-eeuu-los-analistas-esperan-una-suba-de-tasas-de-la-fed-como-podria-impactar-en-la-argentina/",
-          "ago": "hace 9 h"
+          "ago": "hace 22 h"
         },
         {
-          "title": "Wall Street y las bolsas europeas caen tras el salto del petróleo a más de 100 dólares por la guerra en Medio Oriente",
+          "title": "El futuro del dólar: Economía le dio más poder al BCRA y los analistas creen que el movimiento podría adelantar presiones cambiarias",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/america/mundo/2026/09/09/wall-street-y-las-bolsas-europeas-caen-despues-de-que-el-petroleo-supero-los-100-dolares-por-la-guerra-entre-estados-unidos-e-iran/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/09/12/el-futuro-del-dolar-economia-le-dio-mas-poder-al-bcra-y-los-analistas-creen-que-el-movimiento-podria-adelantar-presiones-cambiarias/",
+          "ago": "hace 8 h"
         },
         {
-          "title": "Mercados: el riesgo país cayó a su nivel mínimo en un mes y la Bolsa porteña cortó la racha alcista",
+          "title": "Del phishing al temor por los datos críticos: expresidentes, expertos y funcionarios alertaron sobre los riesgos de los ataques con IA",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/11/mercados-suben-los-bonos-argentinos-y-el-riesgo-pais-cae-su-nivel-minimo-en-un-mes/",
-          "ago": "hace 2 h"
+          "url": "https://www.infobae.com/economia/2026/09/12/del-phishing-al-temor-por-los-datos-criticos-expresidentes-expertos-y-funcionarios-alertaron-sobre-los-riesgos-de-los-ataques-con-ia/",
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Qué canal de TV transmite Boca vs. Central Córdoba, por el Torneo C…",
-      "value": "hace 41 min"
+      "detail": "Hizo \"cuernitos\" para evitar un gol de Boca, pero sufrió un 3-1 en …",
+      "value": "hace 52 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "La Selección post Mundial: cuándo dan la primera lista, la demora e…",
-      "value": "hace 2 h"
+      "value": "hace 15 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Can Mercedes stay ahead of their rivals at the Madring?",
+      "detail": "Antonelli fastest in Madrid FP3 as Hamilton and Bearman crash",
       "value": "hace 1 min"
     }
   ]
