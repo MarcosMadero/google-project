@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:04:39.061Z",
+  "generatedAt": "2026-09-15T19:35:40.613Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,15 +7,15 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
-        },
-        {
-          "title": "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9dw91d5yx5o?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 d"
         },
         {
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Salir a bolsa significa publicar pérdidas, deudas y compromisos cada trimestre. OpenAI ha decidido que este no es un buen momento",
+          "title": "Vivió hasta los 103 años, actuó en más de 90 películas y fue nominado a tres Óscar. Hoy su hijo es toda una leyenda de Hollywood",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/cine-y-tv/vivio-103-anos-actuo-90-peliculas-fue-nominado-a-tres-oscar-hoy-su-hijo-toda-leyenda-hollywood",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "OpenAI ya había presentado los papeles para salir a bolsa. Tres meses después, Sam Altman ha encontrado un motivo para no hacerlo",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/salir-a-bolsa-significa-publicar-perdidas-deudas-compromisos-cada-trimestre-openai-ha-decidido-que-este-no-buen-momento",
-          "ago": "hace 34 min"
+          "ago": "hace 6 h"
         },
         {
-          "title": "\"Estadio reparado, barrio arruinado\": tras un mes y 1.700 terremotos, más de 200 personas siguen fuera de su hogar en Granada",
+          "title": "\"No es una película especialmente buena\": el fiasco ochentero de Tom Hanks que \"no recaudó nada de dinero\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/estadio-reparado-barrio-arruinado-mes-1-700-terremotos-200-personas-siguen-fuera-su-hogar-granada",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
-          "ago": "hace 4 min"
+          "url": "https://www.xataka.com/cine-y-tv/no-pelicula-especialmente-buena-fiasco-ochentero-tom-hanks-que-no-recaudo-nada-dinero",
+          "ago": "hace 35 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Es oficial: la Corte Suprema de EE.UU. emitió un fallo de ley sobre el voto por correo en las elecciones 2026",
+          "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 15 de septiembre, minuto a minuto",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/es-oficial-la-corte-suprema-de-eeuu-emitio-un-fallo-de-ley-sobre-el-voto-por-correo-en-las-nid15092026/",
-          "ago": "hace 37 min"
+          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid15092026/",
+          "ago": "hace 17 min"
         },
         {
-          "title": "El Gobierno reúne a la mesa política en la previa al envío del Presupuesto 2027 al Congreso",
+          "title": "Murió una adolescente de 16 años en un recital de K-Pop en San Isidro",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-en-la-previa-al-envio-del-presupuesto-2027-al-congreso-nid15092026/",
-          "ago": "hace 23 min"
+          "url": "https://www.lanacion.com.ar/seguridad/murio-una-adolescente-de-16-anos-en-un-recital-de-k-pop-en-san-isidro-nid15092026/",
+          "ago": "hace 18 min"
         },
         {
-          "title": "La Pampa apeló a la Corte Suprema por un decreto de Milei que le recorta fondos",
+          "title": "Murió Griselda Gambaro, la notable dramaturga que renovó el teatro argentino",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-pampa-apelo-a-la-corte-suprema-por-un-decreto-de-milei-que-le-recorta-fondos-nid15092026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/espectaculos/teatro/murio-griselda-gambaro-la-notable-dramaturga-que-renovo-el-teatro-argentino-nid15092026/",
+          "ago": "hace 36 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Cambio de estrategia: el BCRA recalibra una de sus metas para evitar tensiones sobre el dólar y las tasas",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/15/cambio-de-estrategia-el-bcra-recalibra-una-de-sus-metas-para-evitar-tensiones-sobre-el-dolar-y-las-tasas/",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "El Gobierno privilegia la estabilidad del dólar y la baja de la inflación, pero la economía crecería menos de 2 por ciento",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/13/el-gobierno-privilegia-la-estabilidad-del-dolar-y-la-baja-de-la-inflacion-pero-la-economia-creceria-menos-de-2-por-ciento/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
-          "title": "A cuánto puede llegar el dólar en octubre sin que intervenga el Gobierno según la nueva banda cambiaria",
+          "title": "Presupuesto 2027: el Gobierno prevé una inflación anual del 21,1% y un crecimiento del 4% del PBI",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/15/a-cuanto-puede-llegar-el-dolar-en-octubre-sin-que-intervenga-el-gobierno-segun-la-nueva-banda-cambiaria/",
-          "ago": "hace 8 h"
+          "url": "https://www.infobae.com/economia/2026/09/15/presupuesto-2027-el-gobierno-preve-una-inflacion-anual-del-211-y-un-crecimiento-del-4-del-pbi/",
+          "ago": "hace 3 min"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "A qué hora se juega San Pablo vs. Boca y cómo ver hoy EN VIVO la Co…",
-      "value": "hace 34 min"
+      "detail": "MorumBoca: por qué el pasado glorioso del Xeneize tiene al mítico e…",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "La Selección tendrá tres amistosos en el país en la fecha FIFA",
-      "value": "hace 23 h"
+      "detail": "La \"cuna del vudú\" que nunca jugó un Mundial y enfrentará a la Arge…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Mekies assesses Lawson's Red Bull stint after Madrid",
+      "detail": "'McLaren’s call to pit Norris after the VSC made no sense'",
       "value": "hace 1 min"
     }
   ]
