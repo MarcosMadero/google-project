@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:05:47.898Z",
+  "generatedAt": "2026-09-15T14:04:39.061Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,13 +10,13 @@
           "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 13 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c9dw91d5yx5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Los gigantes de Silicon Valley que ignoran las advertencias sobre los peligros de la IA",
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Los hutíes han volado por los aires un oleoducto en Arabia Saudí: ahora el mundo afronta otra crisis del petróleo",
+          "title": "Salir a bolsa significa publicar pérdidas, deudas y compromisos cada trimestre. OpenAI ha decidido que este no es un buen momento",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/huties-han-volado-aires-oleoducto-arabia-saudi-ahora-mundo-afronta-otra-crisis-petroleo",
-          "ago": "hace 10 h"
+          "url": "https://www.xataka.com/empresas-y-economia/salir-a-bolsa-significa-publicar-perdidas-deudas-compromisos-cada-trimestre-openai-ha-decidido-que-este-no-buen-momento",
+          "ago": "hace 34 min"
         },
         {
-          "title": "\"Han saturado el mercado tirando el precio hacia abajo\": la sandía española se enfrenta a su gran batalla con Marruecos",
+          "title": "\"Estadio reparado, barrio arruinado\": tras un mes y 1.700 terremotos, más de 200 personas siguen fuera de su hogar en Granada",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/han-saturado-mercado-tirando-precio-abajo-sandia-espanola-se-enfrenta-a-su-gran-batalla-marruecos",
-          "ago": "hace 11 h"
+          "url": "https://www.xataka.com/magnet/estadio-reparado-barrio-arruinado-mes-1-700-terremotos-200-personas-siguen-fuera-su-hogar-granada",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Steam Frame ya tiene precio en Europa y deja una cosa clara: entrar en la nueva VR de Valve costará más de 1.000 euros",
+          "title": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
           "source": "Xataka",
-          "url": "https://www.xataka.com/videojuegos/steam-frame-tiene-precio-europa-deja-cosa-clara-entrar-nueva-vr-valve-costara-1-000-euros",
-          "ago": "hace 4 h"
+          "url": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
+          "ago": "hace 4 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: Milei reunió al Gabinete antes del envío del Presupuesto y el proyecto de ley por Malvinas",
+          "title": "Es oficial: la Corte Suprema de EE.UU. emitió un fallo de ley sobre el voto por correo en las elecciones 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-has-sido-enganado-por-un-chanta-dijo-el-presidente-al-defender-el-nid13092026/",
-          "ago": "hace 11 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/es-oficial-la-corte-suprema-de-eeuu-emitio-un-fallo-de-ley-sobre-el-voto-por-correo-en-las-nid15092026/",
+          "ago": "hace 37 min"
         },
         {
-          "title": "Un dirigente social le llevó al Papa un crudo diagnóstico del gobierno de Milei antes de su visita al país",
+          "title": "El Gobierno reúne a la mesa política en la previa al envío del Presupuesto 2027 al Congreso",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/un-dirigente-social-le-llevo-al-papa-un-crudo-diagnostico-del-gobierno-de-milei-antes-de-su-visita-nid14092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-en-la-previa-al-envio-del-presupuesto-2027-al-congreso-nid15092026/",
+          "ago": "hace 23 min"
         },
         {
-          "title": "Paxton lo hizo oficial: se confirma fallo sobre la ley SB 1 firmada por Abbott sobre los requisitos al votar",
+          "title": "La Pampa apeló a la Corte Suprema por un decreto de Milei que le recorta fondos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/texas/paxton-lo-hizo-oficial-se-confirma-fallo-sobre-la-ley-sb-1-firmada-por-abbott-sobre-los-requisitos-nid14092026/",
-          "ago": "hace 10 min"
+          "url": "https://www.lanacion.com.ar/politica/la-pampa-apelo-a-la-corte-suprema-por-un-decreto-de-milei-que-le-recorta-fondos-nid15092026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "Cambio de estrategia: el BCRA recalibra una de sus metas para evitar tensiones sobre el dólar y las tasas",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/09/15/cambio-de-estrategia-el-bcra-recalibra-una-de-sus-metas-para-evitar-tensiones-sobre-el-dolar-y-las-tasas/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "El Gobierno privilegia la estabilidad del dólar y la baja de la inflación, pero la economía crecería menos de 2 por ciento",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/13/el-gobierno-privilegia-la-estabilidad-del-dolar-y-la-baja-de-la-inflacion-pero-la-economia-creceria-menos-de-2-por-ciento/",
           "ago": "hace 2 d"
         },
         {
-          "title": "Tras el dato de inflación en EEUU, los analistas esperan una suba de tasas de la Fed: cómo podría impactar en la Argentina",
+          "title": "A cuánto puede llegar el dólar en octubre sin que intervenga el Gobierno según la nueva banda cambiaria",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/11/tras-el-dato-de-inflacion-en-eeuu-los-analistas-esperan-una-suba-de-tasas-de-la-fed-como-podria-impactar-en-la-argentina/",
-          "ago": "hace 3 d"
-        },
-        {
-          "title": "El Gobierno enfrenta vencimientos por USD 4.000 millones hasta diciembre: de dónde saldrán los dólares para pagar la deuda",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/14/el-gobierno-enfrenta-vencimientos-por-usd-4000-millones-hasta-diciembre-de-donde-saldran-los-dolares-para-pagar-la-deuda/",
-          "ago": "hace 1 h"
+          "url": "https://www.infobae.com/economia/2026/09/15/a-cuanto-puede-llegar-el-dolar-en-octubre-sin-que-intervenga-el-gobierno-segun-la-nueva-banda-cambiaria/",
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "San Pablo vs. Boca, por la Copa Sudamericana: hora, cómo ver y prob…",
-      "value": "hace 3 h"
+      "detail": "A qué hora se juega San Pablo vs. Boca y cómo ver hoy EN VIVO la Co…",
+      "value": "hace 34 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "La Selección tendrá tres amistosos en el país en la fecha FIFA",
-      "value": "hace 9 h"
+      "value": "hace 23 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Vasseur believes Ferrari had the pace to win in Madrid",
+      "detail": "Mekies assesses Lawson's Red Bull stint after Madrid",
       "value": "hace 1 min"
     }
   ]
