@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T13:57:44.823Z",
+  "generatedAt": "2026-09-16T19:27:11.077Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 19 h"
+          "ago": "hace 1 d"
+        },
+        {
+          "title": "Cómo cultivar la imagen del \"chico bueno\" de la música llevó a Ed Sheeran a atravesar la peor crisis de su carrera",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cqkgvk30lz4yo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
         },
         {
           "title": "El derrumbe de un edificio dañado por la guerra en Gaza deja al menos 21 muertos y decenas de desaparecidos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6j4jl029pzdo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "La madre de todas las crisis del petróleo: Arabia Saudí empieza a cancelar las exportaciones de petróleo a Europa",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/energia/madre-todas-crisis-petroleo-arabia-saudi-empieza-a-cancelar-exportaciones-petroleo-a-europa",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "Madrid ha batido otro récord: el número de reclamaciones que ha recibido su metro",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/madrid-ha-batido-otro-record-numero-reclamaciones-que-ha-recibido-su-metro",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Hay tan pocos barcos dispuestos a cruzar Ormuz que usar un petrolero ya vale más de un millón de dólares al día. Y lo vamos a notar en la gasolinera",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/hay-pocos-barcos-dispuestos-a-cruzar-ormuz-que-usar-petrolero-vale-millon-dolares-al-dia-vamos-a-notar-gasolinera",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "Ya es oficial: Philips anuncia un monitor que combina pantalla ultrapanorámica con una tasa de refresco de 200 Hz y tecnología Ambiglow",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/oficial-philips-anuncia-monitor-que-combina-pantalla-ultrapanoramica-tasa-refresco-200-hz-tecnologia-ambiglow",
-          "ago": "hace 5 h"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Las 10 claves del Presupuesto 2027 de Javier Milei: las proyecciones de inflación, dólar y crecimiento",
+          "title": "La Fed desafía la presión de Trump y sube las tasas por primera vez desde 2023",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/las-10-claves-del-presupuesto-2027-de-javier-milei-las-proyecciones-de-inflacion-dolar-y-crecimiento-nid16092026/",
-          "ago": "hace 21 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/la-fed-desafia-la-presion-de-trump-y-sube-las-tasas-por-primera-vez-desde-2023-nid16092026/",
+          "ago": "hace 40 min"
         },
         {
-          "title": "Dólar e inflación 2027: los números que calculan en el Gobierno para el próximo año, según el Presupuesto",
+          "title": "En conflicto con el gobierno uruguayo, Colonia Express impulsa un petitorio de firmas para que la dejen operar la ruta Buenos Aires-Montevideo",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar-e-inflacion-2027-los-numeros-que-calculan-en-el-gobierno-para-el-proximo-ano-segun-el-nid15092026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/economia/en-conflicto-con-el-gobierno-uruguayo-colonia-express-impulsa-un-petitorio-de-firmas-para-que-la-nid16092026/",
+          "ago": "hace 45 min"
         },
         {
           "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
-          "ago": "hace 14 min"
+          "ago": "hace 51 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Las 10 claves del Presupuesto 2027: qué proyecta el Gobierno para el dólar, la inflación y la actividad económica",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/16/las-10-claves-del-presupuesto-2027-que-proyecta-el-gobierno-para-el-dolar-la-inflacion-y-la-actividad-economica/",
-          "ago": "hace 9 h"
+          "ago": "hace 15 h"
         },
         {
           "title": "Dólar, inflación, PBI y superávit fiscal: qué números prevé el Presupuesto 2027 y qué contrastes hay con las proyecciones del mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/15/dolar-inflacion-pbi-y-superavit-fiscal-que-numeros-preve-el-presupuesto-2027-y-que-contrastes-hay-con-las-proyecciones-del-mercado/",
-          "ago": "hace 15 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Presupuesto 2027: el Gobierno prevé una inflación anual del 18%, un dólar a $1.847 a fin de año y un crecimiento del 4% del PBI",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/15/presupuesto-2027-el-gobierno-preve-una-inflacion-anual-del-211-y-un-crecimiento-del-4-del-pbi/",
-          "ago": "hace 17 h"
+          "ago": "hace 22 h"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Espíritu copero: así festejó Boca en el vestuario su triunfo en el …",
-      "value": "hace 25 min"
+      "detail": "Paredes y un gesto en el vestuario del Morumbí que resume a este Boca",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Argentina en el Mundial Femenino Sub 20, EN VIVO: la Selección pier…",
-      "value": "hace 2 h"
+      "detail": "La revelación de Tuchel sobre el impacto de la derrota de Inglaterr…",
+      "value": "hace 18 min"
     },
     {
       "team": "Fórmula 1",
