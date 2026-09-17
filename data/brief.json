@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:59:14.418Z",
+  "generatedAt": "2026-09-17T14:01:13.600Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cmy8zy8qvqz1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 24 min"
+          "ago": "hace 14 h"
         },
         {
           "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
-          "title": "Cómo cultivar la imagen del \"chico bueno\" de la música llevó a Ed Sheeran a atravesar la peor crisis de su carrera",
+          "title": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cqkgvk30lz4yo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
+          "url": "https://www.bbc.com/mundo/articles/crl6j975nz5o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La madre de todas las crisis del petróleo: Arabia Saudí empieza a cancelar las exportaciones de petróleo a Europa",
+          "title": "\"No respondes ante corporaciones ni gobiernos\": OpenAI publica seis nuevos casos en los que sus modelos experimentales montaron un caos",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/madre-todas-crisis-petroleo-arabia-saudi-empieza-a-cancelar-exportaciones-petroleo-a-europa",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Madrid ha batido otro récord: el número de reclamaciones que ha recibido su metro",
+          "title": "La industria lleva años preguntándose si Mercadona tocaría techo alguna vez. Ahora la pregunta es si ya ha ocurrido",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/madrid-ha-batido-otro-record-numero-reclamaciones-que-ha-recibido-su-metro",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "\"Perdí 'Terminator' ese día\": por qué Edward Furlong no volvió a ser John Connor en la tercera película",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/cine-y-tv/perdi-terminator-ese-dia-que-edward-furlong-no-volvio-a-ser-john-connor-tercera-pelicula",
+          "url": "https://www.xataka.com/magnet/industria-lleva-anos-preguntandose-mercadona-tocaria-techo-alguna-vez-ahora-pregunta-ha-ocurrido",
           "ago": "hace 3 h"
+        },
+        {
+          "title": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Trump acusó a la Reserva Federal de subir las tasas por “motivos políticos”",
+          "title": "El Gobierno envió el proyecto de ley de defensa de la soberanía de las islas Malvinas a la Cámara de Diputados",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/trump-acuso-a-la-reserva-federal-de-subir-las-tasas-por-motivos-politicos-nid16092026/",
-          "ago": "hace 10 min"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-envio-el-proyecto-de-ley-de-defensa-de-la-soberania-de-las-islas-malvinas-a-la-camara-de-nid17092026/",
+          "ago": "hace 9 min"
         },
         {
-          "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+          "title": "Javier Milei y sus medidas, en vivo: el Presidente se refirió a la causa Malvinas y calificó a Trump de “gran negociador”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-          "ago": "hace 20 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-califico-a-trump-nid17092026/",
+          "ago": "hace 32 min"
         },
         {
-          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+          "title": "Elecciones en Brasil 2026: quiénes son los candidatos a presidente",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "ago": "hace 20 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-quienes-son-los-candidatos-a-presidente-nid03092026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -76,21 +76,21 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "Una misión del FMI llegará a la Argentina para revisar el acuerdo con el Gobierno: reservas, superávit y los puntos bajo examen",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/09/17/una-mision-del-fmi-llegara-a-la-argentina-para-revisar-el-acuerdo-con-el-gobierno-reservas-superavit-y-los-puntos-bajo-examen/",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "La suba de tasas de la Fed encareció la deuda argentina y aleja la posibilidad de volver a los mercados internacionales",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/09/17/la-suba-de-tasas-de-la-fed-encarecio-la-deuda-argentina-y-aleja-la-posibilidad-de-volver-a-los-mercados-internacionales/",
+          "ago": "hace 9 h"
+        },
+        {
           "title": "Las 10 claves del Presupuesto 2027: qué proyecta el Gobierno para el dólar, la inflación y la actividad económica",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/16/las-10-claves-del-presupuesto-2027-que-proyecta-el-gobierno-para-el-dolar-la-inflacion-y-la-actividad-economica/",
-          "ago": "hace 19 h"
-        },
-        {
-          "title": "Dólar, inflación, PBI y superávit fiscal: qué números prevé el Presupuesto 2027 y qué contrastes hay con las proyecciones del mercado",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/15/dolar-inflacion-pbi-y-superavit-fiscal-que-numeros-preve-el-presupuesto-2027-y-que-contrastes-hay-con-las-proyecciones-del-mercado/",
-          "ago": "hace 1 d"
-        },
-        {
-          "title": "Presupuesto 2027: el Gobierno prevé una inflación anual del 18%, un dólar a $1.847 a fin de año y un crecimiento del 4% del PBI",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/15/presupuesto-2027-el-gobierno-preve-una-inflacion-anual-del-211-y-un-crecimiento-del-4-del-pbi/",
           "ago": "hace 1 d"
         }
       ]
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Anticipo Olé: el Tribunal rechaza la protesta de Vélez y Boca sigue…",
-      "value": "hace 2 h"
+      "detail": "En Brasil aseguran que Vasco podría ir a la Justicia para recibir a…",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Sonríe Scaloni: Facundo Medina convirtió un gol en la victoria del …",
-      "value": "hace 3 h"
+      "detail": "Julián Alvarez: carrera contra el tiempo para llegar al clásico con…",
+      "value": "hace 20 min"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Vote for the 2027 race you are most excited for to win Grand Prix t…",
+      "detail": "The power unit manufacturers with the most wins in F1 history",
       "value": "hace 1 min"
     }
   ]
