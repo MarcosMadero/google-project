@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:48:35.816Z",
+  "generatedAt": "2026-09-19T18:30:04.029Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -22,7 +22,7 @@
           "title": "EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el \"control permanente de la seguridad\" de Groenlandia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx05rdze7v60o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "ago": "hace 17 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "La IA está creando millonarios a un ritmo frenético en Silicon Valley. El problema es que muchos no saben qué hacer con su dinero",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/ia-esta-creando-millonarios-a-ritmo-frenetico-silicon-valley-problema-que-muchos-no-saben-que-hacer-su-dinero",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "No hay marca de móviles que sea eterna, por muy exitosa que sea: así ha cambiado la cuota de mercado en casi 20 años",
           "source": "Xataka",
           "url": "https://www.xataka.com/moviles/no-hay-marca-moviles-que-sea-eterna-exitosa-que-sea-asi-ha-cambiado-cuota-mercado-casi-20-anos",
-          "ago": "hace 5 h"
+          "ago": "hace 11 h"
         },
         {
-          "title": "A falta de árboles, buena es su sombra: un estudiante alemán ha inventado un textil que da sombra, respira y deja pasar viento y lluvia",
+          "title": "Los soldados de la Antigua Grecia eran auténticos portentos: 11 horas con una armadura de bronce de 3.500 años encima lo confirman",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/a-falta-arboles-buena-su-sombra-estudiante-aleman-ha-inventado-textil-que-da-sombra-respira-deja-pasar-viento-lluvia",
-          "ago": "hace 48 min"
+          "url": "https://www.xataka.com/magnet/soldados-antigua-grecia-eran-autenticos-portentos-11-horas-armadura-bronce-3-500-anos-encima-confirman",
+          "ago": "hace 30 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "El presidente de Bolivia eliminó el subsidio al diésel tras la aprobación de un préstamo del FMI",
+          "title": "Murió Sandro Mazzola, leyenda de Inter de Milán y de la selección italiana",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/el-presidente-de-bolivia-elimino-el-subsidio-al-diesel-tras-la-aprobacion-de-un-prestamo-del-fmi-nid19092026/",
-          "ago": "hace 7 h"
+          "url": "https://www.lanacion.com.ar/deportes/futbol/murio-sandro-mazzola-leyenda-de-inter-de-milan-y-de-la-seleccion-italiana-nid19092026/",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Murió el cineasta argentino Eugenio Zanetti a los 79 años",
+          "title": "El Gobierno intenta bajar el tono a los desmarques de Bullrich en una semana de tensión",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/cine/murio-el-cineasta-argentino-eugenio-zanetti-a-los-79-anos-nid18092026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-intenta-bajar-el-tono-a-los-desmarques-de-bullrich-en-una-semana-de-tension-nid19092026/",
+          "ago": "hace 9 min"
         },
         {
-          "title": "Qué significan los colores de las bandejas de carne en los supermercados",
+          "title": "Dos presos planificaban un atentado contra la fiscal de San Isidro que los puso tras las rejas",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/lifestyle/que-significan-los-colores-de-las-bandejas-de-carne-en-los-supermercados-nid16092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/seguridad/dos-presos-planificaban-un-atentado-contra-la-fiscal-de-san-isidro-que-los-puso-tras-las-rejas-nid19092026/",
+          "ago": "hace 15 min"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "title": "La suba de tasas de la Fed encareció la deuda argentina y aleja la posibilidad de volver a los mercados internacionales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/17/la-suba-de-tasas-de-la-fed-encarecio-la-deuda-argentina-y-aleja-la-posibilidad-de-volver-a-los-mercados-internacionales/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La tabla anual: Independiente Rivadavia puntero, Boca se acerca a L…",
-      "value": "hace 14 h"
+      "detail": "La trastienda de la convocatoria de Leonel Flores a la Selección Ar…",
+      "value": "hace 16 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Scaloni, sobre su continuidad en la Selección Argentina: \"Lo intent…",
-      "value": "hace 2 h"
+      "detail": "Lionel Scaloni y el CT de la Selección llegaron a Newell's para ver…",
+      "value": "hace 15 min"
     },
     {
       "team": "Fórmula 1",
