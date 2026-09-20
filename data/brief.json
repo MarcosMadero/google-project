@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:23:09.094Z",
+  "generatedAt": "2026-09-20T18:34:56.563Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -19,10 +19,10 @@
           "ago": "hace 5 d"
         },
         {
-          "title": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
+          "title": "La remota isla donde los hackers se preparan para defendernos de una guerra invisible",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm1j42lee8n2o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 30 min"
+          "url": "https://www.bbc.com/mundo/articles/cj4jqnd0vnro?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "15.000 monedas de plata y un posible récord: Gales está ante el mayor tesoro romano jamás encontrado allí",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/15-000-monedas-plata-posible-record-gales-esta-mayor-tesoro-romano-jamas-encontrado-alli",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Hacer turismo en un país y terminar visitando sus supermercados: la extraña fascinación de explorar otras cadenas",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/cada-vez-viajeros-se-obsesionan-tipo-turismo-cuando-salen-su-pais-safaris-supermercado",
-          "ago": "hace 23 min"
+          "ago": "hace 6 h"
         },
         {
           "title": "Ucrania lleva cuatro años cazando rusos con drones. Ahora ha convertido el desierto de África en un nuevo frente de la guerra",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/ucrania-lleva-cuatro-anos-cazando-rusos-drones-ahora-ha-convertido-desierto-africa-nuevo-frente-guerra",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "España está a punto de llenar la red de baterías: en 18 meses podría multiplicar su capacidad",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/energia/espana-esta-a-punto-llenar-red-baterias-18-meses-podria-multiplicar-su-capacidad",
-          "ago": "hace 53 min"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Sin romper con el Gobierno, Bullrich hace valer su peso en las encuestas y pone a prueba la paciencia de los Milei",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/sin-romper-con-el-gobierno-bullrich-hace-valer-su-peso-en-las-encuestas-y-pone-a-prueba-la-paciencia-nid20092026/",
-          "ago": "hace 7 h"
+          "ago": "hace 2 h"
         },
         {
-          "title": "Quién era la mujer que murió de hipotermia tras meterse al lago Lácar en San Martín de los Andes",
+          "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/quien-era-la-mujer-que-murio-de-hipotermia-tras-meterse-al-lago-lacar-en-san-martin-de-los-andes-nid20092026/",
-          "ago": "hace 9 min"
+          "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+          "ago": "hace 5 h"
         },
         {
-          "title": "Dónde fue el terremoto en Tucumán: el mapa de las zonas afectadas",
+          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/donde-fue-el-terremoto-en-tucuman-el-mapa-de-las-zonas-afectadas-nid20092026/",
-          "ago": "hace 11 min"
+          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "title": "La suba de tasas de la Fed encareció la deuda argentina y aleja la posibilidad de volver a los mercados internacionales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/17/la-suba-de-tasas-de-la-fed-encarecio-la-deuda-argentina-y-aleja-la-posibilidad-de-volver-a-los-mercados-internacionales/",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         }
       ]
     }
@@ -99,18 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La materia pendiente que Boca necesita completar para consolidarse …",
-      "value": "hace 28 min"
+      "detail": "El show de Insua en su reencuentro con la gente de San Lorenzo: par…",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Dolor, lágrimas y preocupación para River y la Selección: Almada y …",
-      "value": "hace 11 h"
+      "detail": "Colo Barco sobre la despedida de Messi de la Selección: \"Deja un va…",
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
       "detail": "Remembering one of F1’s most intriguing ‘what if?’ moments",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "El City esquiva un 'gato negro' y asesta el primer golpe al Arsenal",
+      "value": "hace 4 h"
     }
   ]
 }
