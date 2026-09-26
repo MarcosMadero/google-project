@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:33:36.976Z",
+  "generatedAt": "2026-09-26T19:07:04.016Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 13 h"
-        },
-        {
           "title": "Por qué la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cwj3d6v53376o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
+        },
+        {
+          "title": "El presidente de Irán le dice a Trump que su país nunca se \"arrodillará\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 d"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "El político más temido de Roma declaró la guerra al lujo. Llegó a imponer impuestos del 1.000% por una razón: prioridad romana",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/politico-temido-roma-declaro-guerra-al-lujo-extranjero-llego-a-imponer-impuestos-1-000-razon",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         },
         {
-          "title": "Alguien ha estudiado la \"recesión sexual\" de la  Gen Z y se ha encontrado con dos viejos conocidos: crisis de vivienda y empleo",
+          "title": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/alguien-ha-estudiado-recesion-sexual-gen-z-se-ha-encontrado-dos-viejos-conocidos-crisis-vivienda-empleo",
-          "ago": "hace 21 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/darwin-murio-poder-demostrarlo-150-anos-despues-ciencia-acaba-darle-razon-planta-carnivora",
+          "ago": "hace 36 min"
         },
         {
-          "title": "Putin apareció usando un Windows sin activar. Es el recordatorio de que Microsoft lleva años dejándonos usar Windows prácticamente gratis",
+          "title": "Hay una mansión en Silicon Valley donde la élite de la IA se reúne para construir el futuro: ya acumula 37 incidentes policiales",
           "source": "Xataka",
-          "url": "https://www.xataka.com/aplicaciones/putin-aparecio-usando-windows-activar-recordatorio-que-microsoft-lleva-anos-dejandonos-usar-windows-practicamente-gratis",
-          "ago": "hace 2 h"
+          "url": "https://www.xataka.com/robotica-e-ia/hay-mansion-silicon-valley-donde-elite-ia-se-reune-para-construir-futuro-acumula-37-incidentes-policiales",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "La economía quedó al borde de una recesión técnica, según expertos",
+          "title": "Un Milei místico que necesita un milagro",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/la-economia-quedo-al-borde-de-una-recesion-tecnica-segun-expertos-nid25092026/",
-          "ago": "hace 28 min"
+          "url": "https://www.lanacion.com.ar/opinion/un-milei-mistico-que-necesita-un-milagro-nid26092026/",
+          "ago": "hace 7 min"
         },
         {
-          "title": "Lula prohibió las apuestas online a días de las elecciones y generó el rechazo de los clubes brasileños",
+          "title": "Un productor agropecuario fue condenado a cinco años de prisión por un choque en el que murió toda una familia",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/lula-prohibio-las-apuestas-online-a-dias-de-las-elecciones-y-genero-el-rechazo-de-los-clubes-nid26092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/seguridad/un-productor-agropecuario-fue-condenado-a-cinco-anos-de-prision-por-un-choque-en-el-que-murio-toda-nid26092026/",
+          "ago": "hace 10 min"
         },
         {
-          "title": "Así sintieron los vecinos de Ezeiza las explosiones en el motor de un avión de Aerolíneas Argentinas que debió regresar a pista",
+          "title": "Fusiones, alianzas, educación para adultos: cómo deberá ser la escuela que sobrevivirá al desplome de la matrícula",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/asi-sintieron-los-vecinos-de-ezeiza-las-explosiones-en-el-motor-de-un-avion-de-aerolineas-argentinas-nid26092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/sociedad/fusiones-alianzas-educacion-para-adultos-como-debera-ser-la-escuela-que-sobrevivara-al-desplome-de-nid26092026/",
+          "ago": "hace 34 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "¿La economía corre riesgo de caer en “recesión técnica”?: qué dicen los analistas y las medidas del Gobierno para evitarlo",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/26/la-economia-corre-riesgo-de-caer-en-recesion-tecnica-que-dicen-los-analistas-y-las-medidas-del-gobierno-para-evitarlo/",
-          "ago": "hace 8 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "Baja de impuestos: qué margen tiene el Gobierno para seguir con las reducciones en 2027, según el Presupuesto",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/26/baja-de-impuestos-que-margen-tiene-el-gobierno-para-seguir-con-las-reducciones-en-2027-segun-el-presupuesto/",
-          "ago": "hace 9 h"
+          "ago": "hace 15 h"
         },
         {
           "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas y las reservas cayeron por un pago al FMI",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
-          "ago": "hace 16 h"
+          "ago": "hace 22 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Daniel Osvaldo fue internado y quedó en terapia intensiva",
-      "value": "hace 13 h"
+      "detail": "Lautaro Díaz, baja de último momento en Racing para el clásico con …",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Primera charla oficial para la renovación de Scaloni: viento a favor",
-      "value": "hace 14 h"
+      "detail": "La foto de los campeones del mundo que volvió locos a los hinchas d…",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Verstappen wins fan vote after narrowly missing Baku victory",
+      "detail": "All the key moments from the 2026 Azerbaijan Grand Prix",
       "value": "hace 1 min"
     }
   ]
