@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:08:37.056Z",
+  "generatedAt": "2026-09-28T17:14:26.675Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cw770pkk3gkpo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "Qué son los agentes de la IA, los poderosos sistemas que realizaron en Australia el \"primer ataque\" a un portal de un gobierno",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6zxz1z7zejro?at_medium=RSS&at_campaign=rss",
           "ago": "hace 4 d"
         },
         {
-          "title": "Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda",
+          "title": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6804zkj5z0po?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Arrestan a 5 sospechosos de preparar un atentado tras un \"incidente grave\" cerca de una base aérea británica utilizada por el ejército de EE.UU.",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
+          "url": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El Gobierno cambia las normas a partir del 1 de octubre: las bicicletas podrán circular en dirección contraria en calles de un solo sentido limitadas a 30 km/h",
+          "title": "El Supremo ha zanjado la guerra de la horchata y, para sorpresa de nadie, ha ganado Mercadona",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/gobierno-cambia-normas-a-partir-1-octubre-bicicletas-podran-circular-direccion-contraria-calles-solo-sentido-limitadas-a-30-km-h",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/supremo-ha-zanjado-guerra-horchata-para-sorpresa-nadie-ha-ganado-mercadona",
+          "ago": "hace 4 h"
         },
         {
-          "title": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
+          "title": "Este pueblo era un barrio de Zaragoza. Hace 20 años decidió independizarse mediante una \"guerra civil maña\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/darwin-murio-poder-demostrarlo-150-anos-despues-ciencia-acaba-darle-razon-planta-carnivora",
-          "ago": "hace 1 d"
+          "url": "https://www.xataka.com/magnet/este-pueblo-era-barrio-zaragoza-hace-20-anos-decidio-independizarse-mediante-guerra-civil-mana",
+          "ago": "hace 1 h"
         },
         {
-          "title": "¿Eres un \"masticador\" o un \"aplastador\"? La física de tu boca explica por qué odias ciertos alimentos",
+          "title": "El Gobierno cambia las normas el 1 de octubre: multa de 200 euros si no haces esto en un atasco",
           "source": "Xataka",
-          "url": "https://www.xataka.com/medicina-y-salud/eres-masticador-aplastador-fisica-tu-boca-explica-que-odias-ciertos-alimentos",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/movilidad/gobierno-cambia-normas-1-octubre-multa-200-euros-no-haces-esto-atasco",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Milei negó que haya una recesión y dijo: “Los indicadores están arrojando cualquier cosa”",
+          "title": "Todas las listas de las elecciones Brasil 2026: los candidatos a presidente",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/milei-nego-que-haya-una-recesion-y-dijo-los-indicadores-estan-arrojando-cualquier-cosa-nid27092026/",
-          "ago": "hace 10 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/todas-las-listas-de-las-elecciones-brasil-2026-los-candidatos-a-presidente-nid28092026/",
+          "ago": "hace 11 min"
         },
         {
-          "title": "JP Morgan proyectó recesión en el tercer trimestre y puso en duda el repunte del consumo que espera el Gobierno en 2027",
+          "title": "Cuándo son las elecciones para presidente de Brasil 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/jp-morgan-proyecto-recesion-en-el-tercer-trimestre-y-puso-en-duda-el-repunte-del-consumo-que-espera-nid27092026/",
-          "ago": "hace 4 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/cuando-son-las-elecciones-para-presidente-de-brasil-2026-nid25092026/",
+          "ago": "hace 11 min"
         },
         {
-          "title": "Violento robo a una casa en Martínez: golpearon a un hombre de 76 años y escaparon con dinero y joyas en el auto familiar",
+          "title": "Quiénes son los candidatos a presidente de Brasil en las elecciones 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/seguridad/violento-robo-a-una-casa-en-martinez-golpearon-a-un-hombre-de-76-anos-y-escaparon-con-dinero-y-joyas-nid27092026/",
-          "ago": "hace 16 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-presidente-de-brasil-en-las-elecciones-2026-nid22092026/",
+          "ago": "hace 12 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "A cuánto llegaría la nafta en el Gran Buenos Aires si el Gobierno decidiera aplicar los impuestos pendientes",
+          "title": "“Bravo, Milei!”: el elogio de Elon Musk al Presidente argentino por la baja de la inflación durante su gestión",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/27/a-cuanto-llegaria-la-nafta-en-el-gran-buenos-aires-si-el-gobierno-decidiera-aplicar-los-impuestos-pendientes/",
-          "ago": "hace 10 h"
+          "url": "https://www.infobae.com/economia/2026/09/28/bravo-milei-el-elogio-de-elon-musk-al-presidente-argentino-por-la-baja-de-la-inflacion-durante-su-gestion/",
+          "ago": "hace 6 h"
         },
         {
-          "title": "¿La economía corre riesgo de caer en “recesión técnica”?: qué dicen los analistas y las medidas del Gobierno para evitarlo",
+          "title": "Por qué la opción de emitir deuda en el mercado antes de las elecciones ya no es una opción según analistas privados",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/26/la-economia-corre-riesgo-de-caer-en-recesion-tecnica-que-dicen-los-analistas-y-las-medidas-del-gobierno-para-evitarlo/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/09/28/por-que-la-opcion-de-emitir-deuda-en-el-mercado-antes-de-las-elecciones-ya-no-es-una-opcion-segun-analistas-privados/",
+          "ago": "hace 15 min"
         },
         {
-          "title": "Baja de impuestos: qué margen tiene el Gobierno para seguir con las reducciones en 2027, según el Presupuesto",
+          "title": "Javier Milei negó que la economía vaya a entrar en recesión y aseguró que el consumo está “en máximos históricos”",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/26/baja-de-impuestos-que-margen-tiene-el-gobierno-para-seguir-con-las-reducciones-en-2027-segun-el-presupuesto/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/politica/2026/09/27/javier-milei-nego-que-la-economia-vaya-a-entrar-en-recesion-hay-una-desaceleracion-del-ritmo-de-expansion/",
+          "ago": "hace 16 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Arruabarrena contó qué les dijo a los jugadores de Boca en el entre…",
-      "value": "hace 51 min"
+      "detail": "Boca no tiene fecha para la semi de Copa Argentina y la AFA busca v…",
+      "value": "hace 14 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Encuentro de Selección: Acuña estuvo cenando con Dibu y Rulli",
-      "value": "hace 5 h"
+      "detail": "Hay horario para la despedida de Messi: AFA confirmó el inicio de A…",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "How Baku highlighted McLaren’s straight line weakness",
+      "detail": "PALMER: Why George Russell’s Baku win was so impressive",
       "value": "hace 1 min"
     }
   ]
