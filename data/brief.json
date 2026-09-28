@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:39:07.470Z",
+  "generatedAt": "2026-09-28T00:08:37.056Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Qué son los agentes de la IA, los poderosos sistemas que realizaron en Australia el \"primer ataque\" a un portal de un gobierno",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6zxz1z7zejro?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
+        },
+        {
+          "title": "Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6804zkj5z0po?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         },
         {
           "title": "Arrestan a 5 sospechosos de preparar un atentado tras un \"incidente grave\" cerca de una base aérea británica utilizada por el ejército de EE.UU.",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cdrvp7plr08o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
+          "ago": "hace 9 h"
         }
       ]
     },
@@ -33,7 +33,7 @@
           "title": "El Gobierno cambia las normas a partir del 1 de octubre: las bicicletas podrán circular en dirección contraria en calles de un solo sentido limitadas a 30 km/h",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/gobierno-cambia-normas-a-partir-1-octubre-bicicletas-podran-circular-direccion-contraria-calles-solo-sentido-limitadas-a-30-km-h",
-          "ago": "hace 8 h"
+          "ago": "hace 13 h"
         },
         {
           "title": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
@@ -45,7 +45,7 @@
           "title": "¿Eres un \"masticador\" o un \"aplastador\"? La física de tu boca explica por qué odias ciertos alimentos",
           "source": "Xataka",
           "url": "https://www.xataka.com/medicina-y-salud/eres-masticador-aplastador-fisica-tu-boca-explica-que-odias-ciertos-alimentos",
-          "ago": "hace 2 h"
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Qué necesita un candidato a presidente en Brasil para ganar las elecciones en primera vuelta",
+          "title": "Milei negó que haya una recesión y dijo: “Los indicadores están arrojando cualquier cosa”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/que-necesita-un-candidato-a-presidente-en-brasil-para-ganar-las-elecciones-en-primera-vuelta-nid25092026/",
-          "ago": "hace 6 h"
+          "url": "https://www.lanacion.com.ar/politica/milei-nego-que-haya-una-recesion-y-dijo-los-indicadores-estan-arrojando-cualquier-cosa-nid27092026/",
+          "ago": "hace 10 min"
         },
         {
-          "title": "Elecciones Brasil 2026: quiénes son los candidatos a vicepresidente de Lula y Flávio Bolsonaro",
+          "title": "JP Morgan proyectó recesión en el tercer trimestre y puso en duda el repunte del consumo que espera el Gobierno en 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-quienes-son-los-candidatos-a-vicepresidente-de-lula-y-flavio-bolsonaro-nid26092026/",
-          "ago": "hace 6 h"
+          "url": "https://www.lanacion.com.ar/economia/jp-morgan-proyecto-recesion-en-el-tercer-trimestre-y-puso-en-duda-el-repunte-del-consumo-que-espera-nid27092026/",
+          "ago": "hace 4 h"
         },
         {
-          "title": "Qué se sabe del acuerdo de Doral con el ICE y la presión de DeSantis para facilitar redadas masivas",
+          "title": "Violento robo a una casa en Martínez: golpearon a un hombre de 76 años y escaparon con dinero y joyas en el auto familiar",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/florida/que-se-sabe-del-acuerdo-de-doral-con-el-ice-y-la-presion-de-desantis-para-que-la-ciudad-colabore-con-nid25092026/",
-          "ago": "hace 27 min"
+          "url": "https://www.lanacion.com.ar/seguridad/violento-robo-a-una-casa-en-martinez-golpearon-a-un-hombre-de-76-anos-y-escaparon-con-dinero-y-joyas-nid27092026/",
+          "ago": "hace 16 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "A cuánto llegaría la nafta en el Gran Buenos Aires si el Gobierno decidiera aplicar los impuestos pendientes",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/27/a-cuanto-llegaria-la-nafta-en-el-gran-buenos-aires-si-el-gobierno-decidiera-aplicar-los-impuestos-pendientes/",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "¿La economía corre riesgo de caer en “recesión técnica”?: qué dicen los analistas y las medidas del Gobierno para evitarlo",
@@ -99,23 +99,18 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El 11 de Boca confirmado para enfrentar a Racing en Rosario",
-      "value": "hace 3 h"
+      "detail": "Arruabarrena contó qué les dijo a los jugadores de Boca en el entre…",
+      "value": "hace 51 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Encuentro de Selección: Acuña estuvo cenando con Dibu y Rulli",
-      "value": "hace 53 min"
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Red Bull's Baku brilliance gives Verstappen fresh hope",
+      "detail": "How Baku highlighted McLaren’s straight line weakness",
       "value": "hace 1 min"
-    },
-    {
-      "team": "Deportes de invierno",
-      "detail": "La Dinamarca de Hjulmand se desquita",
-      "value": "hace 2 h"
     }
   ]
 }
