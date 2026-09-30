@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:54:55.075Z",
+  "generatedAt": "2026-09-30T15:30:35.125Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,7 +10,7 @@
           "title": "La BBC en primera línea de fuego de la guerra civil de Yemen, el conflicto que amenaza la seguridad energética mundial",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cv8e3zj7rkj3o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
+          "ago": "hace 2 d"
         },
         {
           "title": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
@@ -22,7 +22,7 @@
           "title": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c9gk5lxv7kx4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
+          "ago": "hace 1 d"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El problema del coche eléctrico en China ya no es venderlo, sino qué hacer con sus baterías cuando mueren",
+          "title": "Llevamos desde 1918 tratando de descifrar un mensaje en código de la Primera Guerra Mundial. GPT-6 Astra lo ha conseguido",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/problema-coche-electrico-china-no-venderlo-sino-que-hacer-sus-baterias-cuando-mueren",
+          "url": "https://www.xataka.com/robotica-e-ia/llevamos-1918-tratando-descifrar-mensaje-codigo-primera-guerra-mundial-gpt-6-astra-ha-conseguido",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Tras devorar el 61% del negocio de la 'fast food' en España, las hamburguesas se enfrentan a su gran amenaza: saturar el mercado",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/anos-gourmetizacion-fiebre-hamburguesa-no-se-apaga-espana-eso-esta-atrayendo-a-nuevas-cadenas",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "A mediados de los 80, las malvasías cabeciblancas estaban a punto de desaparecer de la península. Entonces, el gobierno tuvo una idea: francotiradores",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/a-mediados-80-malvasias-cabeciblancas-estaban-a-punto-desaparecer-peninsula-entonces-gobierno-tuvo-idea-francotiradores",
           "ago": "hace 6 h"
-        },
-        {
-          "title": "El Gobierno cambia las normas el 1 de octubre y acepta una reclamación histórica de los motoristas: podrán utilizar el arcén",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/gobierno-cambia-normas-1-octubre-acepta-reclamacion-historica-motoristas-podran-utilizar-arcen",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "Es oficial: el Gobierno prorroga la ayuda a los combustibles a partir del 1 de octubre y se extenderá hasta final de año",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/oficial-gobierno-prorroga-ayuda-a-combustibles-a-partir-1-octubre-se-extendera-final-ano",
-          "ago": "hace 12 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei, en VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de su viaje a París",
+          "title": "Javier Milei y sus medidas, EN VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de partir a París",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-insistio-en-la-eliminacion-de-las-paso-y-dijo-que-nid29092026/",
-          "ago": "hace 10 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
+          "ago": "hace 12 min"
         },
         {
-          "title": "Todas las listas de las elecciones Brasil 2026: los candidatos a presidente",
+          "title": "Juicio por YPF: vence el plazo para que los fondos apelen ante la Corte Suprema de Estados Unidos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/todas-las-listas-de-las-elecciones-brasil-2026-los-candidatos-a-presidente-nid28092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/juicio-por-ypf-vence-el-plazo-para-que-los-fondos-apelen-ante-la-corte-suprema-de-estados-unidos-nid30092026/",
+          "ago": "hace 22 min"
         },
         {
-          "title": "Qué necesita un candidato a presidente en Brasil para ganar las elecciones en primera vuelta",
+          "title": "Hasta noviembre: el Gobierno volvió a postergar el aumento del impuesto a los combustibles",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/que-necesita-un-candidato-a-presidente-en-brasil-para-ganar-las-elecciones-en-primera-vuelta-nid25092026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/hasta-noviembre-el-gobierno-volvio-a-postergar-el-aumento-del-impuesto-a-los-combustibles-nid30092026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "Dólares, superávit y un posible “perdón”: las claves de la misión del FMI que revisa las metas del acuerdo con la Argentina",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/29/dolares-superavit-y-un-posible-perdon-las-claves-de-la-mision-del-fmi-que-revisa-las-metas-del-acuerdo-con-la-argentina/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "“Bravo, Milei!”: el elogio de Elon Musk al Presidente argentino por la baja de la inflación durante su gestión",
@@ -88,10 +88,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "El Departamento de Estado de EEUU identificó los “desafíos más apremiantes” que enfrenta el gobierno de Milei",
+          "title": "¿Crecimiento o recesión?: qué esperan las consultoras para agosto tras las críticas de Milei a los datos del Indec",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/29/el-departamento-de-estado-de-eeuu-identifico-los-desafios-mas-apremiantes-que-enfrenta-el-gobierno-de-milei/",
-          "ago": "hace 2 h"
+          "url": "https://www.infobae.com/economia/2026/09/30/crecimiento-o-recesion-que-esperan-las-consultoras-para-agosto-tras-las-criticas-de-milei-a-los-datos-del-indec/",
+          "ago": "hace 4 h"
         }
       ]
     }
@@ -100,17 +100,22 @@
     {
       "team": "Boca Juniors",
       "detail": "Boca recupera a su último lesionado y el Vasco tiene plantel comple…",
-      "value": "hace 2 h"
+      "value": "hace 16 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Benin antes del adiós de Messi: 2-1 en Costa de Marfil y el uno por…",
-      "value": "hace 3 h"
+      "detail": "Sin Messi ni De Paul, quiénes están en la nueva foto cábala del Chi…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "What time is the 2026 Bahrain GP and how can I watch it?",
+      "detail": "Top 10 most memorable F1 moments at Sepang",
       "value": "hace 1 min"
+    },
+    {
+      "team": "Deportes de invierno",
+      "detail": "Una esquiadora francesa muere tras un alud en la Patagonia argentina",
+      "value": "hace 1 h"
     }
   ]
 }
