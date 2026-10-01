@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:53:40.018Z",
+  "generatedAt": "2026-10-01T20:53:53.279Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -16,13 +16,13 @@
           "title": "Qué dice un nutricionista al analizar mi carro de la compra del supermercado",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c8zxz9wr177vo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 11 h"
         },
         {
           "title": "Cómo España pasó de construir más casas de las que necesitaba a enfrentar una grave crisis de vivienda",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "ago": "hace 16 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Ya disponible el Vivo X Fold6, un nuevo plegable que no renuncia a tener una batería enorme y un sistema de cámaras sobresalientes",
+          "title": "La gran crisis del empleo por culpa de la IA se hace esperar: los empleos españoles más expuestos crecen por encima de la media",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/disponible-vivo-x-fold6-nuevo-plegable-que-no-renuncia-a-tener-bateria-enorme-sistema-camaras-sobresalientes",
+          "url": "https://www.xataka.com/empresas-y-economia/gran-crisis-empleo-culpa-ia-se-hace-esperar-empleos-espanoles-expuestos-crecen-encima-media",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "Una muestra de agua recogida en un motel de menos de 100 dólares la noche acaba de revelar un secreto sobre el origen de las plantas",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/secreto-fotosintesis-estaba-agua-motel-extrana-ameba-acaba-reescribir-evolucion",
           "ago": "hace 5 h"
         },
         {
-          "title": "Sam Altman ha cerrado la puerta a la salida a bolsa de OpenAI. Los inversores le han abierto una ventana de 30.000 millones",
+          "title": "Benoit Pouffary, ingeniero de la ESA: “Almería podría ser el mejor lugar del mundo para simular lo que el rover afrontará en Marte”",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ha-cerrado-puerta-a-salida-a-bolsa-openai-inversores-le-han-abierto-ventana-30-000-millones",
-          "ago": "hace 6 h"
-        },
-        {
-          "title": "The G-Lab estrena en España sus teclados mecánicos premium inalámbricos KEYZ ELITE por menos de 100 euros",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/the-g-lab-estrena-espana-sus-teclados-mecanicos-premium-inalambricos-keyz-elite-100-euros",
-          "ago": "hace 8 min"
+          "url": "https://www.xataka.com/espacio/benoit-pouffary-ingeniero-esa-almeria-podria-ser-mejor-lugar-mundo-para-simular-que-rover-estara-enfrentando-cuando-llegue-a-marte",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente fue recibido por Emmanuel Macron en el Palacio del Elíseo",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
+          "ago": "hace 4 min"
+        },
+        {
+          "title": "Francisco Iñareta, portavoz de Idealista: “Las nuevas leyes de alquiler en España no van a poner ni una casa en el mercado y condenan el futuro de los inquilinos que no van a encontrar viviendas”",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/espana-endurece-las-reglas-del-alquiler-contratos-mas-largos-e-indemnizaciones-de-hasta-12-meses-a-nid30092026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "El giro del vínculo del Reino Unido con la gestión de Milei: de evaluar un acuerdo de libre comercio a ser “socio no confiable”",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/el-giro-del-vinculo-del-reino-unido-con-la-gestion-de-milei-de-evaluar-un-acuerdo-de-libre-comercio-nid01102026/",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "Elecciones Brasil 2026, EN VIVO: Lula vs. Bolsonaro Jr.  y las últimas noticias hoy",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/",
-          "ago": "hace 6 min"
-        },
-        {
-          "title": "California firma una ley para identificar autos alquilados por el ICE y usados en arrestos migratorios",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/california/california-firma-una-ley-para-identificar-los-vehiculos-alquilados-que-use-la-policia-en-arrestos-nid30092026/",
-          "ago": "hace 6 min"
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno apuesta a llegar a las elecciones de 2027 con una inflación anual del 20% y el dólar bajo control",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/01/el-gobierno-apuesta-a-llegar-a-las-elecciones-de-2027-con-una-inflacion-anual-del-20-y-el-dolar-bajo-control/",
-          "ago": "hace 11 h"
+          "ago": "hace 16 h"
+        },
+        {
+          "title": "Peso fuerte, la destrucción del BCRA y dolarización: las respuestas de Milei a una revista francesa",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/01/peso-fuerte-la-destruccion-del-bcra-y-dolarizacion-las-respuestas-de-milei-a-una-revista-francesa/",
+          "ago": "hace 2 h"
         },
         {
           "title": "El dólar cayó por tercer día consecutivo y el mercado operó un volumen récord en el año",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/30/el-dolar-cayo-por-tercer-dia-consecutivo-y-el-mercado-opero-un-volumen-record-en-el-ano/",
-          "ago": "hace 19 h"
-        },
-        {
-          "title": "Fabián Kon, presidente del 62° Coloquio de IDEA, pidió sostener el rumbo pese a las crisis: “Cuando hay estabilidad, la pobreza cae”",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/09/30/comenzo-el-coloquio-de-idea-con-una-defensa-a-sostener-el-rumbo-pese-a-las-crisis-cuando-hay-estabilidad-la-pobreza-cae/",
-          "ago": "hace 21 h"
+          "ago": "hace 2 h"
         }
       ]
     }
@@ -99,23 +99,18 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El posteo especial de Boca para Leo Flores después de su debut en l…",
-      "value": "hace 1 h"
+      "detail": "Clausura: las cuentas de Boca, River y los otros 28 equipos antes d…",
+      "value": "hace 22 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Mastantuono: \"Es feo quedar afuera del Mundial\" y \"desde que me fui…",
-      "value": "hace 4 h"
+      "detail": "Santiago Simón y Giuliano Simeone, otra historia de amistad que nac…",
+      "value": "hace 51 min"
     },
     {
       "team": "Fórmula 1",
       "detail": "Audi reveal new Formula 1 campus plans in Hinwil",
       "value": "hace 1 min"
-    },
-    {
-      "team": "Deportes de invierno",
-      "detail": "El Manchester City, favorito al descenso",
-      "value": "hace 1 d"
     }
   ]
 }
