@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:14:41.491Z",
+  "generatedAt": "2026-10-02T20:31:21.889Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "El Congreso de los Diputados de España vota en contra de los dos decretos sobre vivienda propuestos por el gobierno de Pedro Sánchez",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "La conmoción por el ataque en una escuela de México en la que murió la subdirectora y por el que acusan a dos hermanos exalumnos",
+          "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
+        },
+        {
+          "title": "El Parlamento de España vota en contra de los dos decretos sobre vivienda del gobierno de Pedro Sánchez",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         },
         {
           "title": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La Ley de Moore se queda corta: el coste de la IA cae seis veces más deprisa que el de la computación clásica",
+          "title": "Hay tanto aceite que España se plantea pulsar el botón rojo: retirarlo del mercado para que el precio no se desplome",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/ley-moore-se-queda-corta-coste-ia-cae-seis-veces-deprisa-que-computacion-clasica",
-          "ago": "hace 1 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/espana-tiene-15-noviembre-para-decidir-pulsa-boton-nuclear-aceite-retener-20-cosecha",
+          "ago": "hace 7 h"
         },
         {
-          "title": "Han encontrado en una cueva de Asturias un hombre que murió hace 8.000 años. Está tan bien conservado que ya saben qué comía",
+          "title": "La impresionante conquista de Portugal de Mercadona: en siete años se ha colado en el 50% de los hogares",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/han-encontrado-cueva-asturias-hombre-que-murio-hace-8-000-anos-esta-bien-conservado-que-saben-que-comia",
-          "ago": "hace 2 h"
+          "url": "https://www.xataka.com/magnet/hace-siete-anos-mercadona-era-perfecta-desconocida-portugal-hoy-vende-a-mitad-sus-hogares",
+          "ago": "hace 5 h"
         },
         {
-          "title": "EEUU requisó el mayor transatlántico del mundo para llevar soldados a la guerra. Lo hizo tan rápido que lo tumbó antes de estrenarlo",
+          "title": "Marshall estrena el Bromley 150: un altavoz para fiestas con 40 horas de batería, luces de escenario e interfaz para guitarra y micro",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/eeuu-requiso-mayor-transatlantico-mundo-para-llevar-soldados-a-guerra-hizo-rapido-que-tumbo-antes-estrenarlo",
-          "ago": "hace 4 h"
+          "url": "https://www.xataka.com/seleccion/marshall-estrena-bromley-150-altavoz-para-fiestas-40-horas-bateria-luces-escenario-e-interfaz-para-guitarra-micro",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Cómo Milei se volvió protagonista de las elecciones de Brasil: de los insultos a Lula a su amistad con Flavio Bolsonaro",
+          "title": "Guillermo Longhi, presidente del Colegio de Escribanos: “Nuestra intervención permite advertir riesgos y prevenir conflictos”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/como-milei-se-volvio-protagonista-de-las-elecciones-de-brasil-de-los-insultos-a-lula-a-su-amistad-nid02102026/",
-          "ago": "hace 36 min"
+          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/guillermo-longhi-presidente-del-colegio-de-escribanos-nuestra-intervencion-permite-advertir-riesgos-nid01102026/",
+          "ago": "hace 52 min"
         },
         {
-          "title": "Pedro Sánchez recibe un revés en el Congreso para su plan de vivienda y su gobierno queda al borde del precipicio",
+          "title": "Murió el juez Augusto Belluscio, el último de los integrantes de la Corte del regreso a la democracia",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/pedro-sanchez-recibe-un-reves-en-el-congreso-para-su-plan-de-vivienda-y-queda-al-borde-del-nid02102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/politica/murio-el-juez-augusto-belluscio-el-ultimo-de-los-integrantes-de-la-corte-del-regreso-a-la-democracia-nid02102026/",
+          "ago": "hace 20 min"
         },
         {
-          "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 2 de octubre, minuto a minuto",
+          "title": "El Colegio Público de la Abogacía condenó la nueva ola de insultos de Milei a periodistas",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid02102026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/politica/el-colegio-publico-de-la-abogacia-condeno-la-nueva-ola-de-insultos-de-milei-a-periodistas-nid02102026/",
+          "ago": "hace 28 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno apuesta a llegar a las elecciones de 2027 con una inflación anual del 20% y el dólar bajo control",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/01/el-gobierno-apuesta-a-llegar-a-las-elecciones-de-2027-con-una-inflacion-anual-del-20-y-el-dolar-bajo-control/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "Peso fuerte, la destrucción del BCRA y dolarización: las respuestas de Milei a una revista francesa",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/01/peso-fuerte-la-destruccion-del-bcra-y-dolarizacion-las-respuestas-de-milei-a-una-revista-francesa/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "El dólar cayó por tercer día consecutivo y el mercado operó un volumen récord en el año",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/09/30/el-dolar-cayo-por-tercer-dia-consecutivo-y-el-mercado-opero-un-volumen-record-en-el-ano/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Unión hace la fuerza: por qué el partido ante el Tatengue puede mar…",
-      "value": "hace 3 h"
+      "detail": "Boca vs. Unión, hoy EN VIVO por el Torneo Clausura: posibles formac…",
+      "value": "hace 29 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Llegó el capitán: Lionel Messi arribó a la Argentina para su desped…",
-      "value": "hace 4 h"
+      "detail": "Qué hay detrás de la demora del viaje de Burkina Faso y a qué hora …",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Vasseur responds to gossip about his future",
+      "detail": "Best Qualifying bets available for the Bahrain GP",
       "value": "hace 1 min"
     }
   ]
