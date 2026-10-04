@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T00:15:13.162Z",
+  "generatedAt": "2026-10-04T14:32:51.676Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
-        },
-        {
           "title": "El Parlamento de España vota en contra de dos decretos sobre vivienda del gobierno de Pedro Sánchez tras la crisis por el desahucio de la anciana Maricarmen",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
+        },
+        {
+          "title": "El presidente de Cornell dice que la universidad \"debe hacer más\" tras la denuncia de violación en grupo en una fraternidad",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c3x2w89p72r4o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 12 h"
         },
         {
           "title": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6073eyg5rzdo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 20 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Mientras anuncia márgenes récord y más fábricas, el CEO de Micron avisa de la crisis de RAM: \"Escaseará más en 2027 y 2028 que hoy\"",
+          "title": "Un satélite espía estadounidense de la Guerra Fría se ha roto tras 38 años en órbita. No sabemos por qué ni en cuántos pedazos",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/espacio/satelite-espia-estadounidense-guerra-fria-se-ha-roto-38-anos-orbita-no-sabemos-que-cuantos-pedazos",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
           "source": "Xataka",
           "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-          "ago": "hace 7 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "La guerra de drones de Ucrania acaba de superar una barrera insólita: drones persiguiendo a drones a velocidades de Fórmula 1",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/guerra-drones-ucrania-acaba-superar-barrera-insolita-drones-persiguiendo-a-drones-a-velocidades-formula-1",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "En la Segunda Guerra Mundial algunos soldados de EEUU coleccionaban cráneos japoneses. Fue tan común que incluso Hawái intervino",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/segunda-guerra-mundial-algunos-soldados-eeuu-coleccionaban-craneos-japoneses-fue-comun-que-incluso-hawai-intervino",
-          "ago": "hace 10 h"
+          "ago": "hace 22 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Impuesto a la gasolina en Texas: la discusión entre Paxton y Talarico de cara a las elecciones 2026",
+          "title": "Elecciones en Brasil 2026, EN VIVO: Lula vs. Flávio Bolsonaro y las últimas noticias, voto a voto",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/texas/impuesto-a-la-gasolina-en-texas-la-discusion-entre-paxton-y-talarico-de-cara-a-las-elecciones-2026-nid03102026/",
-          "ago": "hace 5 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-y-las-ultimas-noticias-voto-a-voto-nid04102026/",
+          "ago": "hace 13 min"
         },
         {
-          "title": "La nueva vida que Milei le da al peronismo",
+          "title": "Visa de turista en USA y el proyecto de ley que apunta a quienes viajan con el fin de tener un hijo en EE.UU.",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-nueva-vida-que-milei-le-da-al-peronismo-nid03102026/",
-          "ago": "hace 45 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/visa-de-turista-en-usa-y-el-proyecto-de-ley-que-apunta-a-quienes-viajan-con-el-fin-de-tener-un-hijo-nid04102026/",
+          "ago": "hace 18 min"
         },
         {
-          "title": "Confirmado por Uscis: la green card bajo la Ley de Ajuste Cubano registra una demoras de casi un año",
+          "title": "Choque múltiple en la ruta 2: murió un joven de 29 años tras impactar contra una camioneta y un camión",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/confirmado-por-uscis-la-green-card-bajo-la-ley-de-ajuste-cubano-registra-una-demoras-de-casi-un-ano-nid03102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/sociedad/choque-multiple-en-la-ruta-2-murio-un-joven-de-29-anos-tras-impactar-contra-una-camioneta-y-un-nid04102026/",
+          "ago": "hace 27 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Dólar y elecciones: las dudas detrás de la “bazuca” de Milei para evitar una corrida cambiaria en 2027",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/03/dolar-y-elecciones-las-dudas-detras-de-la-bazuca-de-milei-para-evitar-una-corrida-cambiaria-en-2027/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Dolarización de carteras: cuánto espera el Gobierno de cobertura ante las elecciones y cómo se prepara para enfrentarlo",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/03/dolarizacion-de-carteras-cuanto-espera-el-gobierno-de-cobertura-ante-las-elecciones-y-como-se-prepara-para-enfrentarlo/",
-          "ago": "hace 20 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Peso fuerte, la destrucción del BCRA y dolarización: las respuestas de Milei a una revista francesa",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/01/peso-fuerte-la-destruccion-del-bcra-y-dolarizacion-las-respuestas-de-milei-a-una-revista-francesa/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los aplausos en el Monumental para Leonel Flores",
-      "value": "hace 15 min"
+      "detail": "Gran goleada de River a Boca en un torneo juvenil internacional",
+      "value": "hace 30 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Los aplausos en el Monumental para Leonel Flores",
-      "value": "hace 15 min"
+      "detail": "El deseo de Scaloni de jugar con rivales \"potentes\" y qué dijo de l…",
+      "value": "hace 50 min"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Our final predictions and latest Bahrain GP odds",
+      "detail": "What the teams said – Race day in Malaysia",
       "value": "hace 1 min"
     }
   ]
