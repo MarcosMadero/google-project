@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T17:41:09.557Z",
+  "generatedAt": "2026-10-05T22:24:13.822Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
+          "ago": "hace 15 h"
         },
         {
-          "title": "\"Estamos listos para ir de inmediato\": los millonarios cubanoestadounidenses que esperan en Miami a que caiga el gobierno de Cuba",
+          "title": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "url": "https://www.bbc.com/mundo/articles/c8x234212407o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 43 min"
         }
       ]
     },
@@ -30,21 +30,21 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "La mujer más rica de Australia acaba de gastarse 600 millones de dólares en golpear a China donde más duele",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/materiales/mujer-rica-australia-acaba-gastarse-600-millones-golpear-a-china-donde-duele-respuesta-estaba-enterrada-brasil",
+          "ago": "hace 3 h"
+        },
+        {
           "title": "La Alhambra lleva más de seis siglos aguantando terremotos. Ahora quiere un plan por escrito para salvar sus Palacios Nazaríes",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/alhambra-lleva-seis-siglos-aguantando-terremotos-ahora-quiere-plan-escrito-para-salvar-sus-palacios-nazaries",
-          "ago": "hace 10 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "\"Los precios son una vergüenza\": Ibai ha encontrado la forma perfecta de mojarse y no mojarse sobre la crisis de vivienda",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/precios-verguenza-ibai-ha-encontrado-forma-perfecta-mojarse-no-mojarse-crisis-vivienda",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Ya sabemos lo que sintieron los soldados de la Primera Guerra Mundial cuando vieron un tanque: lo mismo que nosotros con los drones",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/nuevo-escenario-guerra-infierno-sabemos-que-sentian-soldados-primera-guerra-mundial",
           "ago": "hace 6 h"
         }
       ]
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente celebró el resultado en Brasil y dijo que el continente americano “quiere vivir en libertad”",
+          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente apuntó contra los “zurdos empobrecedores” y llamó a darle “brillo” al continente",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-celebro-el-resultado-en-brasil-y-dijo-que-el-nid05102026/",
-          "ago": "hace 25 min"
+          "ago": "hace 13 min"
         },
         {
-          "title": "Advertencia de abogados por los ataques de Javier Milei a periodistas: “La libertad de prensa está en peligro”",
+          "title": "Qué se sabe de los resultados de las Elecciones Brasil 2026, este lunes 5 de octubre",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/advertencia-de-abogados-por-los-ataques-de-javier-milei-a-periodistas-la-libertad-de-prensa-esta-en-nid05102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-brasil-2026-este-domingo-4-de-octubre-nid04102026/",
+          "ago": "hace 26 min"
         },
         {
-          "title": "El gobierno de Trump destacó el liderazgo regional de Milei para impulsar el combate contra el antisemitismo",
+          "title": "Murió Robert Kelker-Kelly, actor de Days of Our Lives y General Hospital, a los 62 años",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-destaco-el-liderazgo-regional-de-milei-parra-impulsar-el-combate-contra-el-nid05102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/espectaculos/personajes/murio-robert-kelker-kelly-actor-de-days-of-our-lives-y-general-hospital-a-los-62-anos-nid05102026/",
+          "ago": "hace 36 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "Mercados, dólar, exportaciones y turismo: que impacto tendrá en la Argentina el resultado de las elecciones en Brasil",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/05/mercados-dolar-exportaciones-y-turismo-que-impacto-tendra-en-la-argentina-el-resultado-de-las-elecciones-en-brasil/",
-          "ago": "hace 1 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "Dólar y elecciones: las dudas detrás de la “bazuca” de Milei para evitar una corrida cambiaria en 2027",
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los líderes de River y Boca: juntos y risas de Selección",
-      "value": "hace 2 h"
+      "detail": "\"Merentiel quiere renovar por cinco años más en Boca\"",
+      "value": "hace 22 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Uno por uno: quiénes son los jugadores de Benín que enfrentarán a M…",
-      "value": "hace 39 min"
+      "detail": "Los jugadores de Benín recorrieron Buenos Aires antes del histórico…",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "FIA Formula 2 and FIA Formula 3 announce 2027 calendars",
+      "detail": "Singapore Grand Prix betting guide and latest odds",
       "value": "hace 1 min"
     }
   ]
