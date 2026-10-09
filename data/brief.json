@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T21:10:54.777Z",
+  "generatedAt": "2026-10-09T01:34:44.524Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desalojo provocó una ola de protestas en España por la crisis de la vivienda",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c5djvg3nvj7yo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 23 h"
+          "ago": "hace 1 d"
+        },
+        {
+          "title": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6x29v4zxexro?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         },
         {
           "title": "\"Bluetoothing\": la peligrosa práctica de inyectarse sangre ajena para drogarse que podría estar alimentando una crisis de VIH",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cqj34mz5dkr6o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 59 min"
-        },
-        {
-          "title": "Muere Margaret Hamilton, la científica que desarrolló el software que fue clave para que la misión Apolo 11 llegara a la Luna",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckj0lrd9dn19o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Corea del Sur detecta indicios de IA en ataques a sus principales bancos y el presidente exige respuestas",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Es prácticamente imposible amañar las elecciones mediante el voto por correo en España",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/amenaza-fraude-voto-correo-se-ha-convertido-obsesion-29-n-realidad-que-muy-dificil-que-ocurra",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "Una parte de la comunidad matemática está en pie de guerra contra OpenAI",
           "source": "Xataka",
           "url": "https://www.xataka.com/investigacion/parte-comunidad-matematica-esta-pie-guerra-openai",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "Muere la mujer de la NASA que cambió para siempre lo que significaba ser programador",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/muere-mujer-nasa-que-cambio-para-significaba-ser-programador",
-          "ago": "hace 9 h"
+          "ago": "hace 12 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, EN VIVO: el Presidente volvió a llamar “ladrón” a Lula días después del triunfo de Bolsonaro",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-volvio-a-llamar-ladron-a-lula-dias-despues-del-nid08102026/",
-          "ago": "hace 11 min"
+          "ago": "hace 28 min"
         },
         {
-          "title": "Mandan a juicio a 24 empleados y sindicalistas que ocuparon la planta de FATE tras el cierre",
+          "title": "El Gobierno estudia denunciar a Irán ante la Corte Internacional de Justicia por el ataque a la AMIA",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/mandan-a-juicio-24-empleados-y-sindicalistas-que-ocuparon-planta-de-fate-tras-el-cierre-nid08102026/",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-estudia-denunciar-a-iran-por-el-ataque-a-la-amia-ante-la-corte-penal-internacional-nid08102026/",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "La Corte Suprema se reúne este viernes a las 9 para volver a fallar sobre la ley de tierras",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-se-reune-este-viernes-a-las-9-para-volver-a-fallar-sobre-la-ley-de-tierras-nid08102026/",
           "ago": "hace 2 h"
-        },
-        {
-          "title": "Trump dice que no atacará Irán hasta las elecciones de medio término en EE.UU.",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/trump-dice-que-no-atacara-iran-hasta-las-elecciones-de-medio-termino-en-eeuu-nid08102026/",
-          "ago": "hace 10 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno llegaría a las elecciones con recuperación económica modesta y una baja de la inflación a casi 20% anual",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/08/el-gobierno-llegaria-a-las-elecciones-con-recuperacion-economica-modesta-y-una-baja-de-la-inflacion-a-casi-20-anual/",
-          "ago": "hace 17 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/08/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-pese-a-la-rueda-negativa-de-wall-street/",
-          "ago": "hace 15 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "Carlos Melconian: “El año que viene será chivo, el Gobierno juega en un terreno defensivo porque no quiere conflictos financieros”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/08/carlos-melconian-el-ano-que-viene-sera-chivo-el-gobierno-juega-en-un-terreno-defensivo-porque-no-quiere-conflictos-financieros/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El emotivo mensaje del hijo de Miguel Ángel Russo a un año de su mu…",
-      "value": "hace 40 min"
+      "detail": "Video: el blooper con el que ganó Boca en Reserva",
+      "value": "hace 39 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Koné, de Burkina Faso, con Olé: \"Ante Argentina jugamos sin dormir\"",
-      "value": "hace 18 min"
+      "detail": "El delantero que lleva dos goles en la Serie A y se postuló para la…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Singapore Sprint weekend is such a challenge for drivers",
+      "detail": "Verstappen answers your questions in our exclusive Q&A",
       "value": "hace 1 min"
     }
   ]
