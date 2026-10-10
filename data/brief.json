@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:24:43.663Z",
+  "generatedAt": "2026-10-10T14:57:14.521Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 50 min"
+          "ago": "hace 2 h"
         },
         {
           "title": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 17 h"
         },
         {
-          "title": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
+          "title": "En imágenes: los graves destrozos que dejó el potente terremoto que sacudió Panamá este viernes",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
+          "url": "https://www.bbc.com/mundo/articles/c6ly04p7x2xno?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Juan Roig, presidente de Mercadona: \"Tenemos que pagar impuestos. Es algo muy bueno y muy sano, y es para estar orgullosos\"",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/juan-roig-presidente-mercadona-tenemos-que-pagar-impuestos-algo-muy-bueno-muy-sano-para-estar-orgullosos",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Trump anuncia un acuerdo para que Rusia vuelva a vender diésel mientras Zelenski denuncia un “regalo a Putin”",
           "source": "Xataka",
           "url": "https://www.xataka.com/energia/trump-anuncia-acuerdo-rusia-vuelva-a-vender-diesel-zelenski-denuncia-regalo-a-putin",
-          "ago": "hace 4 h"
+          "ago": "hace 18 h"
         },
         {
           "title": "La 'ley de nietos' acaba de convertirse en la gran grieta del 29-N y de momento nadie sabe a cuántos votantes afecta",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/ley-nietos-se-ha-convertido-bomba-relojeria-29-n-duda-pendiente-pucherazo-solo-14-120-votos",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "Europa y China alcanzan un acuerdo que apunta a reducir a la mitad la llegada de coches híbridos chinos en cuatro años",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/europa-china-alcanzan-acuerdo-que-apunta-a-reducir-a-mitad-llegada-coches-hibridos-chinos-cuatro-anos",
-          "ago": "hace 9 h"
+          "ago": "hace 21 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Sin la ley de tierras, la oposición insistirá con la sesión especial con otros dos proyectos incómodos para Milei",
+          "title": "El blooper de Neuer que terminó en gol de Augsburgo ante Bayern Munich (y en récord) en la liga de Alemania",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/sin-la-ley-de-tierras-la-oposicion-insistira-con-la-sesion-especial-con-otros-dos-proyectos-nid09102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/deportes/futbol/el-blooper-de-neuer-que-termino-en-gol-de-augsburgo-ante-bayern-munich-y-en-record-en-la-liga-de-nid10102026/",
+          "ago": "hace 11 min"
         },
         {
-          "title": "Martín Menem se refirió a las internas del Gobierno y llamó a armar alianzas",
+          "title": "El golazo de Bruno Guimaraes para Arsenal: caño, ataque en 8 pases, asistencia de taco y derechazo fulminante",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/martin-menem-se-refirio-a-las-internas-del-gobierno-y-llamo-a-armar-alianzas-nid09102026/",
-          "ago": "hace 14 min"
+          "url": "https://www.lanacion.com.ar/deportes/futbol/el-golazo-de-bruno-guimaraes-para-arsenal-cano-ataque-en-8-pases-asistencia-de-taco-y-derechazo-nid10102026/",
+          "ago": "hace 51 min"
         },
         {
-          "title": "Javier Milei y sus medidas, en vivo: el mandatario volvió a cargar contra la prensa y acusó a una periodista de “zurda”",
+          "title": "La Argentina se abarató en dólares pero lidera el ranking de indumentaria y restaurantes más caros",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-volvio-a-cargar-contra-la-prensa-y-acuso-a-una-nid09102026/",
-          "ago": "hace 46 min"
+          "url": "https://www.lanacion.com.ar/economia/la-argentina-se-abarato-en-dolares-pero-lidera-el-ranking-de-indumentaria-y-restaurantes-mas-caros-nid10102026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El Gobierno reglamentó la ley de Inocencia Fiscal II: cómo se aplicará la norma que busca sacar los “dólares del colchón”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/09/el-gobierno-reglamento-la-ley-de-inocencia-fiscal-ii-como-se-aplicara-la-norma-que-busca-sacar-los-dolares-del-colchon/",
-          "ago": "hace 15 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "El Gobierno llegaría a las elecciones con recuperación económica modesta y una baja de la inflación a casi 20% anual",
@@ -88,10 +88,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "El BCRA aceleró las compras de dólares y acumula casi USD 15.000 millones en 2026",
+          "title": "Cerraron casi 1.000 empresas en julio: cuántas bajaron sus persianas desde que asumió el gobierno de Javier Milei",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/09/el-bcra-acelero-las-compras-de-dolares-y-acumula-casi-usd-15000-millones-en-2026/",
-          "ago": "hace 3 h"
+          "url": "https://www.infobae.com/economia/2026/10/10/cerraron-casi-1000-empresas-en-julio-cuantas-bajaron-sus-persianas-desde-que-asumio-el-gobierno-de-javier-milei/",
+          "ago": "hace 11 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Arruabarrena: de \"Paredes está lesionado\" a \"tenemos con qué suplan…",
-      "value": "hace 18 min"
+      "detail": "Castrilli, contundente con su opinión de los goles de Instituto a Boca",
+      "value": "hace 41 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "El increíble tatuaje de Messi que se hizo un integrante de la Scalo…",
+      "detail": "Fue el primer 10 después de Maradona, postuló a Enzo Fernández y si…",
       "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Who will go fastest in Singapore Grand Prix Qualifying?",
+      "detail": "Verstappen beats Leclerc to pole position for Singapore GP",
       "value": "hace 1 min"
     }
   ]
