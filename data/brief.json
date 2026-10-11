@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:35:40.571Z",
+  "generatedAt": "2026-10-11T15:14:38.030Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Trump dice que \"es hora de que Ucrania tenga un nuevo presidente\", tras las críticas de Zelensky al acuerdo sobre el diésel entre EE.UU. y Rusia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 51 min"
+          "ago": "hace 50 min"
         },
         {
           "title": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 h"
+          "ago": "hace 16 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Juan Roig, presidente de Mercadona: \"Tenemos que pagar impuestos. Es algo muy bueno y muy sano, y es para estar orgullosos\"",
+          "title": "El cuello de botella en la investigación científica actual son los monos: China necesita más y no tiene forma de acceder a ellos",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/juan-roig-presidente-mercadona-tenemos-que-pagar-impuestos-algo-muy-bueno-muy-sano-para-estar-orgullosos",
-          "ago": "hace 15 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/cuello-botella-investigacion-cientifica-actual-monos-china-necesita-no-tiene-forma-acceder-a-ellos",
+          "ago": "hace 14 min"
         },
         {
-          "title": "Trump anuncia un acuerdo para que Rusia vuelva a vender diésel mientras Zelenski denuncia un “regalo a Putin”",
+          "title": "Así funciona el metano sintético que España fabrica con CO₂ e hidrógeno renovable para sustituir al gas natural",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/trump-anuncia-acuerdo-rusia-vuelva-a-vender-diesel-zelenski-denuncia-regalo-a-putin",
-          "ago": "hace 1 d"
+          "url": "https://www.xataka.com/energia/asi-funciona-metano-sintetico-que-espana-fabrica-co2-e-hidrogeno-renovable-para-sustituir-al-gas-natural",
+          "ago": "hace 44 min"
         },
         {
-          "title": "La 'ley de nietos' acaba de convertirse en la gran grieta del 29-N y de momento nadie sabe a cuántos votantes afecta",
+          "title": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/ley-nietos-se-ha-convertido-bomba-relojeria-29-n-duda-pendiente-pucherazo-solo-14-120-votos",
-          "ago": "hace 1 d"
+          "url": "https://www.xataka.com/cine-y-tv/tiene-16-episodios-lleva-ocho-anos-netflix-cuatro-semanas-dejara-estar-disponible",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Al menos 12 muertos y 309 heridos por un ataque hutí al aeropuerto de Riad en Arabia Saudita",
+          "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/al-menos-12-muertos-y-309-heridos-por-un-ataque-huti-al-aeropuerto-de-riad-en-arabia-saudita-nid10102026/",
-          "ago": "hace 43 min"
+          "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "A un mes de la visita del papa León XIV, el Gobierno prepara un megaoperativo de seguridad y la Iglesia atrae aportantes privados",
+          "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/a-un-mes-de-la-visita-del-papa-leon-xiv-el-gobierno-prepara-un-megaoperativo-de-seguridad-y-la-nid10102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Empezó la carrera por el Oscar internacional con récord de presentaciones",
+          "title": "Se despide DeSantis y pide votar en noviembre una enmienda que define el impuesto a la propiedad en Florida",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/cine/empezo-la-carrera-por-el-oscar-internacional-con-record-de-presentaciones-nid10102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/estados-unidos/florida/se-despide-desantis-y-pide-votar-en-noviembre-la-enmienda-3-que-define-el-impuesto-a-la-propiedad-en-nid11102026/",
+          "ago": "hace 24 min"
         }
       ]
     },
@@ -88,10 +88,10 @@
           "ago": "hace 3 d"
         },
         {
-          "title": "Inflación, mora y tasas reales de interés, las claves que definirán el futuro del crédito",
+          "title": "Milei llevó al Gabinete el debate sobre el tipo de cambio: ¿puede crecer Argentina con un dólar bajo?",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/10/inflacion-mora-y-tasas-reales-de-interes-las-claves-que-definiran-el-futuro-del-credito/",
-          "ago": "hace 3 h"
+          "url": "https://www.infobae.com/economia/2026/10/11/milei-llevo-al-gabinete-el-debate-sobre-el-tipo-de-cambio-puede-crecer-argentina-con-un-dolar-bajo/",
+          "ago": "hace 10 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca sin Paredes: los nombres para reemplazar al único irremplazabl…",
-      "value": "hace 43 min"
+      "detail": "Todo el trasfondo de la guerra por el Maracaná: ¿dónde jugará Boca …",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Palermo y el sentido mensaje a Maradona en un nuevo aniversario del…",
-      "value": "hace 1 h"
+      "value": "hace 16 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Our Singapore Grand Prix Bet Builder picks made",
+      "detail": "Leclerc ‘gave it all’ to secure P2 in Singapore",
       "value": "hace 1 min"
     }
   ]
