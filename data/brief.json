@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T15:14:38.030Z",
+  "generatedAt": "2026-10-11T20:03:41.224Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Trump dice que \"es hora de que Ucrania tenga un nuevo presidente\", tras las críticas de Zelensky al acuerdo sobre el diésel entre EE.UU. y Rusia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
-          "title": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
+          "title": "Al menos 13 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, que fue golpeado de nuevo el domingo",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 50 min"
+          "ago": "hace 2 h"
         },
         {
           "title": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El cuello de botella en la investigación científica actual son los monos: China necesita más y no tiene forma de acceder a ellos",
+          "title": "En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/cuello-botella-investigacion-cientifica-actual-monos-china-necesita-no-tiene-forma-acceder-a-ellos",
-          "ago": "hace 14 min"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/1971-liberaron-11-ovejas-salvajes-parque-nacional-teide-para-caza-mayor-hoy-pesadilla-ecologica",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Así funciona el metano sintético que España fabrica con CO₂ e hidrógeno renovable para sustituir al gas natural",
+          "title": "Por 8 euros, Lidl vende hoy una lámpara con sensor de movimiento que soluciona un problema cotidiano en casa",
           "source": "Xataka",
-          "url": "https://www.xataka.com/energia/asi-funciona-metano-sintetico-que-espana-fabrica-co2-e-hidrogeno-renovable-para-sustituir-al-gas-natural",
-          "ago": "hace 44 min"
+          "url": "https://www.xataka.com/seleccion/8-euros-lidl-vende-hoy-lampara-sensor-movimiento-que-soluciona-problema-cotidiano-casa",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
+          "title": "Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula",
           "source": "Xataka",
-          "url": "https://www.xataka.com/cine-y-tv/tiene-16-episodios-lleva-ocho-anos-netflix-cuatro-semanas-dejara-estar-disponible",
-          "ago": "hace 1 h"
+          "url": "https://www.xataka.com/medicina-y-salud/numero-que-tu-reloj-mide-predice-cuanto-viviras-mejor-que-peso-vo2-max",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "El proyecto de ley republicano que impondría multas de US$250 mil dólares sobre las visas H-1B",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-proyecto-de-ley-republicano-que-impondria-multas-de-us250-mil-dolares-sobre-las-visas-h-1b-nid11102026/",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Se despide DeSantis y pide votar en noviembre una enmienda que define el impuesto a la propiedad en Florida",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/florida/se-despide-desantis-y-pide-votar-en-noviembre-la-enmienda-3-que-define-el-impuesto-a-la-propiedad-en-nid11102026/",
-          "ago": "hace 24 min"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "El Gobierno llegaría a las elecciones con recuperación económica modesta y una baja de la inflación a casi 20% anual",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/08/el-gobierno-llegaria-a-las-elecciones-con-recuperacion-economica-modesta-y-una-baja-de-la-inflacion-a-casi-20-anual/",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         },
         {
           "title": "Milei llevó al Gabinete el debate sobre el tipo de cambio: ¿puede crecer Argentina con un dólar bajo?",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/11/milei-llevo-al-gabinete-el-debate-sobre-el-tipo-de-cambio-puede-crecer-argentina-con-un-dolar-bajo/",
-          "ago": "hace 10 h"
+          "ago": "hace 14 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Todo el trasfondo de la guerra por el Maracaná: ¿dónde jugará Boca …",
-      "value": "hace 17 min"
+      "detail": "Messi lo eligió y el 10 de Boca le respondió: el mensaje de Aranda …",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Palermo y el sentido mensaje a Maradona en un nuevo aniversario del…",
-      "value": "hace 16 h"
+      "detail": "Del “te atajé con mucho corazón\" a “gracias por hacerme mejor jugad…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Leclerc ‘gave it all’ to secure P2 in Singapore",
+      "detail": "All the key moments from the 2026 Singapore Grand Prix",
       "value": "hace 1 min"
     }
   ]
