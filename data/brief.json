@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:28:00.961Z",
+  "generatedAt": "2026-10-12T22:48:48.461Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "\"Cada día muere gente\": las familias en Gaza que siguen bajo los ataques israelíes pese al alto el fuego, mientras el acuerdo de paz se estanca",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c95ynxjmp253o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
+        },
+        {
+          "title": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm4g1r51eex1o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 17 min"
         },
         {
           "title": "Cómo es Yandex, el \"Google de Rusia\" que se ha convertido en blanco de ataques de Ucrania",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c670pwl08kgeo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "Dos estadounidenses ganan el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -33,18 +33,18 @@
           "title": "Un ciberataque pone patas arriba los frigoríficos de supermercados franceses y otro incidente afecta a cadenas europeas",
           "source": "Xataka",
           "url": "https://www.xataka.com/seguridad/ciberataque-pone-patas-arriba-frigorificos-supermercados-franceses-otro-incidente-afecta-a-cadenas-europeas",
-          "ago": "hace 31 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "La CIA tenía una pista aérea secreta para combatir al comunismo. 50 años después, China la está llenando de aviones para la guerra",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/cia-tenia-pista-aerea-secreta-para-combatir-al-comunismo-50-anos-despues-china-esta-llenando-aviones-para-guerra",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
         },
         {
-          "title": "Creíamos que el plomo llegó a la península Ibérica con los fenicios, pero una aldea de Lleida ya lo fundía casi mil años antes",
+          "title": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/creiamos-que-plomo-llego-a-peninsula-iberica-fenicios-aldea-lleida-fundia-casi-mil-anos-antes",
+          "url": "https://www.xataka.com/robotica-e-ia/nvidia-tiene-motivos-para-preocuparse-microsoft-apuesta-su-propio-chip-maia-300-para-su-infraestructura-ia",
           "ago": "hace 58 min"
         }
       ]
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Alberto Fernández recordó sus diferencias con Cristina Kirchner por el acuerdo con el FMI",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-recordo-sus-diferencias-con-cristina-kirchner-por-el-acuerdo-con-el-fmi-nid12102026/",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-          "ago": "hace 15 min"
+          "ago": "hace 31 min"
         },
         {
-          "title": "Alerta en Francia por un ciberataque masivo contra supermercados: heladeras a 50°, incendios y pérdida de comida",
+          "title": "El Gobierno rechazó el ingreso al país de un periodista brasileño que había criticado a Milei",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/alerta-en-francia-por-un-ciberataque-masivo-contra-supermercados-heladeras-a-50-incendios-y-perdida-nid12102026/",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "Difunden un video del momento del ataque hutí contra el aeropuerto de Riad: Arabia Saudita investiga por qué no lo anticiparon",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/difunden-un-video-del-momento-del-ataque-contra-el-aeropuerto-de-riad-arabia-saudita-investiga-por-nid12102026/",
-          "ago": "hace 4 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-ingreso-al-pais-de-un-periodista-brasileno-que-habia-criticado-a-milei-nid12102026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno reglamentó la ley de Inocencia Fiscal II: cómo se aplicará la norma que busca sacar los “dólares del colchón”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/09/el-gobierno-reglamento-la-ley-de-inocencia-fiscal-ii-como-se-aplicara-la-norma-que-busca-sacar-los-dolares-del-colchon/",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         },
         {
           "title": "Insólito ciberataque a supermercados en Francia: hackearon la temperatura de las heladeras para arruinar la mercadería",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/12/insolito-ciberataque-a-supermercados-en-francia-hackearon-la-temperatura-de-las-heladeras-para-arruinar-la-mercaderia/",
-          "ago": "hace 44 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "Según Miguel Ángel Broda, la potencial corrida cambiaria es mayor y la “bazuca” de dólares para afrontarla menor de lo que dice el gobierno",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/12/segun-un-reconocido-consultor-la-potencial-corrida-cambiaria-es-mayor-y-la-bazuca-de-dolares-para-afrontarla-menor-de-lo-que-dice-el-gobierno/",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los dos jugadores que estuvieron a punto de llegar a Boca y jugarán…",
-      "value": "hace 19 min"
+      "detail": "Los hinchas de Vasco con Olé antes del partido en la Bombonera: \"Qu…",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "El picante posteo que hizo Enzo Fernández tras la goleada del City …",
-      "value": "hace 6 h"
+      "value": "hace 10 h"
     },
     {
       "team": "Fórmula 1",
