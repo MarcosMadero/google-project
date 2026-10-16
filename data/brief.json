@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:58:24.480Z",
+  "generatedAt": "2026-10-16T13:40:46.261Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+          "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 21 min"
+          "url": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
         },
         {
           "title": "Trump cancela la transmisión en vivo de la ejecución del primer militar que será fusilado en EE.UU. desde la II Guerra Mundial",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
+          "ago": "hace 22 h"
+        },
+        {
+          "title": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwm235lgg69lo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 d"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Cada dato que conocemos sobre el dominio de mercado de China de los robots humanoides es más intimidante",
+          "title": "La NASA ofrece 150.000 dólares a quien evite que los astronautas se conviertan en “condensadores de alto voltaje” en la Luna",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/cada-dato-que-conocemos-dominio-mercado-china-robots-humanoides-impresionante-tienen-97-cuota",
-          "ago": "hace 5 h"
+          "url": "https://www.xataka.com/espacio/nasa-ha-lanzado-concurso-para-evitar-que-astronautas-incendien-sus-naves-luna",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Nvidia se ha propuesto diversificar su apuesta por la IA: ha donado 250 millones de dólares a Reino Unido y más de 2.000 millones en Europa",
+          "title": "El híbrido enchufable y eléctrico chino está arrasando el mercado. Algunos expertos apuntan que nos estamos equivocando",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-ha-propuesto-diversificar-su-apuesta-ia-ha-donado-250-millones-dolares-a-reino-unido-2-000-millones-europa",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/movilidad/hibrido-enchufable-electrico-chino-esta-arrasando-mercado-algunos-expertos-apuntan-que-nos-estamos-equivocando",
+          "ago": "hace 4 h"
         },
         {
-          "title": "Silicon Valley está abrazando el preparacionismo convencido de las catástrofes a las que nos conduce la IA",
+          "title": "Rusia fabricó la campana más grande y descomunal de la historia para impresionar al mundo, y consiguió algo todavía más difícil: que jamás sonara",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/silicon-valley-tiene-claro-que-futuro-no-seran-300-supermercados-sino-todo-pais-eso-se-esta-volviendo-preparacionista",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/magnet/rusia-fabrico-campana-grande-descomunal-historia-para-impresionar-al-mundo-consiguio-algo-todavia-dificil-que-jamas-sonara",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Tras la marcha, Yacobitti exigió al Gobierno que “cumpla” con la ley de Financiamiento Universitario",
+          "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/tras-la-marcha-yacobitti-exigio-al-gobierno-que-cumpla-con-la-ley-de-financiamiento-universitario-nid15102026/",
-          "ago": "hace 26 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+          "ago": "hace 45 min"
         },
         {
-          "title": "En Washington, Milei reforzó su condena al antisemitismo y cosechó otro elogio del gobierno de Trump",
+          "title": "Marcha universitaria: el Gobierno calificó los incidentes como un ataque a la democracia y apuntó a “grupos de tarea”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/en-washington-milei-reforzo-su-condena-al-antisemitismo-y-cosecho-otro-elogio-del-gobierno-de-trump-nid15102026/",
-          "ago": "hace 41 min"
+          "url": "https://www.lanacion.com.ar/sociedad/marcha-universitaria-el-gobierno-califico-los-incidentes-como-un-ataque-a-la-democracia-y-apunto-a-nid16102026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Conceden la extradición del “marcador” de la banda que ejecutó el atentado mortal contra el precandidato a presidente de Colombia Miguel Uribe Turbay",
+          "title": "El gobierno de Trump envía a la Argentina a dos altos funcionarios para avanzar con un ambicioso proyecto de infraestructura",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/seguridad/conceden-la-extradicion-del-marcador-de-la-banda-que-ejecuto-el-atentado-mortal-contra-el-nid15102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-envia-a-la-argentina-a-dos-altos-funcionarios-para-avanzar-con-un-ambicioso-nid16102026/",
+          "ago": "hace 5 min"
         }
       ]
     },
@@ -76,21 +76,21 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "El Gobierno logró frenar la ofensiva opositora en el Congreso: por qué fue una buena señal para los mercados y el riesgo país",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/16/el-gobierno-logro-frenar-la-ofensiva-opositora-en-el-congreso-por-que-fue-una-buena-senal-para-los-mercados-y-el-riesgo-pais/",
+          "ago": "hace 8 h"
+        },
+        {
+          "title": "La Bolsa de Comercio de Mendoza organizará una capacitación oficial del LME, el mercado de metales más importante del mundo",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/16/la-bolsa-de-comercio-de-mendoza-organizara-una-capacitacion-oficial-del-lme-el-mercado-de-metales-mas-importante-del-mundo/",
+          "ago": "hace 3 h"
+        },
+        {
           "title": "Con la mora en niveles récord, el Gobierno prepara cinco medidas para impulsar el crédito en pesos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/15/con-la-mora-en-niveles-record-el-gobierno-prepara-cinco-medidas-para-impulsar-el-credito-en-pesos/",
-          "ago": "hace 18 h"
-        },
-        {
-          "title": "La inflación de Estados Unidos sacudió a los mercados y elevó el riesgo país argentino por encima de los 600 puntos",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/15/la-inflacion-de-estados-unidos-sacudio-a-los-mercados-y-elevo-el-riesgo-pais-argentino-por-encima-de-los-600-puntos/",
-          "ago": "hace 18 h"
-        },
-        {
-          "title": "La inflación en EEUU impactó en los mercados: cayeron las acciones y el riesgo país superó los 600 puntos",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/14/la-inflacion-en-eeuu-lleva-cautela-a-los-mercados-caen-las-acciones-y-los-bonos-argentinos/",
           "ago": "hace 1 d"
         }
       ]
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La eufórica arenga de Santiago Sosa antes de enfrentar a Boca: \"Una…",
+      "detail": "Con Boca y Estudiantes definiendo sus series en el Maracaná: ¿cuále…",
       "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Lautaro Martínez contra las teorías conspirativas: \"Molesta\"",
-      "value": "hace 30 min"
+      "detail": "Arranca el Mundial Femenino Sub 17 en Marruecos: primera vez de Arg…",
+      "value": "hace 4 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Williams outline plans for 50th anniversary year in 2027",
+      "detail": "'We see huge potential' – Komatsu on choosing Camara for Haas",
       "value": "hace 1 min"
     }
   ]
