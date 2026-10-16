@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:40:46.261Z",
+  "generatedAt": "2026-10-16T19:27:05.681Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,13 +10,13 @@
           "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "Trump cancela la transmisión en vivo de la ejecución del primer militar que será fusilado en EE.UU. desde la II Guerra Mundial",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 22 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente",
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La NASA ofrece 150.000 dólares a quien evite que los astronautas se conviertan en “condensadores de alto voltaje” en la Luna",
+          "title": "La Ley de Propiedad Horizontal lo permite y los expertos lo confirman: \"Puedes instalar una barandilla en tu plaza para que no rayen tu coche\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/nasa-ha-lanzado-concurso-para-evitar-que-astronautas-incendien-sus-naves-luna",
+          "url": "https://www.xataka.com/movilidad/ley-propiedad-horizontal-permite-expertos-confirman-puedes-instalar-barandilla-tu-plaza-no-rayen-tu-coche",
           "ago": "hace 2 h"
         },
         {
-          "title": "El híbrido enchufable y eléctrico chino está arrasando el mercado. Algunos expertos apuntan que nos estamos equivocando",
+          "title": "Mercadona siguió con un detective a un trabajador de Albacete de baja que cuidaba a su hija enferma y después lo despidió: la Justicia obliga a readmitirlo",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/hibrido-enchufable-electrico-chino-esta-arrasando-mercado-algunos-expertos-apuntan-que-nos-estamos-equivocando",
-          "ago": "hace 4 h"
+          "url": "https://www.xataka.com/magnet/mercadona-siguio-detective-a-trabajador-albacete-baja-que-cuidaba-a-su-hija-enferma-despues-despidio-justicia-obliga-a-readmitirlo",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Rusia fabricó la campana más grande y descomunal de la historia para impresionar al mundo, y consiguió algo todavía más difícil: que jamás sonara",
+          "title": "OpenAI pidió a una IA que terminara una tarea de programación. Acabó entrando en una cartera ajena para conseguirlo",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/rusia-fabrico-campana-grande-descomunal-historia-para-impresionar-al-mundo-consiguio-algo-todavia-dificil-que-jamas-sonara",
-          "ago": "hace 10 min"
+          "url": "https://www.xataka.com/robotica-e-ia/openai-pidio-a-ia-que-terminara-tarea-programacion-acabo-entrando-cartera-ajena-para-conseguirlo",
+          "ago": "hace 57 min"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-          "ago": "hace 45 min"
+          "ago": "hace 7 min"
         },
         {
-          "title": "Marcha universitaria: el Gobierno calificó los incidentes como un ataque a la democracia y apuntó a “grupos de tarea”",
+          "title": "El Gobierno mostró superávit en septiembre y dijo que “cumplió” con la ley de financiamiento universitario",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/marcha-universitaria-el-gobierno-califico-los-incidentes-como-un-ataque-a-la-democracia-y-apunto-a-nid16102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/",
+          "ago": "hace 3 h"
         },
         {
-          "title": "El gobierno de Trump envía a la Argentina a dos altos funcionarios para avanzar con un ambicioso proyecto de infraestructura",
+          "title": "Con el cierre de farmacias y centros médicos se extiende la crisis de la obra social de los militares",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-envia-a-la-argentina-a-dos-altos-funcionarios-para-avanzar-con-un-ambicioso-nid16102026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/politica/con-el-cierre-de-farmacias-y-centros-medicos-se-extiende-la-crisis-de-la-obra-social-de-los-nid16102026/",
+          "ago": "hace 6 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno logró frenar la ofensiva opositora en el Congreso: por qué fue una buena señal para los mercados y el riesgo país",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/16/el-gobierno-logro-frenar-la-ofensiva-opositora-en-el-congreso-por-que-fue-una-buena-senal-para-los-mercados-y-el-riesgo-pais/",
-          "ago": "hace 8 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "La Bolsa de Comercio de Mendoza organizará una capacitación oficial del LME, el mercado de metales más importante del mundo",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/16/la-bolsa-de-comercio-de-mendoza-organizara-una-capacitacion-oficial-del-lme-el-mercado-de-metales-mas-importante-del-mundo/",
-          "ago": "hace 3 h"
+          "ago": "hace 9 h"
         },
         {
           "title": "Con la mora en niveles récord, el Gobierno prepara cinco medidas para impulsar el crédito en pesos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/15/con-la-mora-en-niveles-record-el-gobierno-prepara-cinco-medidas-para-impulsar-el-credito-en-pesos/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Con Boca y Estudiantes definiendo sus series en el Maracaná: ¿cuále…",
+      "detail": "Boca vs. Talleres, hoy EN VIVO por el Torneo Clausura: posibles for…",
       "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Arranca el Mundial Femenino Sub 17 en Marruecos: primera vez de Arg…",
-      "value": "hace 4 h"
+      "detail": "Qué dijeron en Costa Rica luego de la confirmación del amistoso ant…",
+      "value": "hace 29 min"
     },
     {
       "team": "Fórmula 1",
-      "detail": "'We see huge potential' – Komatsu on choosing Camara for Haas",
+      "detail": "Why Brown thinks Piastri is 'back to the driver I know'",
       "value": "hace 1 min"
     }
   ]
