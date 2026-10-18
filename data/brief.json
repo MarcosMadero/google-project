@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:30:55.102Z",
+  "generatedAt": "2026-10-18T23:48:52.913Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
+        },
+        {
           "title": "\"Un acto de violencia grave\": condenan ataque de colonos israelíes contra diplomáticos europeos en Cisjordania",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c8jd1xnryppo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6x2vx8pvdv2o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "ago": "hace 14 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "El disquete murió hace décadas, pero sigue vivo en el metro de San Francisco: modernizarlo llevará hasta 2034",
           "source": "Xataka",
           "url": "https://www.xataka.com/movilidad/disquete-murio-hace-decadas-sigue-vivo-metro-san-francisco-modernizarlo-llevara-2034",
-          "ago": "hace 1 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "En 1977, un príncipe saudí se llevó de Alaska un iceberg milenario de 2 toneladas para solucionar la crisis mundial del agua. Terminó poniendo hielo a los cubatas",
           "source": "Xataka",
           "url": "https://www.xataka.com/ecologia-y-naturaleza/1977-principe-saudi-se-llevo-alaska-iceberg-milenario-2-toneladas-para-solucionar-crisis-mundial-agua-termino-poniendo-hielo-a-cubatas",
-          "ago": "hace 9 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "El móvil de 120 euros se muere. Y no va a volver",
           "source": "Xataka",
           "url": "https://www.xataka.com/moviles/movil-120-euros-se-muere-no-va-a-volver",
-          "ago": "hace 9 h"
+          "ago": "hace 15 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Advierten que los servicios impiden que baje la inflación, aun con una economía debilitada y el dólar planchado",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/advierten-que-los-servicios-impiden-que-baje-la-inflacion-aun-con-una-economia-debilitada-y-el-dolar-nid18102026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "En medio de los disturbios en Francia, Milei recordó su discurso de 2024 en Davos",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/en-medio-de-los-disturbios-en-francia-milei-recordo-su-discurso-de-2024-en-davos-nid18102026/",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
-          "title": "Redadas del ICE en California: los agentes federales podrán seguir sin mostrar su identificación pese a la ley estatal",
+          "title": "Trump toca un piso de aprobación y los demócratas amplían su ventaja antes de las elecciones",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/california/redadas-del-ice-en-california-los-agentes-federales-podran-seguir-sin-mostrar-su-identificacion-pese-nid18102026/",
-          "ago": "hace 5 h"
-        },
-        {
-          "title": "Un sacerdote murió en misa en Ecuador luego de que se le cayera una cruz de madera en la cabeza",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/un-sacerdote-murio-en-misa-en-ecuador-luego-de-que-se-le-cayo-una-cruz-de-madera-en-la-cabeza-nid18102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/trump-toca-un-piso-de-aprobacion-y-los-democratas-amplian-su-ventaja-antes-de-las-elecciones-nid18102026/",
+          "ago": "hace 55 min"
         }
       ]
     },
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Todos juntos: Boca viaja a Río con Paredes y hasta los lesionados p…",
+      "detail": "Boca quiere copar otra vez Río de Janeiro: habrá un banderazo en Co…",
       "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Buenas noticias: Dibu Martínez fue dado de alta tras ser operado po…",
-      "value": "hace 4 h"
+      "value": "hace 10 h"
     },
     {
       "team": "Fórmula 1",
