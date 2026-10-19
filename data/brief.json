@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:48:52.913Z",
+  "generatedAt": "2026-10-19T16:04:57.030Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6kg543ly39lo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "La conmoción en Australia después de que un vehículo arrollara y dejara gravemente herida a una diputada en un presunto ataque deliberado",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cw77p62zkl1eo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "\"Un acto de violencia grave\": condenan ataque de colonos israelíes contra diplomáticos europeos en Cisjordania",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 14 h"
-        },
-        {
-          "title": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8jd1xnryppo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 14 h"
+          "ago": "hace 19 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El disquete murió hace décadas, pero sigue vivo en el metro de San Francisco: modernizarlo llevará hasta 2034",
+          "title": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/disquete-murio-hace-decadas-sigue-vivo-metro-san-francisco-modernizarlo-llevara-2034",
-          "ago": "hace 7 h"
+          "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
+          "ago": "hace 3 h"
         },
         {
-          "title": "En 1977, un príncipe saudí se llevó de Alaska un iceberg milenario de 2 toneladas para solucionar la crisis mundial del agua. Terminó poniendo hielo a los cubatas",
+          "title": "La \"ameba de fuego\" rompe el récord de calor para la vida compleja y obliga a replantear dónde buscar vida extraterrestre",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/1977-principe-saudi-se-llevo-alaska-iceberg-milenario-2-toneladas-para-solucionar-crisis-mundial-agua-termino-poniendo-hielo-a-cubatas",
-          "ago": "hace 14 h"
+          "url": "https://www.xataka.com/espacio/ameba-fuego-rompe-record-calor-para-vida-compleja-obliga-a-replantear-donde-buscar-vida-extraterrestre",
+          "ago": "hace 3 min"
         },
         {
-          "title": "El móvil de 120 euros se muere. Y no va a volver",
+          "title": "Haier se estrena en el mercado de la aspiración: así es su nueva gama I-Pro Clean Series 5 para plantar cara a Roborock y Dyson",
           "source": "Xataka",
-          "url": "https://www.xataka.com/moviles/movil-120-euros-se-muere-no-va-a-volver",
-          "ago": "hace 15 h"
+          "url": "https://www.xataka.com/seleccion/haier-se-estrena-mercado-aspiracion-asi-su-nueva-gama-i-pro-clean-series-5-para-plantar-cara-a-roborock-dyson",
+          "ago": "hace 19 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Advierten que los servicios impiden que baje la inflación, aun con una economía debilitada y el dólar planchado",
+          "title": "Karina Milei recordó que su familia vivió en Devoto y celebró el traslado de la cárcel",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/advierten-que-los-servicios-impiden-que-baje-la-inflacion-aun-con-una-economia-debilitada-y-el-dolar-nid18102026/",
+          "url": "https://www.lanacion.com.ar/politica/karina-milei-recordo-que-su-familia-vivio-en-devoto-y-celebro-el-traslado-de-la-carcel-nid19102026/",
+          "ago": "hace 41 min"
+        },
+        {
+          "title": "El CEO de Latam destacó la señal de apertura del Gobierno y dijo que analiza oportunidades en el mercado",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/el-ceo-de-latam-destaco-la-senal-de-apertura-del-gobierno-argentino-y-dijo-que-analizan-nid19102026/",
           "ago": "hace 2 h"
         },
         {
-          "title": "En medio de los disturbios en Francia, Milei recordó su discurso de 2024 en Davos",
+          "title": "Donald Trump, presidente de EE.UU.: “Lamentablemente, los carteles controlan México; se lo dije a Sheinbaum y no está contenta”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/en-medio-de-los-disturbios-en-francia-milei-recordo-su-discurso-de-2024-en-davos-nid18102026/",
-          "ago": "hace 7 h"
-        },
-        {
-          "title": "Trump toca un piso de aprobación y los demócratas amplían su ventaja antes de las elecciones",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/trump-toca-un-piso-de-aprobacion-y-los-democratas-amplian-su-ventaja-antes-de-las-elecciones-nid18102026/",
-          "ago": "hace 55 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/washington/donald-trump-presidente-de-eeuu-lamentablemente-los-carteles-controlan-mexico-se-lo-dije-a-sheinbaum-nid19102026/",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "Scott Bessent, Japón y la Argentina: ¿cuánto puede aportar Estados Unidos a la “bazuca” de dólares del gobierno de Milei?",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/17/scott-bessent-japon-y-la-argentina-cuanto-puede-aportar-estados-unidos-a-la-bazuca-de-dolares-del-gobierno-de-milei/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "El Gobierno logró frenar la ofensiva opositora en el Congreso: por qué fue una buena señal para los mercados y el riesgo país",
@@ -88,10 +88,10 @@
           "ago": "hace 3 d"
         },
         {
-          "title": "Caputo defendió el rumbo económico del Gobierno y aseguró que la Argentina tiene un “excedente de dólares”",
+          "title": "Cuántos empleos estatales se eliminaron en lo que va del Gobierno de Milei",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/17/caputo-defendio-el-rumbo-economico-del-gobierno-y-aseguro-que-la-argentina-tiene-un-excedente-de-dolares/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/10/19/cuantos-empleos-estatales-se-eliminaron-en-lo-que-va-del-gobierno-de-milei/",
+          "ago": "hace 11 min"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca quiere copar otra vez Río de Janeiro: habrá un banderazo en Co…",
-      "value": "hace 1 h"
+      "detail": "La buena noticia con Paredes, Villa y Velasco en el entrenamiento d…",
+      "value": "hace 29 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Buenas noticias: Dibu Martínez fue dado de alta tras ser operado po…",
-      "value": "hace 10 h"
+      "detail": "Días, horarios y TV de la Champions League: dos partidos pesados y …",
+      "value": "hace 4 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "6 times drivers improvised after losing radio during a race",
+      "detail": "INSIGHT: How F1 teams create special one-off liveries",
       "value": "hace 1 min"
     }
   ]
