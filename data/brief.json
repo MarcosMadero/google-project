@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:04:57.030Z",
+  "generatedAt": "2026-10-19T20:55:21.443Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "El gobierno de Francia decreta toques de queda y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cv1j3zdrygw7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6kg543ly39lo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "La conmoción en Australia después de que un vehículo arrollara y dejara gravemente herida a una diputada en un presunto ataque deliberado",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cw77p62zkl1eo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 19 h"
+          "ago": "hace 9 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
+          "title": "El mercado de la ciberseguridad sufrió un desplome del 26% en EEUU. Una especialidad fue a contracorriente: creció un 268%",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
-          "ago": "hace 3 h"
+          "url": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
+          "ago": "hace 2 h"
         },
         {
           "title": "La \"ameba de fuego\" rompe el récord de calor para la vida compleja y obliga a replantear dónde buscar vida extraterrestre",
           "source": "Xataka",
           "url": "https://www.xataka.com/espacio/ameba-fuego-rompe-record-calor-para-vida-compleja-obliga-a-replantear-donde-buscar-vida-extraterrestre",
-          "ago": "hace 3 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "Haier se estrena en el mercado de la aspiración: así es su nueva gama I-Pro Clean Series 5 para plantar cara a Roborock y Dyson",
           "source": "Xataka",
           "url": "https://www.xataka.com/seleccion/haier-se-estrena-mercado-aspiracion-asi-su-nueva-gama-i-pro-clean-series-5-para-plantar-cara-a-roborock-dyson",
-          "ago": "hace 19 min"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Karina Milei recordó que su familia vivió en Devoto y celebró el traslado de la cárcel",
+          "title": "Fuerte reclamo de los grandes supermercados al Gobierno por las billeteras virtuales",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/karina-milei-recordo-que-su-familia-vivio-en-devoto-y-celebro-el-traslado-de-la-carcel-nid19102026/",
-          "ago": "hace 41 min"
+          "url": "https://www.lanacion.com.ar/economia/fuerte-reclamo-de-los-grandes-supermercados-al-gobierno-por-las-billeteras-virtuales-nid19102026/",
+          "ago": "hace 25 min"
         },
         {
-          "title": "El CEO de Latam destacó la señal de apertura del Gobierno y dijo que analiza oportunidades en el mercado",
+          "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-ceo-de-latam-destaco-la-senal-de-apertura-del-gobierno-argentino-y-dijo-que-analizan-nid19102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+          "ago": "hace 9 min"
         },
         {
-          "title": "Donald Trump, presidente de EE.UU.: “Lamentablemente, los carteles controlan México; se lo dije a Sheinbaum y no está contenta”",
+          "title": "Medida: el Gobierno reglamentó la libre elección de veterinarios para vacunar contra la aftosa y la brucelosis bovina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/washington/donald-trump-presidente-de-eeuu-lamentablemente-los-carteles-controlan-mexico-se-lo-dije-a-sheinbaum-nid19102026/",
-          "ago": "hace 10 min"
+          "url": "https://www.lanacion.com.ar/economia/campo/medida-el-gobierno-reglamento-la-libre-eleccion-de-veterinarios-para-vacunar-contra-la-aftosa-y-la-nid19102026/",
+          "ago": "hace 15 min"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "El Gobierno logró frenar la ofensiva opositora en el Congreso: por qué fue una buena señal para los mercados y el riesgo país",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/16/el-gobierno-logro-frenar-la-ofensiva-opositora-en-el-congreso-por-que-fue-una-buena-senal-para-los-mercados-y-el-riesgo-pais/",
-          "ago": "hace 3 d"
+          "ago": "hace 4 d"
         },
         {
           "title": "Cuántos empleos estatales se eliminaron en lo que va del Gobierno de Milei",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/19/cuantos-empleos-estatales-se-eliminaron-en-lo-que-va-del-gobierno-de-milei/",
-          "ago": "hace 11 min"
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La buena noticia con Paredes, Villa y Velasco en el entrenamiento d…",
-      "value": "hace 29 min"
+      "detail": "Boca copó Copacabana con un banderazo que revolucionó Río de Janeiro",
+      "value": "hace 46 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Días, horarios y TV de la Champions League: dos partidos pesados y …",
-      "value": "hace 4 h"
+      "value": "hace 9 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "INSIGHT: How F1 teams create special one-off liveries",
+      "detail": "United States Grand Prix betting guide and latest odds",
       "value": "hace 1 min"
     }
   ]
