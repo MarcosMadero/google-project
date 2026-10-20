@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:01:08.778Z",
+  "generatedAt": "2026-10-20T19:55:18.575Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 9 h"
         },
         {
           "title": "Los opositores a Putin deportados por Occidente a los que ahora Rusia envía a la guerra",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ckzd604n0gdyo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "ago": "hace 17 h"
         },
         {
           "title": "Un sacerdote muere tras caerle encima un enorme crucifijo durante una misa que estaba transmitiendo en vivo en Ecuador",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6ev3zgnrxz9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 17 h"
+          "ago": "hace 23 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "EEUU ordena eliminar DeepSeek de los sistemas de sus agencias civiles federales. El veto va todavía más allá",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/eeuu-ordena-eliminar-deepseek-sistemas-sus-agencias-civiles-federales-veto-va-todavia-alla",
+          "ago": "hace 3 h"
+        },
+        {
+          "title": "Absueltos dos vascos de un delito de tráfico de drogas porque la Subdelegación del Gobierno pesó la marihuana con tallos y hojas",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/absueltos-dos-vascos-delito-trafico-drogas-porque-subdelegacion-gobierno-peso-marihuana-tallos-hojas",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Google suspende una inversión de miles de millones en centros de datos en España a la espera del decreto del Gobierno",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/google-suspende-inversion-miles-millones-centros-datos-espana-a-espera-decreto-gobierno",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "Marie Curie y Einstein se escribieron cartas durante más de 20 años. 100 años después podemos leer lo que se decían",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/historia-tecnologica/marie-curie-einstein-se-escribieron-cartas-durante-20-anos-100-anos-despues-podemos-leer-que-se-decian",
-          "ago": "hace 29 min"
-        },
-        {
-          "title": "Google DeepMind presume de haber batido a Minecraft con agentes controlados por Gemini 4 Argon en apenas 27 horas",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
-          "ago": "hace 59 min"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Quiénes son los candidatos a vicepresidente de Lula y Flávio Bolsonaro para las Elecciones Brasil 2026",
+          "title": "Murió el actor Antonio Grimau a los 82 años",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-vicepresidente-de-lula-y-flavio-bolsonaro-para-las-elecciones-brasil-nid20102026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-antonio-grimau-a-los-82-anos-nid20102026/",
+          "ago": "hace 10 min"
         },
         {
-          "title": "Murió Antonio Grimau: reacciones y mensajes de despedida al actor",
+          "title": "La Justicia ordenó unificar los juicios de Hotesur y Los Sauces contra Cristina y Máximo Kirchner",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/murio-antonio-grimau-reacciones-y-mensajes-de-despedida-al-actor-nid20102026/",
-          "ago": "hace 4 min"
+          "url": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-unificar-los-juicios-de-hotesur-y-los-sauces-contra-cristina-y-maximo-kirchner-nid20102026/",
+          "ago": "hace 12 min"
         },
         {
-          "title": "Elecciones Brasil 2026, EN VIVO: encuestas, final de las campañas para el balotaje y el minuto a minuto",
+          "title": "Murió a los 42 años Kyle Kennedy, sobrina nieta de John Fitzgerald Kennedy",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid20102026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/murio-a-los-42-anos-kyle-kennedy-sobrina-nieta-del-expresidente-john-fitzgerad-kennedy-nid20102026/",
+          "ago": "hace 14 min"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "Con elogios al gobernador Figueroa y a Horacio Marín, el presidente Milei aseguró: “Podemos hacer que florezcan 1.000 Vaca Muerta”",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/20/con-elogios-al-gobernador-figueroa-y-a-horacio-marin-el-presidente-milei-aseguro-podemos-hacer-que-florezcan-1000-vaca-muerta/",
-          "ago": "hace 8 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "“En torno al 20% anual”: qué es la inflación núcleo y por qué el Gobierno la usó para defender la gestión económica",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/20/en-torno-al-20-anual-que-es-la-inflacion-nucleo-y-por-que-el-gobierno-la-uso-para-defender-la-gestion-economica/",
-          "ago": "hace 8 h"
+          "ago": "hace 14 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "A qué hora se juega Vasco da Gama vs. Boca y cómo ver hoy EN VIVO l…",
-      "value": "hace 32 min"
+      "detail": "Carlos Tevez le puso fecha a su despedida en la Bombonera: al otro …",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Días, horarios y TV de la Champions League: dos partidos pesados y …",
-      "value": "hace 1 d"
+      "detail": "Argentina ganó por primera vez en el Mundial Femenino Sub 17 en Mar…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "What could ‘formidable’ Red Bull achieve after resurgence?",
+      "detail": "How Williams entered the Marvel Universe",
       "value": "hace 1 min"
     }
   ]
