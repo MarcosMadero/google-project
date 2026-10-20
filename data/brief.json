@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:49:43.849Z",
+  "generatedAt": "2026-10-20T14:01:08.778Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
+        },
+        {
+          "title": "Los opositores a Putin deportados por Occidente a los que ahora Rusia envía a la guerra",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckzd604n0gdyo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 11 h"
+        },
+        {
           "title": "Un sacerdote muere tras caerle encima un enorme crucifijo durante una misa que estaba transmitiendo en vivo en Ecuador",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c6ev3zgnrxz9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "El gobierno de Francia decreta toques de queda y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cv1j3zdrygw7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6kg543ly39lo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "ago": "hace 17 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "El mercado de la ciberseguridad sufrió un desplome del 26% en EEUU. Una especialidad fue a contracorriente: creció un 268%",
+          "title": "Google suspende una inversión de miles de millones en centros de datos en España a la espera del decreto del Gobierno",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/empresas-y-economia/google-suspende-inversion-miles-millones-centros-datos-espana-a-espera-decreto-gobierno",
+          "ago": "hace 1 h"
         },
         {
-          "title": "La \"ameba de fuego\" rompe el récord de calor para la vida compleja y obliga a replantear dónde buscar vida extraterrestre",
+          "title": "Marie Curie y Einstein se escribieron cartas durante más de 20 años. 100 años después podemos leer lo que se decían",
           "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/ameba-fuego-rompe-record-calor-para-vida-compleja-obliga-a-replantear-donde-buscar-vida-extraterrestre",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/historia-tecnologica/marie-curie-einstein-se-escribieron-cartas-durante-20-anos-100-anos-despues-podemos-leer-que-se-decian",
+          "ago": "hace 29 min"
         },
         {
-          "title": "Haier se estrena en el mercado de la aspiración: así es su nueva gama I-Pro Clean Series 5 para plantar cara a Roborock y Dyson",
+          "title": "Google DeepMind presume de haber batido a Minecraft con agentes controlados por Gemini 4 Argon en apenas 27 horas",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/haier-se-estrena-mercado-aspiracion-asi-su-nueva-gama-i-pro-clean-series-5-para-plantar-cara-a-roborock-dyson",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
+          "ago": "hace 59 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, EN VIVO: “Con el viejo modelo, hoy hubiéramos volado por los aires”, dijo el Presidente",
+          "title": "Quiénes son los candidatos a vicepresidente de Lula y Flávio Bolsonaro para las Elecciones Brasil 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "Dólares para las reservas: las empresas vuelven a buscar financiamiento en un mercado más selectivo",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolares-para-las-reservas-las-empresas-vuelven-a-buscar-financiamiento-en-un-mercado-mas-selectivo-nid19102026/",
+          "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-vicepresidente-de-lula-y-flavio-bolsonaro-para-las-elecciones-brasil-nid20102026/",
           "ago": "hace 3 h"
         },
         {
-          "title": "En Neuquén, Milei destacó el crecimiento de las exportaciones de petróleo y lo adjudicó a las desregulaciones del Gobierno",
+          "title": "Murió Antonio Grimau: reacciones y mensajes de despedida al actor",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/en-neuquen-milei-destaco-el-crecimiento-de-las-exportaciones-de-petroleo-y-lo-adjudico-a-las-nid19102026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/espectaculos/murio-antonio-grimau-reacciones-y-mensajes-de-despedida-al-actor-nid20102026/",
+          "ago": "hace 4 min"
+        },
+        {
+          "title": "Elecciones Brasil 2026, EN VIVO: encuestas, final de las campañas para el balotaje y el minuto a minuto",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid20102026/",
+          "ago": "hace 5 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Scott Bessent, Japón y la Argentina: ¿cuánto puede aportar Estados Unidos a la “bazuca” de dólares del gobierno de Milei?",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/17/scott-bessent-japon-y-la-argentina-cuanto-puede-aportar-estados-unidos-a-la-bazuca-de-dolares-del-gobierno-de-milei/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
-          "title": "El Gobierno logró frenar la ofensiva opositora en el Congreso: por qué fue una buena señal para los mercados y el riesgo país",
+          "title": "Con elogios al gobernador Figueroa y a Horacio Marín, el presidente Milei aseguró: “Podemos hacer que florezcan 1.000 Vaca Muerta”",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/16/el-gobierno-logro-frenar-la-ofensiva-opositora-en-el-congreso-por-que-fue-una-buena-senal-para-los-mercados-y-el-riesgo-pais/",
-          "ago": "hace 4 d"
+          "url": "https://www.infobae.com/economia/2026/10/20/con-elogios-al-gobernador-figueroa-y-a-horacio-marin-el-presidente-milei-aseguro-podemos-hacer-que-florezcan-1000-vaca-muerta/",
+          "ago": "hace 8 h"
         },
         {
-          "title": "Cuántos empleos estatales se eliminaron en lo que va del Gobierno de Milei",
+          "title": "“En torno al 20% anual”: qué es la inflación núcleo y por qué el Gobierno la usó para defender la gestión económica",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/19/cuantos-empleos-estatales-se-eliminaron-en-lo-que-va-del-gobierno-de-milei/",
-          "ago": "hace 9 h"
+          "url": "https://www.infobae.com/economia/2026/10/20/en-torno-al-20-anual-que-es-la-inflacion-nucleo-y-por-que-el-gobierno-la-uso-para-defender-la-gestion-economica/",
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca va por la épica: su historial en el Maracaná, otro desafío extra",
-      "value": "hace 2 h"
+      "detail": "A qué hora se juega Vasco da Gama vs. Boca y cómo ver hoy EN VIVO l…",
+      "value": "hace 32 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Días, horarios y TV de la Champions League: dos partidos pesados y …",
-      "value": "hace 12 h"
+      "value": "hace 1 d"
     },
     {
       "team": "Fórmula 1",
-      "detail": "United States Grand Prix betting guide and latest odds",
+      "detail": "What could ‘formidable’ Red Bull achieve after resurgence?",
       "value": "hace 1 min"
     }
   ]
