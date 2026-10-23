@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:15:40.661Z",
+  "generatedAt": "2026-10-23T13:59:43.177Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 3 d"
         },
         {
+          "title": "\"Me avergüenza trabajar en una empresa que impulsa la IA con fines militares\": los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Cómo Trump está tratando de influir para que Flávio Bolsonaro gane a Lula en las elecciones de Brasil",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cqglwgj3e91yo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
-        },
-        {
-          "title": "El papa León XIV no necesitará más tratamientos tras la cirugía en la que le extirparon un tumor canceroso",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq99z3145317o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 19 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Hay una buena razón por la que Elon Musk quiere juntar Tesla y SpaceX en una empresa de 3,5 billones de dólares: mas control",
+          "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/hay-buena-razon-que-elon-musk-quiere-juntar-tesla-spacex-empresa-3-5-billones-dolares-control",
-          "ago": "hace 7 h"
-        },
-        {
-          "title": "Afectados por la Dana Adam, el Consejo de Ministros aprueba por decreto ley la incapacidad temporal por catástrofe",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/gobierno-ha-abierto-puerta-para-afectados-dana-adam-pueden-considerarse-accidente-laboral-todavia-falta-paso",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "Apagar el móvil cinco minutos al día: el consejo de sistemas de Moncloa que Sánchez contó en ‘La Revuelta’ para protegerse de virus",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/seguridad/apagar-movil-cinco-minutos-al-dia-consejo-que-recibio-pedro-sanchez-moncloa-para-protegerlo-amenazas",
+          "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
           "ago": "hace 3 h"
+        },
+        {
+          "title": "El Gobierno vasco compra 510 viviendas en Donosti a Blackstone para mantenerlas en alquiler protegido de forma indefinida",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/magnet/gobierno-vasco-ha-comprado-510-viviendas-ubicadas-donosti-a-blackstone-para-mantenerlas-alquiler-protegido-forma-indefinida",
+          "ago": "hace 3 h"
+        },
+        {
+          "title": "La entrevista de 'La Revuelta' a Pedro Sánchez supera el 30% de audiencia y confirma que las elecciones son entretenimiento",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/cine-y-tv/revuelta-descubre-que-no-hay-mayor-entretenimiento-que-politico-33-share-su-entrevista-a-pedro-sanchez",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "El gobierno de Trump blanqueó la “preocupación” de sus empresas por la ley Malvinas, postergada en el Congreso",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-blanqueo-la-preocupacion-de-sus-empresas-por-la-ley-malvinas-postergada-en-el-nid22102026/",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "Javier Milei y sus medidas, en vivo: “Los indicadores no evolucionan como esperábamos”, dijo el Presidente",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-          "ago": "hace 31 min"
-        },
-        {
-          "title": "Lula empata con Flavio Bolsonaro y recupera la aprobación de su gobierno a tres días del balotaje",
+          "title": "Elecciones en Brasil: Lula empata con Flavio Bolsonaro y recupera la aprobación de su gobierno a tres días del balotaje",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/el-mundo/lula-empata-con-flavio-bolsonaro-y-recupera-la-aprobacion-de-su-gobierno-a-tres-dias-del-balotaje-nid22102026/",
-          "ago": "hace 26 min"
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "Murió Leonardo Cohen Arazi, el ex relacionista púbico condenado por los abuso en Independiente: cumplía prisión domiciliaria",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/seguridad/murio-leonardo-cohen-arazi-el-exrelacionista-pubico-condenado-por-los-abuso-en-independiente-cumplia-nid23102026/",
+          "ago": "hace 1 min"
+        },
+        {
+          "title": "Netanyahu ordenó el “cierre total” de Cisjordania tras un ataque de Hamas en el que murieron dos militares israelíes",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-ordeno-el-cierre-total-de-cisjordania-tras-un-ataque-de-hamas-en-el-que-murieron-dos-nid23102026/",
+          "ago": "hace 7 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El dólar subió por cuarto día consecutivo y marcó un nuevo récord nominal",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/21/el-dolar-subio-por-cuarto-dia-consecutivo-y-marco-un-nuevo-record-nominal/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "Fracasaron las negociaciones del gobierno francés con los sindicatos: habrá huelga general a partir del 5 de noviembre",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/america/mundo/2026/10/21/fracasaron-las-negociaciones-del-gobierno-frances-con-los-sindicatos-habra-huelga-general-a-partir-del-5-de-noviembre/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "La Unión Europea ratificó que mantendrá las sanciones energéticas contra Rusia hasta el fin de la guerra en Ucrania",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/america/mundo/2026/10/21/la-union-europea-ratifico-que-mantendra-las-sanciones-energeticas-contra-rusia-hasta-el-fin-de-la-guerra-en-ucrania/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El posible 11 de Boca para enfrentar al Rojo, con Paredes como incó…",
-      "value": "hace 1 h"
+      "detail": "Cuatro títulos en 10 partidos, la chance histórica de Boca en 2026",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "La Selección Argentina de talla baja pide ayuda para viajar al Mund…",
-      "value": "hace 1 h"
+      "detail": "Juega en River, la descubrió el papá de Gallardo y brilla en la Sel…",
+      "value": "hace 4 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Russell on how 2026 has ‘tested my character and resilience’",
+      "detail": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
       "value": "hace 1 min"
     }
   ]
