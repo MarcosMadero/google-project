@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:59:43.177Z",
+  "generatedAt": "2026-10-23T19:52:14.127Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 3 d"
         },
         {
-          "title": "\"Me avergüenza trabajar en una empresa que impulsa la IA con fines militares\": los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
+          "title": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss",
           "ago": "hace 4 h"
         },
         {
-          "title": "Cómo Trump está tratando de influir para que Flávio Bolsonaro gane a Lula en las elecciones de Brasil",
+          "title": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cqglwgj3e91yo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 19 h"
+          "url": "https://www.bbc.com/mundo/articles/crz658114vvqo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
           "source": "Xataka",
           "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
         },
         {
           "title": "El Gobierno vasco compra 510 viviendas en Donosti a Blackstone para mantenerlas en alquiler protegido de forma indefinida",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/gobierno-vasco-ha-comprado-510-viviendas-ubicadas-donosti-a-blackstone-para-mantenerlas-alquiler-protegido-forma-indefinida",
-          "ago": "hace 3 h"
+          "ago": "hace 9 h"
         },
         {
           "title": "La entrevista de 'La Revuelta' a Pedro Sánchez supera el 30% de audiencia y confirma que las elecciones son entretenimiento",
           "source": "Xataka",
           "url": "https://www.xataka.com/cine-y-tv/revuelta-descubre-que-no-hay-mayor-entretenimiento-que-politico-33-share-su-entrevista-a-pedro-sanchez",
-          "ago": "hace 4 h"
+          "ago": "hace 10 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Elecciones en Brasil: Lula empata con Flavio Bolsonaro y recupera la aprobación de su gobierno a tres días del balotaje",
+          "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/lula-empata-con-flavio-bolsonaro-y-recupera-la-aprobacion-de-su-gobierno-a-tres-dias-del-balotaje-nid22102026/",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
+          "ago": "hace 34 min"
+        },
+        {
+          "title": "Inocencia Fiscal II: qué reglamentó el Gobierno y qué falta para comprar propiedades con dólares del colchón",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/inocencia-fiscal-ii-que-reglamento-el-gobierno-y-que-falta-para-comprar-propiedades-con-dolares-del-nid23102026/",
           "ago": "hace 1 h"
         },
         {
-          "title": "Murió Leonardo Cohen Arazi, el ex relacionista púbico condenado por los abuso en Independiente: cumplía prisión domiciliaria",
+          "title": "Dólares del colchón: el Gobierno reglamentó en qué casos se cae el régimen simplificado de Ganancias",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/seguridad/murio-leonardo-cohen-arazi-el-exrelacionista-pubico-condenado-por-los-abuso-en-independiente-cumplia-nid23102026/",
-          "ago": "hace 1 min"
-        },
-        {
-          "title": "Netanyahu ordenó el “cierre total” de Cisjordania tras un ataque de Hamas en el que murieron dos militares israelíes",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-ordeno-el-cierre-total-de-cisjordania-tras-un-ataque-de-hamas-en-el-que-murieron-dos-nid23102026/",
-          "ago": "hace 7 min"
+          "url": "https://www.lanacion.com.ar/economia/dolar/dolares-del-colchon-el-gobierno-reglamento-en-que-casos-se-cae-el-regimen-simplificado-de-ganancias-nid23102026/",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -76,21 +76,21 @@
       "sec": "Economía",
       "items": [
         {
+          "title": "El dólar terminó la semana con nuevo récord nominal tras seis alzas consecutivas",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/23/el-dolar-termino-la-semana-con-nuevo-record-nominal-tras-seis-alzas-consecutivas/",
+          "ago": "hace 47 min"
+        },
+        {
+          "title": "El Gobierno destraba el acuerdo automotriz con México: qué vehículos podrán volver a importarse sin arancel",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/23/el-gobierno-destraba-el-acuerdo-automotriz-con-mexico-que-autos-podran-volver-a-importarse-sin-arancel/",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "El dólar subió por cuarto día consecutivo y marcó un nuevo récord nominal",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/21/el-dolar-subio-por-cuarto-dia-consecutivo-y-marco-un-nuevo-record-nominal/",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "Fracasaron las negociaciones del gobierno francés con los sindicatos: habrá huelga general a partir del 5 de noviembre",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/america/mundo/2026/10/21/fracasaron-las-negociaciones-del-gobierno-frances-con-los-sindicatos-habra-huelga-general-a-partir-del-5-de-noviembre/",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "La Unión Europea ratificó que mantendrá las sanciones energéticas contra Rusia hasta el fin de la guerra en Ucrania",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/america/mundo/2026/10/21/la-union-europea-ratifico-que-mantendra-las-sanciones-energeticas-contra-rusia-hasta-el-fin-de-la-guerra-en-ucrania/",
           "ago": "hace 2 d"
         }
       ]
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Cuatro títulos en 10 partidos, la chance histórica de Boca en 2026",
-      "value": "hace 2 h"
+      "detail": "La Súper razón por la que Lautaro Blanco no jugará ante Independiente",
+      "value": "hace 54 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Juega en River, la descubrió el papá de Gallardo y brilla en la Sel…",
-      "value": "hace 4 h"
+      "detail": "Argentina vs. Marruecos, por el Mundial Femenino Sub 17, hoy EN VIV…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
+      "detail": "Lindblad, Colapinto and Bortoleto to take penalties for US GP",
       "value": "hace 1 min"
     }
   ]
