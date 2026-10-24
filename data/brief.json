@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:09:07.040Z",
+  "generatedAt": "2026-10-24T13:01:47.768Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 4 d"
         },
         {
-          "title": "Publican el video de un tiroteo policial en el que murió un bebé en EE.UU.",
+          "title": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq1kdp02xdjmo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 h"
+          "url": "https://www.bbc.com/mundo/articles/cq62y3xz365ko?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         },
         {
-          "title": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares",
+          "title": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
+          "url": "https://www.bbc.com/mundo/articles/c39wzvkynkj9o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 9 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
+          "title": "\"Señora, que si quiere bolsa\": no, lo que quiero es pagar la compra con Bizum y Mercadona está a punto de dejarme",
           "source": "Xataka",
-          "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/empresas-y-economia/senora-que-quiere-bolsa-no-que-quiero-pagar-bizum-mercadona-esta-probando-algunas-tiendas",
+          "ago": "hace 6 h"
         },
         {
-          "title": "El Gobierno vasco compra 510 viviendas en Donosti a Blackstone para mantenerlas en alquiler protegido de forma indefinida",
+          "title": "China lo tiene claro: no hay nada como un buen microdrama en el móvil para que las leyes lleguen a la gente",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/gobierno-vasco-ha-comprado-510-viviendas-ubicadas-donosti-a-blackstone-para-mantenerlas-alquiler-protegido-forma-indefinida",
-          "ago": "hace 13 h"
+          "url": "https://www.xataka.com/magnet/china-tiene-claro-no-hay-nada-como-buen-microdrama-movil-leyes-lleguen-a-gente",
+          "ago": "hace 2 h"
         },
         {
-          "title": "La entrevista de 'La Revuelta' a Pedro Sánchez supera el 30% de audiencia y confirma que las elecciones son entretenimiento",
+          "title": "España está construyendo gigantes que no producen electricidad. Su misión es evitar que la red vuelva a colapsar",
           "source": "Xataka",
-          "url": "https://www.xataka.com/cine-y-tv/revuelta-descubre-que-no-hay-mayor-entretenimiento-que-politico-33-share-su-entrevista-a-pedro-sanchez",
-          "ago": "hace 15 h"
+          "url": "https://www.xataka.com/energia/espana-esta-construyendo-gigantes-que-no-producen-electricidad-su-mision-evitar-que-red-vuelva-a-colapsar",
+          "ago": "hace 30 min"
         }
       ]
     },
@@ -53,21 +53,21 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: el Presidente reiteró en su discurso anual de Faro que la causa $LIBRA fue “una operación política y mediática”",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
-          "ago": "hace 9 min"
-        },
-        {
-          "title": "De qué murió Tom Skerritt, el recordado comandante de Alien e instructor de Tom Cruise en Top Gun",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/de-que-murio-tom-skerritt-el-recordado-comandante-de-alien-e-instructor-de-tom-cruise-en-top-gun-nid23102026/",
-          "ago": "hace 28 min"
-        },
-        {
           "title": "Villa Olímpica: los departamentos ya están a la venta con una financiación a 20 años y una de las tasas más bajas del mercado",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/villa-olimpica-los-departamentos-ya-estan-a-la-venta-con-una-financiacion-a-20-anos-y-una-de-las-nid23102026/",
+          "ago": "hace 56 min"
+        },
+        {
+          "title": "Inocencia Fiscal II: qué reglamentó el Gobierno y qué falta para comprar propiedades con dólares del colchón",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/inocencia-fiscal-ii-que-reglamento-el-gobierno-y-que-falta-para-comprar-propiedades-con-dolares-del-nid23102026/",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "Quiénes son los candidatos a vicepresidente de Lula y Flavio Bolsonaro para las Elecciones Brasil 2026",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/quienes-son-los-candidatos-a-vicepresidente-de-lula-y-flavio-bolsonaro-para-las-elecciones-brasil-nid20102026/",
           "ago": "hace 2 h"
         }
       ]
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "El dólar terminó la semana con nuevo récord nominal tras seis alzas consecutivas",
+          "title": "¿Qué va a pasar con el dólar en 2027?: los movimientos del peso que pueden poner a prueba la “bazuca” del Gobierno",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/23/el-dolar-termino-la-semana-con-nuevo-record-nominal-tras-seis-alzas-consecutivas/",
-          "ago": "hace 4 h"
+          "url": "https://www.infobae.com/economia/2026/10/24/que-va-a-pasar-con-el-dolar-en-2027-los-movimientos-del-peso-que-pueden-poner-a-prueba-la-bazuca-del-gobierno/",
+          "ago": "hace 8 h"
         },
         {
-          "title": "El Gobierno destraba el acuerdo automotriz con México: qué vehículos podrán volver a importarse sin arancel",
+          "title": "La inflación se resiste a bajar del 2%: qué espera el mercado para el resto del año y cuáles son los riesgos para el año que viene",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/23/el-gobierno-destraba-el-acuerdo-automotriz-con-mexico-que-autos-podran-volver-a-importarse-sin-arancel/",
-          "ago": "hace 6 h"
+          "url": "https://www.infobae.com/economia/2026/10/24/la-inflacion-se-resiste-a-bajar-del-2-que-espera-el-mercado-para-el-resto-del-ano-y-cuales-son-los-riesgos-para-el-ano-que-viene/",
+          "ago": "hace 8 h"
         },
         {
-          "title": "El dólar subió por cuarto día consecutivo y marcó un nuevo récord nominal",
+          "title": "¿Golpe a los autos chinos?: qué puede pasar tras el acuerdo del gobierno con EEUU para combatir ciertas prácticas comerciales",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/21/el-dolar-subio-por-cuarto-dia-consecutivo-y-marco-un-nuevo-record-nominal/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/10/24/golpe-a-los-autos-chinos-que-puede-pasar-tras-el-acuerdo-del-gobierno-con-eeuu-para-combatir-ciertas-practicas-comerciales/",
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Sin Racing ni San Lorenzo y con un clasificado: así serían hoy los …",
-      "value": "hace 45 min"
+      "detail": "Montero, feliz en Boca: \"Estoy donde siempre he querido estar\" y el…",
+      "value": "hace 41 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "A 100 días del 2 a 1 de Lautaro Martínez: el gol por un video de la…",
-      "value": "hace 1 h"
+      "value": "hace 14 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Leclerc sets the pace in FP2 at the United States GP",
+      "detail": "Best Qualifying bets before the United States GP",
       "value": "hace 1 min"
     }
   ]
