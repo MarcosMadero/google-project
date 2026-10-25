@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:48:27.467Z",
+  "generatedAt": "2026-10-25T23:41:21.139Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,19 +10,19 @@
           "title": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 15 h"
+          "ago": "hace 20 h"
         },
         {
           "title": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq62y3xz365ko?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
-          "title": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
+          "title": "Lula vs. Bolsonaro: los resultados muestran máxima igualdad en la carrera por ganar las elecciones de Brasil",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c39wzvkynkj9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "url": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
-          "ago": "hace 1 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "Lo nuevo de MrBeast: apoyar con un cuarto de millón de dólares una bola inteligente controlada con IA",
           "source": "Xataka",
           "url": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
-          "ago": "hace 4 h"
+          "ago": "hace 9 h"
         },
         {
-          "title": "Ocho años después de abrirla, una tumba de 55 metros con \"antenas\" en pleno desierto del Sáhara revela por fin su edad",
+          "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/ocho-anos-despues-abrirla-tumba-55-metros-antenas-pleno-desierto-sahara-revela-fin-su-edad",
-          "ago": "hace 18 min"
+          "url": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "La UCR y el Frente Renovador condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+          "title": "“Cruzó un límite”: Bullrich criticó los ataques de Milei a la prensa y volvió a tomar distancia del Gobierno",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/cruzo-un-limite-bullrich-critico-los-ataques-de-milei-a-la-prensa-y-volvio-a-tomar-distancia-del-nid25102026/",
+          "ago": "hace 49 min"
+        },
+        {
+          "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
+          "ago": "hace 43 min"
+        },
+        {
+          "title": "Dirigentes políticos e intelectuales condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
-          "ago": "hace 1 h"
-        },
-        {
-          "title": "Villa Olímpica: los departamentos ya están a la venta con una financiación a 20 años y una de las tasas más bajas del mercado",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/villa-olimpica-los-departamentos-ya-estan-a-la-venta-con-una-financiacion-a-20-anos-y-una-de-las-nid23102026/",
           "ago": "hace 2 h"
-        },
-        {
-          "title": "Elecciones en Brasil 2026, EN VIVO: Lula denuncia obstáculos para ir a votar en transporte público en varias ciudades",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-y-las-ultimas-noticias-del-balotaje-voto-nid25102026/",
-          "ago": "hace 4 min"
         }
       ]
     },
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Con Paredes y tres cambios en total, el 11 de Boca para visitar al …",
-      "value": "hace 47 min"
+      "detail": "Tres jugadas que reclama Independiente pero que no estuvieron mal s…",
+      "value": "hace 28 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Tras la derrota ante Argelia, Argentina se repuso y le ganó a China…",
-      "value": "hace 1 h"
+      "value": "hace 6 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Alonso seems as hungry as ever 20 years on from his last title",
+      "detail": "Antonelli hoping to win title ‘very soon’ after ‘perfect’ US GP",
       "value": "hace 1 min"
     }
   ]
