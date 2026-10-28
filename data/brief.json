@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-10-28T15:39:23.697Z",
+  "generatedAt": "2026-10-28T20:52:03.656Z",
   "agenda": [],
   "mail": [],
   "news": [
     {
       "sec": "Mundo",
       "items": [
-        {
-          "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 min"
-        },
         {
           "title": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
           "source": "BBC Mundo",
@@ -23,6 +17,12 @@
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 d"
+        },
+        {
+          "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel: ninguno alcanza la mayoría para formar gobierno",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Un hacker reventó toda la seguridad de PS5. Ahora otro ha cobrado 50.000 dólares por contar a Sony cómo lo hizo",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/videojuegos/hacker-revento-toda-seguridad-ps5-ahora-otro-ha-cobrado-50-000-dolares-contar-a-sony-como-hizo",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Anthropic ha diseñado un peculiar sistema de poder para evitar que sus accionistas la controlen después de su salida a bolsa",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-disenado-peculiar-sistema-poder-para-evitar-que-sus-accionistas-controlen-despues-su-salida-a-bolsa",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "Que Anthropic salga a bolsa va a tener consecuencias hasta para una constructora española: Ferrovial",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/que-anthropic-salga-a-bolsa-va-a-tener-consecuencias-para-constructora-espanola-ferrovial",
-          "ago": "hace 8 min"
-        },
-        {
-          "title": "Bizum sigue ganándole terreno a las tarjetas de crédito y podrá ser utilizado para pagar en los supermercados Eroski",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/eroski-caprabo-se-suman-a-lista-cadenas-que-permiten-a-clientes-pagar-bizum-sus-tiendas",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "Amazon renueva sus altavoces Echo: IA local, router eero integrado y un despertador para la mesita de noche",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/amazon-renueva-sus-altavoces-echo-ia-local-router-eero-integrado-despertador-para-mesita-noche",
-          "ago": "hace 24 min"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Federico Pastrana: “El Gobierno domina el dólar, pero el riesgo país sube, la popularidad cae y hay una crisis sin perspectiva de salida”",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/federico-pastrana-el-gobierno-domina-el-dolar-pero-el-riesgo-pais-sube-la-popularidad-cae-y-hay-una-nid25102026/",
-          "ago": "hace 2 h"
-        },
-        {
           "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-          "ago": "hace 20 min"
+          "ago": "hace 22 min"
         },
         {
-          "title": "Diputados: la oposición exige al Gobierno explicaciones por la huida de Bolsonaro y complica el debate de la ley Malvinas",
+          "title": "Flavio Bolsonaro se presentó como el verdadero presidente de Brasil y les agradeció a Milei y a Trump en un comunicado tras su fuga",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-exige-al-gobierno-explicaciones-por-la-huida-de-bolsonaro-y-complica-el-nid28102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/estados-unidos/flavio-bolsonaro-se-presento-como-como-el-verdadero-presidente-de-brasil-y-le-agradecio-a-milei-en-nid28102026/",
+          "ago": "hace 49 min"
+        },
+        {
+          "title": "Con un dólar más demandado, el Banco Central pausa la compra de reservas",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/con-un-dolar-mas-demandado-el-banco-central-pausa-la-compra-de-reservas-nid28102026/",
+          "ago": "hace 5 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El Gobierno debe afrontar un pago de USD 800 millones al FMI y analiza dos caminos: usar dólares propios o comprarlos al BCRA",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/",
-          "ago": "hace 11 h"
+          "ago": "hace 16 h"
         },
         {
           "title": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios",
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Ander Herrera y sus recuerdos de Boca: “Riquelme es una figura lege…",
-      "value": "hace 2 h"
+      "detail": "Los máximos goleadores en la historia del superclásico: quién hizo …",
+      "value": "hace 19 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "EN VIVO: la Selección Argentina va por el pase a cuartos en el Mund…",
-      "value": "hace 1 h"
+      "detail": "La AFA dispuso un minuto de silencio para homenajear a la madre de …",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "What went into Ferrari's upgrade package in the US?",
+      "detail": "Our early Bet Builder picks for the Mexico City GP",
       "value": "hace 1 min"
     }
   ]
