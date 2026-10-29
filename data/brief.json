@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:46:12.146Z",
+  "generatedAt": "2026-10-29T20:57:08.891Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "Muere Cuauhtémoc Cárdenas, el líder que le abrió el camino al poder a la izquierda en México y nunca pudo ser presidente",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvp8g4d4g4xwo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq0lde6plwgpo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "ago": "hace 22 h"
         },
         {
-          "title": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
+          "title": "Muere a los 86 años Patrick Stewart, legendario actor de Star Trek y X-Men",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cvwy7k3lpge3o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
+          "url": "https://www.bbc.com/mundo/articles/crlyk9yp775zo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 30 min"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La huelga de maquinistas paraliza Renfe en Madrid: líneas cerradas y servicios mínimos en duda",
+          "title": "La Guerra de las Galaxias real está empeorando tanto que una empresa quiere ponerle \"guardaespaldas\" a los satélites",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/huelga-maquinistas-paraliza-renfe-madrid-lineas-cerradas-servicios-minimos-duda",
+          "url": "https://www.xataka.com/espacio/guerra-galaxias-real-esta-empeorando-que-empresa-quiere-ponerle-guardaespaldas-a-satelites",
+          "ago": "hace 54 min"
+        },
+        {
+          "title": "La IA ya empieza a dejar huella en el paro español. Los más expuestos: programadores y diseñadores",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
           "ago": "hace 4 h"
         },
         {
-          "title": "Una empresa está creando el Tesla de las excavadoras: IA física y hasta arriba de sensores para levantar los centros de datos",
+          "title": "Hay juntas presionando a vecinos morosos negándoles la llave del ascensor. La Ley de Propiedad Horizontal tiene algo que decirles",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
-          "ago": "hace 15 min"
-        },
-        {
-          "title": "Medio Ambiente autoriza a Amazon a gastar un 48 % más de agua en su centro de datos de El Burgo de Ebro (Zaragoza)",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/medio-ambiente-autoriza-a-amazon-a-gastar-48-agua-su-centro-datos-burgo-ebro-zaragoza",
-          "ago": "hace 44 min"
+          "url": "https://www.xataka.com/magnet/hay-juntas-presionando-a-vecinos-morosos-negandoles-llave-ascensor-ley-propiedad-horizontal-tiene-algo-que-decirles",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Murió Carlos Rinke, una leyenda de la aviación argentina, un piloto que golpeó a la flota británica en la Guerra de Malvinas",
+          "title": "Confirmación del BCRA: Mercado Pago ya superó las revisiones técnicas para convertirse en banco",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/lifestyle/murio-carlos-rinke-una-leyenda-de-la-aviacion-argentina-un-piloto-que-golpeo-a-la-flota-britanica-en-nid29102026/",
-          "ago": "hace 4 min"
+          "url": "https://www.lanacion.com.ar/economia/confirmacion-del-bcra-mercado-pago-ya-supero-las-revisiones-tecnicas-para-convertirse-en-banco-nid29102026/",
+          "ago": "hace 38 min"
         },
         {
-          "title": "El FMI destacó las medidas acordadas con el Gobierno para “impulsar” el crecimiento y “respaldar la demanda interna”",
+          "title": "Límite de hasta US$250 mil en Florida: impuesto a la propiedad y la enmienda que se vota en las elecciones 2026",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-fmi-destaco-las-medidas-acordadas-con-el-gobierno-para-impulsar-el-crecimiento-y-respaldar-la-nid29102026/",
-          "ago": "hace 45 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/florida/limite-de-hasta-us250-mil-en-florida-impuesto-a-la-propiedad-y-la-enmienda-que-se-vota-en-las-nid29102026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Destituyeron al juez federal de Rosario Gastón Salmain por “mal desempeño” y ordenan su detención",
+          "title": "Resultado de las elecciones en Israel 2026: quién gana en una elección reñida entre Netanyahu y Eisenkot",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/destituyeron-al-juez-federal-de-rosario-gaston-salmain-por-mal-desempeno-nid29102026/",
-          "ago": "hace 3 min"
+          "url": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
+          "ago": "hace 6 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno debe afrontar un pago de USD 800 millones al FMI y analiza dos caminos: usar dólares propios o comprarlos al BCRA",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "En medio de la tensión que genera Brasil, Economía renovó vencimientos y retiró pesos del mercado: efectos sobre la tasa y el dólar",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/28/en-medio-de-la-tension-que-genera-brasil-economia-renovo-vencimientos-y-retiro-pesos-del-mercado-efectos-sobre-la-tasa-y-el-dolar/",
-          "ago": "hace 18 h"
+          "ago": "hace 23 h"
         },
         {
-          "title": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios",
+          "title": "El dólar bajó en el mercado local, mientras que en Brasil volvió a subir frente al real",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/",
-          "ago": "hace 3 d"
+          "url": "https://www.infobae.com/economia/2026/10/29/el-dolar-bajo-en-el-mercado-local-mientras-que-en-brasil-volvio-a-subir-frente-al-real/",
+          "ago": "hace 9 min"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La fuerte advertencia del astrólogo de Boca sobre el arbitraje del …",
-      "value": "hace 24 min"
+      "detail": "La Súper decisión de Arruabarrena: por qué Villa saca ventaja sobre…",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Argentina le ganó a Croacia, perdió con Portugal y jugará un partid…",
-      "value": "hace 34 min"
+      "value": "hace 6 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
+      "detail": "LIVE COVERAGE: Build-up to the Mexico City Grand Prix",
       "value": "hace 1 min"
     }
   ]
