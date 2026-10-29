@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T20:52:03.656Z",
+  "generatedAt": "2026-10-29T01:25:41.492Z",
   "agenda": [],
   "mail": [],
   "news": [
     {
       "sec": "Mundo",
       "items": [
+        {
+          "title": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cq0lde6plwgpo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
         {
           "title": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
           "source": "BBC Mundo",
@@ -17,12 +23,6 @@
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 d"
-        },
-        {
-          "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel: ninguno alcanza la mayoría para formar gobierno",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Un hacker reventó toda la seguridad de PS5. Ahora otro ha cobrado 50.000 dólares por contar a Sony cómo lo hizo",
           "source": "Xataka",
           "url": "https://www.xataka.com/videojuegos/hacker-revento-toda-seguridad-ps5-ahora-otro-ha-cobrado-50-000-dolares-contar-a-sony-como-hizo",
-          "ago": "hace 2 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "Anthropic ha diseñado un peculiar sistema de poder para evitar que sus accionistas la controlen después de su salida a bolsa",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-disenado-peculiar-sistema-poder-para-evitar-que-sus-accionistas-controlen-despues-su-salida-a-bolsa",
-          "ago": "hace 4 h"
+          "ago": "hace 8 h"
         },
         {
           "title": "Que Anthropic salga a bolsa va a tener consecuencias hasta para una constructora española: Ferrovial",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/que-anthropic-salga-a-bolsa-va-a-tener-consecuencias-para-constructora-espanola-ferrovial",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         }
       ]
     },
@@ -56,19 +56,19 @@
           "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-          "ago": "hace 22 min"
+          "ago": "hace 20 min"
         },
         {
-          "title": "Flavio Bolsonaro se presentó como el verdadero presidente de Brasil y les agradeció a Milei y a Trump en un comunicado tras su fuga",
+          "title": "Por séptima vez: reeligieron a Diego Cifarelli como presidente de la Federación Argentina de la Industria Molinera",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/flavio-bolsonaro-se-presento-como-como-el-verdadero-presidente-de-brasil-y-le-agradecio-a-milei-en-nid28102026/",
-          "ago": "hace 49 min"
+          "url": "https://www.lanacion.com.ar/economia/campo/por-septima-vez-reeligieron-a-diego-cifarelli-como-presidente-de-la-federacion-argentina-de-la-nid28102026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Con un dólar más demandado, el Banco Central pausa la compra de reservas",
+          "title": "Un fiscal federal de Misiones pidió informes al Gobierno sobre el vuelo que transportó a Bolsonaro a EE.UU.",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/con-un-dolar-mas-demandado-el-banco-central-pausa-la-compra-de-reservas-nid28102026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/politica/un-fiscal-federal-de-misiones-pidio-informes-al-gobierno-sobre-el-vuelo-que-transporto-a-bolsonaro-a-nid28102026/",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -79,18 +79,18 @@
           "title": "El Gobierno debe afrontar un pago de USD 800 millones al FMI y analiza dos caminos: usar dólares propios o comprarlos al BCRA",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
+        },
+        {
+          "title": "En medio de la tensión que genera Brasil, Economía renovó vencimientos y retiró pesos del mercado: efectos sobre la tasa y el dólar",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/28/en-medio-de-la-tension-que-genera-brasil-economia-renovo-vencimientos-y-retiro-pesos-del-mercado-efectos-sobre-la-tasa-y-el-dolar/",
+          "ago": "hace 3 h"
         },
         {
           "title": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "El Gobierno firmó con empresarios un acuerdo contra el contrabando: cómo controlarán las ventas por Mercado Libre",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/26/el-gobierno-firma-con-empresarios-un-acuerdo-contra-el-contrabando-que-controles-incluye-y-como-funcionaran/",
           "ago": "hace 2 d"
         }
       ]
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los máximos goleadores en la historia del superclásico: quién hizo …",
-      "value": "hace 19 min"
+      "detail": "Palermo y Falcioni: del recuerdo en Boca al abrazo en Salta por Cop…",
+      "value": "hace 38 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "La AFA dispuso un minuto de silencio para homenajear a la madre de …",
-      "value": "hace 2 h"
+      "detail": "La revelación de un campeón del mundo con España sobre el gol a la …",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
