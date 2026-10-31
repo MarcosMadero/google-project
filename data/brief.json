@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:56:23.908Z",
+  "generatedAt": "2026-10-31T19:47:52.538Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,7 +10,7 @@
           "title": "Por qué \"Frankenstein\" de Mary Shelley es un historia de terror incomprendida",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/crd93pexj1q5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "México acaba de declarar una guerra insólita: su Armada está persiguiendo una flota marrón de millones de toneladas que huele a podrido",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/mexico-acaba-declarar-guerra-insolita-su-armada-esta-persiguiendo-flota-marron-millones-toneladas-que-huele-a-podrido",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "En 1987 los biólogos atraparon al último cóndor libre para evitar su extinción. Hoy sabemos que salvar no basta",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/1987-biologos-atraparon-al-ultimo-condor-libre-para-evitar-su-extincion-hoy-sabemos-que-salvar-no-basta",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "La crisis del alquiler obliga cada vez a más jóvenes españoles a vivir sin salón: \"Me di cuenta de que sí lo necesito\"",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/crisis-vivienda-se-esta-cobrando-victima-inesperada-zonas-comunes-pisos-alquiler",
-          "ago": "hace 25 min"
-        },
-        {
-          "title": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
-          "ago": "hace 19 h"
-        },
-        {
-          "title": "Corea del Norte se ha convertido en una superpotencia del ciberataque y lo está utilizando para autofinanciarse",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/seguridad/corea-norte-se-ha-convertido-superpotencia-ciberataque-esta-utilizando-para-autofinanciarse",
-          "ago": "hace 20 h"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Elecciones en Estados Unidos: qué espera Wall Street y en qué Cedears invertir antes de los comicios de medio término",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/elecciones-en-estados-unidos-que-espera-wall-street-y-en-que-cedears-invertir-antes-de-los-comicios-nid31102026/",
-          "ago": "hace 4 min"
-        },
-        {
           "title": "Midterms 2026: quién va ganando las elecciones hoy en Estados Unidos y actualizaciones en vivo",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/estados-unidos/midterms-2026-quien-va-ganando-las-elecciones-hoy-en-estados-unidos-y-actualizaciones-en-vivo-nid31102026/",
-          "ago": "hace 22 min"
+          "ago": "hace 21 min"
         },
         {
-          "title": "Clase magistral: Javier Milei rebautizó al héroe de la “Odisea” en la Universidad Torcuato Di Tella",
+          "title": "Murió a los 61 años Marcela Giorgi, histórica locutora de Radio Mitre",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/cultura/clase-magistral-javier-milei-rebautizo-al-heroe-de-la-odisea-en-la-universidad-torcuato-di-tella-nid31102026/",
-          "ago": "hace 33 min"
+          "url": "https://www.lanacion.com.ar/espectaculos/murio-marcela-giorgi-historica-locutora-de-radio-mitre-nid31102026/",
+          "ago": "hace 21 min"
+        },
+        {
+          "title": "A los 78 años, murió la artista Ana Eckell, maestra del dibujo y la pintura",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/cultura/a-los-78-anos-murio-la-artista-ana-eckell-maestra-del-dibujo-y-la-pintura-nid31102026/",
+          "ago": "hace 46 min"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "Desde que asumió el gobierno de Javier Milei, más de 23.400 personas dejaron de trabajar para empresas del Estado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/31/desde-que-asumio-el-gobierno-de-javier-milei-mas-de-23400-personas-dejaron-de-trabajar-para-empresas-del-estado/",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "El triunfo de Lula puede mejorar el acceso de los productos argentinos al mercado de EEUU, según la Bolsa de Cereales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/30/el-triunfo-de-lula-puede-mejorar-el-acceso-de-los-productos-argentinos-al-mercado-de-eeuu-segun-la-bolsa-de-cereales/",
-          "ago": "hace 22 h"
+          "ago": "hace 1 d"
         }
       ]
     }
@@ -99,23 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca vs. River, por el Torneo Clausura 2026: horario, formaciones y…",
-      "value": "hace 26 min"
+      "detail": "Un hincha de Boca se tatuó a ¡Jagger Herrera! a horas del superclásico",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "Nicolás Losavio, el pibe de San Lorenzo que fue el máximo goleador …",
-      "value": "hace 21 h"
+      "value": "hace 1 d"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Best Qualifying bets before the Mexico City GP",
+      "detail": "Norris pips Antonelli to top spot in Mexico City FP3",
       "value": "hace 1 min"
     },
     {
       "team": "Deportes de invierno",
-      "detail": "Xabi Alonso deja al United al borde del descenso... y a Carrick del…",
-      "value": "hace 22 min"
+      "detail": "Xabi Alonso deja al United al borde del descenso y a Carrick del de…",
+      "value": "hace 5 h"
     }
   ]
 }
