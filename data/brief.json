@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:34:33.999Z",
+  "generatedAt": "2026-11-01T15:39:41.199Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "\"Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
+        },
+        {
           "title": "Por qué \"Frankenstein\" de Mary Shelley es un historia de terror incomprendida",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/crd93pexj1q5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 14 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cm78pl5w7qq9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
-        },
-        {
-          "title": "6 preguntas para entender qué se elige en las elecciones de medio mandato en EE.UU. y qué significan para Trump",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cmly035wdwgdo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     },
@@ -30,21 +30,21 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "México acaba de declarar una guerra insólita: su Armada está persiguiendo una flota marrón de millones de toneladas que huele a podrido",
+          "title": "El problema de los hogares no es que la inflación arrastre la cesta de la compra, es que los salarios no han seguido su ritmo",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/mexico-acaba-declarar-guerra-insolita-su-armada-esta-persiguiendo-flota-marron-millones-toneladas-que-huele-a-podrido",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
+          "ago": "hace 4 h"
         },
         {
-          "title": "En 1987 los biólogos atraparon al último cóndor libre para evitar su extinción. Hoy sabemos que salvar no basta",
+          "title": "Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/1987-biologos-atraparon-al-ultimo-condor-libre-para-evitar-su-extincion-hoy-sabemos-que-salvar-no-basta",
-          "ago": "hace 10 h"
+          "url": "https://www.xataka.com/medicina-y-salud/nuevo-aceite-enriquecido-promete-frenar-dano-renal-diabeticos-que-buena-noticia-que-no-sirve-tu-aceite-supermercado",
+          "ago": "hace 5 h"
         },
         {
-          "title": "La crisis del alquiler obliga cada vez a más jóvenes españoles a vivir sin salón: \"Me di cuenta de que sí lo necesito\"",
+          "title": "La guerra de Ucrania acaba de dar un giro inquietante: los drones ya no necesitan ver a los soldados para encontrarlos",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/crisis-vivienda-se-esta-cobrando-victima-inesperada-zonas-comunes-pisos-alquiler",
+          "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos",
           "ago": "hace 10 h"
         }
       ]
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "La recesión pone en jaque los acuerdos de Milei",
+          "title": "Elecciones en Texas 2026: el récord histórico que lograría Greg Abbott si es reelecto gobernador",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-recesion-pone-en-jaque-los-acuerdos-de-milei-nid31102026/",
-          "ago": "hace 58 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/texas/elecciones-en-texas-2026-el-record-historico-que-lograria-greg-abbott-si-es-reelecto-gobernador-nid01112026/",
+          "ago": "hace 57 min"
         },
         {
-          "title": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil",
+          "title": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/tras-la-derrota-y-huida-de-flavio-bolsonaro-el-presidente-milei-quedo-sin-socios-en-brasil-nid31102026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
+          "ago": "hace 7 min"
         },
         {
-          "title": "El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad, pero se muestra incómodo con los expresidentes",
+          "title": "A cuánto abre el dólar el lunes 2 de noviembre",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-invita-a-villarruel-al-evento-con-el-papa-en-el-palacio-libertad-pero-se-muestra-nid31102026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-2-de-noviembre-nid31102026/",
+          "ago": "hace 49 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "En medio de la tensión que genera Brasil, Economía renovó vencimientos y retiró pesos del mercado: efectos sobre la tasa y el dólar",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/10/28/en-medio-de-la-tension-que-genera-brasil-economia-renovo-vencimientos-y-retiro-pesos-del-mercado-efectos-sobre-la-tasa-y-el-dolar/",
-          "ago": "hace 3 d"
-        },
-        {
           "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/",
-          "ago": "hace 5 h"
+          "ago": "hace 20 h"
         },
         {
           "title": "Desde que asumió el gobierno de Javier Milei, más de 23.400 personas dejaron de trabajar para empresas del Estado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/31/desde-que-asumio-el-gobierno-de-javier-milei-mas-de-23400-personas-dejaron-de-trabajar-para-empresas-del-estado/",
-          "ago": "hace 12 h"
+          "ago": "hace 1 d"
+        },
+        {
+          "title": "El triunfo de Lula puede mejorar el acceso de los productos argentinos al mercado de EEUU, según la Bolsa de Cereales",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/10/30/el-triunfo-de-lula-puede-mejorar-el-acceso-de-los-productos-argentinos-al-mercado-de-eeuu-segun-la-bolsa-de-cereales/",
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,23 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El 11 que eligieron los hinchas de Boca para enfrentar a River",
-      "value": "hace 3 h"
+      "detail": "Video: los mejores momentos de la previa del Boca-River",
+      "value": "hace 48 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Nicolás Losavio, el pibe de San Lorenzo que fue el máximo goleador …",
-      "value": "hace 1 d"
+      "value": "hace 2 d"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Russell details 'frustration I have' despite qualifying in P2",
+      "detail": "Why F1 fans must avoid emotional bets in Mexico",
       "value": "hace 1 min"
     },
     {
       "team": "Deportes de invierno",
       "detail": "El desahogo de un periodista tras al descenso de su equipo: \"No cor…",
-      "value": "hace 5 h"
+      "value": "hace 20 h"
     }
   ]
 }
