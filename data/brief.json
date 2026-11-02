@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:21:06.343Z",
+  "generatedAt": "2026-11-02T01:08:21.515Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,13 +10,13 @@
           "title": "\"Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
+          "ago": "hace 14 h"
         },
         {
           "title": "Por qué \"Frankenstein\" de Mary Shelley es un historia de terror incomprendida",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/crd93pexj1q5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
@@ -33,19 +33,19 @@
           "title": "El problema de los hogares no es que la inflación arrastre la cesta de la compra, es que los salarios no han seguido su ritmo",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
-          "ago": "hace 8 h"
+          "ago": "hace 13 h"
         },
         {
           "title": "Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado",
           "source": "Xataka",
           "url": "https://www.xataka.com/medicina-y-salud/nuevo-aceite-enriquecido-promete-frenar-dano-renal-diabeticos-que-buena-noticia-que-no-sirve-tu-aceite-supermercado",
-          "ago": "hace 10 h"
+          "ago": "hace 15 h"
         },
         {
           "title": "La guerra de Ucrania acaba de dar un giro inquietante: los drones ya no necesitan ver a los soldados para encontrarlos",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos",
-          "ago": "hace 14 h"
+          "ago": "hace 19 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "El riesgo país argentino subió en octubre hasta seis veces lo que aumentó en la región y el Gobierno contuvo el dólar",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-argentino-subio-en-octubre-hasta-seis-veces-lo-que-aumento-en-la-region-y-el-gobierno-nid01112026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Trump se prepara para gobernar sin el Congreso y resistir las investigaciones demócratas si pierde las elecciones",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/estados-unidos/trump-se-prepara-para-gobernar-sin-el-congreso-y-resistir-las-investigaciones-democratas-si-pierde-nid01112026/",
-          "ago": "hace 30 min"
+          "ago": "hace 5 h"
         },
         {
-          "title": "Energía e inflación, la espina que complica a Trump y los republicanos para retener el control del Congreso",
+          "title": "Energía e inflación, las espinas que complican a Trump y los republicanos para retener el control del Congreso",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/estados-unidos/energia-e-inflacion-la-espina-que-complica-a-trump-y-los-republicanos-para-retener-el-control-del-nid01112026/",
-          "ago": "hace 33 min"
-        },
-        {
-          "title": "Las elecciones de mitad de mandato, una trampa mortal para los partidos de gobierno en EE.UU.",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/las-elecciones-de-mitad-de-mandato-una-trampa-mortal-para-los-partidos-de-gobierno-en-eeuu-nid01112026/",
-          "ago": "hace 1 h"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "title": "Desde que asumió el gobierno de Javier Milei, más de 23.400 personas dejaron de trabajar para empresas del Estado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/10/31/desde-que-asumio-el-gobierno-de-javier-milei-mas-de-23400-personas-dejaron-de-trabajar-para-empresas-del-estado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "El triunfo de Lula puede mejorar el acceso de los productos argentinos al mercado de EEUU, según la Bolsa de Cereales",
@@ -99,8 +99,8 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Dos expulsados, 10 tarjetas y todas las polémicas del superclásico …",
-      "value": "hace 13 min"
+      "detail": "Ramírez ya no está a la altura del superclásico",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
@@ -109,13 +109,8 @@
     },
     {
       "team": "Fórmula 1",
-      "detail": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
+      "detail": "Piastri receives post-race penalty at Mexico City GP",
       "value": "hace 1 min"
-    },
-    {
-      "team": "Deportes de invierno",
-      "detail": "El desahogo de un periodista tras al descenso de su equipo: \"No cor…",
-      "value": "hace 1 d"
     }
   ]
 }
