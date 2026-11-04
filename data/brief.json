@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:46:04.847Z",
+  "generatedAt": "2026-11-04T16:43:42.573Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Los demócratas se quedan con las primeras grandes victorias de las elecciones de medio mandato en EE.UU., cruciales para el futuro del gobierno de Trump",
+          "title": "\"Trump sigue siendo su presidente\": la Casa Blanca reacciona a la ola de triunfos demócratas en las elecciones de mitad de mandato; sigue aquí los resultados y las reacciones",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
         },
         {
-          "title": "EE.UU. lanza \"ataques defensivos\" contra Irán antes de las elecciones de medio mandato",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cvp8gx0p2elno?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 18 h"
-        },
-        {
           "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
+        },
+        {
+          "title": "\"Esto es un desastre\": republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c3dxw0kxkgd2o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 13 min"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La salida a bolsa de Anthropic conseguirá algo tan poco habitual como que el 80% de su plantilla se haga millonaria",
+          "title": "Después de los supermercados, el último objetivo de los ciberataques en Francia son los bancos de sangre",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-conseguira-algo-poco-habitual-como-que-80-su-plantilla-se-haga-millonaria",
-          "ago": "hace 8 h"
+          "url": "https://www.xataka.com/robotica-e-ia/despues-congeladores-ultimo-objetivo-ciberataques-francia-bancos-sangre",
+          "ago": "hace 3 h"
         },
         {
-          "title": "El fraude eléctrico en Barcelona ha llegado a tal nivel que hasta los supermercados 24 horas se enganchan a la red",
+          "title": "Barcelona ha conseguido bajar los alquileres con la Ley de Vivienda. El problema es lo que está pasando con los pisos disponibles",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/fraude-electrico-barcelona-ha-llegado-a-tal-nivel-que-supermercados-24-horas-se-enganchan-a-red",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/magnet/barcelona-ha-conseguido-bajar-alquileres-ley-vivienda-problema-que-esta-pasando-pisos-disponibles",
+          "ago": "hace 3 h"
         },
         {
-          "title": "El Internet de las Cosas parecía una gran idea en 2013: los supermercados de Europa están descubriendo que con la IA no lo era tanto",
+          "title": "Los glaciares de los Pirineos tienen fecha de caducidad: apuntan a desaparecer por completo en 2034",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seguridad/internet-cosas-parecia-gran-idea-2013-supermercados-europa-estan-descubriendo-que-ia-no-era",
-          "ago": "hace 12 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/glaciares-pirineos-tienen-fecha-caducidad-apuntan-a-desaparecer-completo-2034",
+          "ago": "hace 12 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Resultados en vivo de las elecciones en Florida: Donalds le gana a Jolly con más del 95% de los votos escrutados",
+          "title": "Ley de semillas: la federación de distribuidores de insumos reclama un lugar en la mesa de debate con el Gobierno",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/florida/resultados-de-las-elecciones-en-florida-quien-gana-entre-byron-donalds-y-david-jolly-nid03112026/",
-          "ago": "hace 4 min"
+          "url": "https://www.lanacion.com.ar/economia/campo/ley-de-semillas-los-multiplicadores-reclaman-un-lugar-en-la-mesa-de-debate-con-el-gobierno-nid04112026/",
+          "ago": "hace 17 min"
         },
         {
-          "title": "Elecciones en Estados Unidos 2026, EN VIVO: republicanos vs. demócratas y las últimas noticias de cómo quedan la Cámara y el Senado, voto a voto",
+          "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-estados-unidos-2026-en-vivo-republicanos-vs-democratas-y-las-ultimas-noticias-de-como-nid03112026/",
-          "ago": "hace 5 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+          "ago": "hace 13 min"
         },
         {
-          "title": "Trump descarga su furia contra Fox News, su cadena de televisión favorita, por la cobertura de las elecciones",
+          "title": "El insólito recorrido de un proyecto de ley que Milei firmó de madrugada y pidió retirar tres días después",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/trump-descarga-su-furia-contra-fox-news-su-cadena-de-television-favorita-por-la-cobertura-de-las-nid03112026/",
-          "ago": "hace 8 min"
+          "url": "https://www.lanacion.com.ar/politica/el-insolito-recorrido-de-un-proyecto-de-ley-que-milei-firmo-de-madrugada-y-pidio-retirar-tres-dias-nid04112026/",
+          "ago": "hace 41 min"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "El Gobierno envió al Congreso una reforma financiera que habilita nuevos instrumentos y relaja reglas para el mercado de capitales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/03/el-gobierno-envio-al-congreso-la-reforma-financiera-que-milei-anuncio-en-julio-pasado/",
-          "ago": "hace 6 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Guerra, tasas y riesgo país: qué efectos pueden tener en la Argentina las elecciones de medio término de Estados Unidos",
@@ -88,10 +88,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
+          "title": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/03/el-riesgo-pais-trepo-a-un-maximo-desde-las-elecciones-de-2025-y-el-dolar-anoto-una-nueva-suba/",
-          "ago": "hace 4 h"
+          "url": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/",
+          "ago": "hace 13 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "De ser el cuarto árbitro en el Súper a principal ante Defensa: la b…",
-      "value": "hace 2 h"
+      "detail": "Alexis Mac Allister y una cuenta pendiente: \"Me quedó una espinita …",
+      "value": "hace 48 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Cómo les fue a los argentinos citados por la Selección en la cuarta…",
-      "value": "hace 4 h"
+      "detail": "El recuerdo de un jugador de Suiza sobre Messi en el cruce de cuart…",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "The inside story of Lewis Hamilton’s first F1 test",
+      "detail": "The 5 drivers most likely to qualify fastest in Brazil",
       "value": "hace 1 min"
     }
   ]
