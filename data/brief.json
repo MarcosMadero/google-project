@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:00:21.676Z",
+  "generatedAt": "2026-11-05T21:50:11.556Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Santiago Peña presenta su renuncia como presidente de Paraguay por la crisis de Ueno Bank",
+          "title": "Crisis en Paraguay: el Congreso decide si acepta la renuncia del presidente Santiago Peña o sigue con el juicio político",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 min"
+          "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 min"
         },
         {
-          "title": "4 claves para entender la crisis de Ueno Bank en Paraguay por la que piden un juicio político al presidente Santiago Peña",
+          "title": "Santiago Peña renuncia a la presidencia de Paraguay pero la Cámara de Diputados aprueba someterlo a juicio político por el caso Ueno Bank",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 2 h"
         },
         {
-          "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
+          "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Qualcomm busca fuera del móvil lo que le quita la crisis de la memoria: coches, IA y antenas para SpaceX",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
         },
         {
           "title": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
-          "ago": "hace 3 h"
-        },
-        {
-          "title": "El PP quiere modificar la ley en Cantabria para que el PSIR pueda ser solo inmobiliario y permita construir vivienda",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/cantabria-quiere-que-proyecto-interes-regional-pueda-ser-solo-pisos-psir-seria-llave-maestra-urbanismo",
-          "ago": "hace 5 h"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Otro aliados en crisis: el Gobierno, de los elogios al modelo paraguayo a la incomodidad tras la renuncia de Santiago Peña",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/crisis-en-paraguay-milei-se-mantiene-en-silencio-tras-la-renuncia-de-su-aliado-santiago-pena-nid05112026/",
+          "ago": "hace 2 h"
+        },
+        {
           "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
-          "ago": "hace 6 min"
-        },
-        {
-          "title": "El video de la renuncia de Santiago Peña por la crisis de Ueno Bank: “Quiero pedir disculpas si en algún momento he fallado”",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/santiago-pena-contra-las-cuerdas-por-el-escandalo-de-ueno-bank-su-propio-partido-votara-a-favor-del-nid05112026/",
-          "ago": "hace 7 min"
+          "ago": "hace 8 min"
         },
         {
           "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
-          "ago": "hace 9 min"
+          "ago": "hace 20 min"
         }
       ]
     },
@@ -82,16 +82,16 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Escándalo del Ueno Bank: el expresidente Horacio Cartes dijo que su partido apoyará el juicio político a Santiago Peña",
+          "title": "Las consultoras que releva el BCRA proyectaron una inflación de 1,8% para octubre: qué prevén para este mes",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/america/america-latina/2026/11/05/escandalo-del-ueno-bank-el-expresidente-horacio-cartes-dijo-que-su-partido-apoyara-el-juicio-politico-a-santiago-pena/",
-          "ago": "hace 3 h"
+          "url": "https://www.infobae.com/economia/2026/11/05/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-18-para-octubre-que-preven-para-este-mes/",
+          "ago": "hace 5 min"
         },
         {
-          "title": "Un foro empresarial reúne a figuras del Gobierno, líderes globales y expresidentes para debatir el nuevo orden económico",
+          "title": "Tras la crisis política y la renuncia de Peña, el riesgo país de Paraguay subió 5,1% y alcanzó los 144 puntos básicos",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/05/un-foro-empresarial-reune-a-figuras-del-gobierno-lideres-globales-y-expresidentes-para-debatir-el-nuevo-orden-economico/",
-          "ago": "hace 5 h"
+          "url": "https://www.infobae.com/economia/2026/11/05/tras-la-crisis-politica-y-la-renuncia-de-pena-el-riesgo-pais-de-paraguay-subio-66-y-alcanzo-los-146-puntos-basicos/",
+          "ago": "hace 1 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Boca define el torneo ante Defensa: el dato clave de Villa en busca…",
-      "value": "hace 20 min"
+      "detail": "El deseo de Riquelme de cara a la final por la Tabla Anual que juga…",
+      "value": "hace 24 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "Di Carlo, sobre la localía de la Selección en la Bombonera: \"Creo q…",
-      "value": "hace 2 h"
+      "value": "hace 7 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "LIVE COVERAGE: Build-up to the Sao Paulo GP weekend",
+      "detail": "Why Russell had ‘to get out’ after Antonelli’s title win",
       "value": "hace 1 min"
     }
   ]
