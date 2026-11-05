@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:54:38.295Z",
+  "generatedAt": "2026-11-05T17:00:21.676Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Los demócratas ganan el control del Congreso, Trump es criticado por su propio partido y EE.UU. entra en una nueva era política tras las elecciones de medio término",
+          "title": "Santiago Peña presenta su renuncia como presidente de Paraguay por la crisis de Ueno Bank",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 min"
+          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 16 min"
         },
         {
-          "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
+          "title": "4 claves para entender la crisis de Ueno Bank en Paraguay por la que piden un juicio político al presidente Santiago Peña",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 d"
-        },
-        {
-          "title": "La debacle de las elecciones de medio mandato debilita a Trump, pero por ahora aún conserva poder",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cre3x0zq9xygo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 2 h"
+        },
+        {
+          "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Después de los supermercados, el último objetivo de los ciberataques en Francia son los bancos de sangre",
+          "title": "Qualcomm busca fuera del móvil lo que le quita la crisis de la memoria: coches, IA y antenas para SpaceX",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/despues-congeladores-ultimo-objetivo-ciberataques-francia-bancos-sangre",
-          "ago": "hace 12 h"
+          "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Los ciberataques siguen afectando a empresas europeas y ahora golpean al banco francés Crédit Mutuel Arkéa",
+          "title": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seguridad/ciberataques-siguen-afectando-a-empresas-europeas-ahora-golpean-al-banco-frances-credit-mutuel-arkea",
-          "ago": "hace 6 h"
+          "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Los centros de datos también se presentaban a las elecciones de EEUU y han perdido estrepitosamente",
+          "title": "El PP quiere modificar la ley en Cantabria para que el PSIR pueda ser solo inmobiliario y permita construir vivienda",
           "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-tambien-se-presentaban-a-elecciones-eeuu-han-perdido-estrepitosamente",
-          "ago": "hace 7 h"
+          "url": "https://www.xataka.com/magnet/cantabria-quiere-que-proyecto-interes-regional-pueda-ser-solo-pisos-psir-seria-llave-maestra-urbanismo",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Milei faltó a la apertura de la Cumbre Iberoamericana y no fue a la gala de los reyes, pero se reunió con Abascal",
+          "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
+          "ago": "hace 6 min"
+        },
+        {
+          "title": "El video de la renuncia de Santiago Peña por la crisis de Ueno Bank: “Quiero pedir disculpas si en algún momento he fallado”",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/santiago-pena-contra-las-cuerdas-por-el-escandalo-de-ueno-bank-su-propio-partido-votara-a-favor-del-nid05112026/",
+          "ago": "hace 7 min"
         },
         {
           "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-          "ago": "hace 2 h"
-        },
-        {
-          "title": "La oposición de Paraguay impulsa el juicio político contra el presidente Santiago Peña tras el “corralito” bancario",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/la-oposicion-paraguaya-impulsa-el-juicio-politico-contra-santiago-pena-tras-la-crisis-bancaria-nid04112026/",
-          "ago": "hace 5 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+          "ago": "hace 9 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno envió al Congreso una reforma financiera que habilita nuevos instrumentos y relaja reglas para el mercado de capitales",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/03/el-gobierno-envio-al-congreso-la-reforma-financiera-que-milei-anuncio-en-julio-pasado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
-          "title": "“Cualquiera cree que puede ser presidente”: la reflexión de Luis Caputo sobre los dirigentes que aspiran a suceder a Javier Milei",
+          "title": "Escándalo del Ueno Bank: el expresidente Horacio Cartes dijo que su partido apoyará el juicio político a Santiago Peña",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/04/luis-caputo-mando-un-mensaje-a-los-que-quieren-reemplazar-a-javier-milei-en-2027-se-van-a-comer-una-curva/",
-          "ago": "hace 8 h"
+          "url": "https://www.infobae.com/america/america-latina/2026/11/05/escandalo-del-ueno-bank-el-expresidente-horacio-cartes-dijo-que-su-partido-apoyara-el-juicio-politico-a-santiago-pena/",
+          "ago": "hace 3 h"
         },
         {
-          "title": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
+          "title": "Un foro empresarial reúne a figuras del Gobierno, líderes globales y expresidentes para debatir el nuevo orden económico",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/",
-          "ago": "hace 22 h"
+          "url": "https://www.infobae.com/economia/2026/11/05/un-foro-empresarial-reune-a-figuras-del-gobierno-lideres-globales-y-expresidentes-para-debatir-el-nuevo-orden-economico/",
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,23 +99,18 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Atento Boca: Atlético Mineiro pierde ante Botafogo en Rio",
-      "value": "hace 2 h"
+      "detail": "Boca define el torneo ante Defensa: el dato clave de Villa en busca…",
+      "value": "hace 20 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "El recuerdo de un jugador de Suiza sobre Messi en el cruce de cuart…",
-      "value": "hace 10 h"
+      "detail": "Di Carlo, sobre la localía de la Selección en la Bombonera: \"Creo q…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Our early Bet Builder picks for Brazil",
+      "detail": "LIVE COVERAGE: Build-up to the Sao Paulo GP weekend",
       "value": "hace 1 min"
-    },
-    {
-      "team": "Deportes de invierno",
-      "detail": "Alcaraz derrota a Michelsen y esquiva la escabechina de favoritos e…",
-      "value": "hace 6 h"
     }
   ]
 }
