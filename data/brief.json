@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:45:45.198Z",
+  "generatedAt": "2026-11-05T01:54:38.295Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -19,10 +19,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "\"Esto es un desastre\": republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
+          "title": "La debacle de las elecciones de medio mandato debilita a Trump, pero por ahora aún conserva poder",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c3dxw0kxkgd2o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "url": "https://www.bbc.com/mundo/articles/cre3x0zq9xygo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Después de los supermercados, el último objetivo de los ciberataques en Francia son los bancos de sangre",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/despues-congeladores-ultimo-objetivo-ciberataques-francia-bancos-sangre",
-          "ago": "hace 8 h"
+          "ago": "hace 12 h"
         },
         {
           "title": "Los ciberataques siguen afectando a empresas europeas y ahora golpean al banco francés Crédit Mutuel Arkéa",
           "source": "Xataka",
           "url": "https://www.xataka.com/seguridad/ciberataques-siguen-afectando-a-empresas-europeas-ahora-golpean-al-banco-frances-credit-mutuel-arkea",
-          "ago": "hace 2 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "Los centros de datos también se presentaban a las elecciones de EEUU y han perdido estrepitosamente",
           "source": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/centros-datos-tambien-se-presentaban-a-elecciones-eeuu-han-perdido-estrepitosamente",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
+          "title": "Milei faltó a la apertura de la Cumbre Iberoamericana y no fue a la gala de los reyes, pero se reunió con Abascal",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-          "ago": "hace 11 min"
+          "ago": "hace 2 h"
         },
         {
           "title": "La oposición de Paraguay impulsa el juicio político contra el presidente Santiago Peña tras el “corralito” bancario",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/el-mundo/la-oposicion-paraguaya-impulsa-el-juicio-politico-contra-santiago-pena-tras-la-crisis-bancaria-nid04112026/",
-          "ago": "hace 23 min"
-        },
-        {
-          "title": "Milei faltó a la inauguración de la Cumbre Iberoamericana y no asiste a la gala que ofrecen los reyes",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/",
-          "ago": "hace 35 min"
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "“Cualquiera cree que puede ser presidente”: la reflexión de Luis Caputo sobre los dirigentes que aspiran a suceder a Javier Milei",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/04/luis-caputo-mando-un-mensaje-a-los-que-quieren-reemplazar-a-javier-milei-en-2027-se-van-a-comer-una-curva/",
-          "ago": "hace 4 h"
+          "ago": "hace 8 h"
         },
         {
           "title": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/",
-          "ago": "hace 18 h"
+          "ago": "hace 22 h"
         }
       ]
     }
@@ -99,13 +99,13 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La convocatoria imprevista que le saca a Boca un jugador para la se…",
-      "value": "hace 12 min"
+      "detail": "Atento Boca: Atlético Mineiro pierde ante Botafogo en Rio",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
       "detail": "El recuerdo de un jugador de Suiza sobre Messi en el cruce de cuart…",
-      "value": "hace 6 h"
+      "value": "hace 10 h"
     },
     {
       "team": "Fórmula 1",
@@ -115,7 +115,7 @@
     {
       "team": "Deportes de invierno",
       "detail": "Alcaraz derrota a Michelsen y esquiva la escabechina de favoritos e…",
-      "value": "hace 2 h"
+      "value": "hace 6 h"
     }
   ]
 }
