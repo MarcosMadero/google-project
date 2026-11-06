@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:50:11.556Z",
+  "generatedAt": "2026-11-06T01:56:01.578Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Crisis en Paraguay: el Congreso decide si acepta la renuncia del presidente Santiago Peña o sigue con el juicio político",
+          "title": "Crisis en Paraguay: comienza el juicio político contra Santiago Peña en el Congreso, que deja en suspenso su renuncia como presidente",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
         },
         {
-          "title": "Santiago Peña renuncia a la presidencia de Paraguay pero la Cámara de Diputados aprueba someterlo a juicio político por el caso Ueno Bank",
+          "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 2 h"
+          "ago": "hace 3 h"
         },
         {
           "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 4 h"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
+          "title": "La Junta Electoral autoriza el uso de MiDNI para identificarse al votar en las elecciones generales del 29 de noviembre",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/aplicaciones/junta-electoral-autoriza-uso-midni-para-identificarse-al-votar-elecciones-generales-29-noviembre",
+          "ago": "hace 3 h"
+        },
+        {
           "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
-          "ago": "hace 2 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "Qualcomm busca fuera del móvil lo que le quita la crisis de la memoria: coches, IA y antenas para SpaceX",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
-          "ago": "hace 8 h"
-        },
-        {
-          "title": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
-          "ago": "hace 8 h"
+          "ago": "hace 12 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Otro aliados en crisis: el Gobierno, de los elogios al modelo paraguayo a la incomodidad tras la renuncia de Santiago Peña",
+          "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/crisis-en-paraguay-milei-se-mantiene-en-silencio-tras-la-renuncia-de-su-aliado-santiago-pena-nid05112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+          "ago": "hace 29 min"
         },
         {
           "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
-          "ago": "hace 8 min"
+          "ago": "hace 2 h"
         },
         {
-          "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+          "title": "Mortalidad infantil: el Gobierno informó una baja en 2025, pero la tasa sigue en niveles similares a los de hace cinco años",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
-          "ago": "hace 20 min"
+          "url": "https://www.lanacion.com.ar/sociedad/mortalidad-infantil-el-gobierno-informo-una-baja-en-2025-pero-la-tasa-sigue-en-niveles-similares-a-nid05112026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -82,16 +82,16 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Las consultoras que releva el BCRA proyectaron una inflación de 1,8% para octubre: qué prevén para este mes",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/05/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-18-para-octubre-que-preven-para-este-mes/",
-          "ago": "hace 5 min"
-        },
-        {
           "title": "Tras la crisis política y la renuncia de Peña, el riesgo país de Paraguay subió 5,1% y alcanzó los 144 puntos básicos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/05/tras-la-crisis-politica-y-la-renuncia-de-pena-el-riesgo-pais-de-paraguay-subio-66-y-alcanzo-los-146-puntos-basicos/",
-          "ago": "hace 1 h"
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Por qué el mercado atribuye al Gobierno una compra de bonos por $2 billones",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/11/06/por-que-el-mercado-atribuye-al-gobierno-una-compra-de-bonos-por-2-billones/",
+          "ago": "hace 2 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El deseo de Riquelme de cara a la final por la Tabla Anual que juga…",
-      "value": "hace 24 min"
+      "detail": "¿Cuándo pueden cruzarse River y Boca en playoff?",
+      "value": "hace 2 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Di Carlo, sobre la localía de la Selección en la Bombonera: \"Creo q…",
-      "value": "hace 7 h"
+      "detail": "Más baratas que el partido con Uruguay: las entradas para Argentina…",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why Russell had ‘to get out’ after Antonelli’s title win",
+      "detail": "All the stories that got the Sao Paulo paddock talking",
       "value": "hace 1 min"
     }
   ]
