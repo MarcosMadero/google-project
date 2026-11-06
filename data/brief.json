@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:56:01.578Z",
+  "generatedAt": "2026-11-06T16:31:39.983Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Crisis en Paraguay: comienza el juicio político contra Santiago Peña en el Congreso, que deja en suspenso su renuncia como presidente",
+          "title": "Crisis en Paraguay: el Congreso emprende un juicio político contra Santiago Peña y deja en suspenso su renuncia como presidente",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
         },
         {
-          "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
+          "title": "Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 min"
         },
         {
-          "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
+          "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 h"
+          "url": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 14 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La Junta Electoral autoriza el uso de MiDNI para identificarse al votar en las elecciones generales del 29 de noviembre",
+          "title": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
           "source": "Xataka",
-          "url": "https://www.xataka.com/aplicaciones/junta-electoral-autoriza-uso-midni-para-identificarse-al-votar-elecciones-generales-29-noviembre",
+          "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "El sueño de los 2 billones de dólares se evapora: Anthropic afronta con inquietud una salida a bolsa menos potente de lo esperado",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/batacazo-bolsa-pilla-a-anthropic-a-punto-fijar-su-precio-nasdaq-no-compra-promesas-ia",
           "ago": "hace 3 h"
         },
         {
-          "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
+          "title": "España toma una medida inédita en su historia e interviene el mercado del aceite de oliva para frenar el desplome de precios",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
-          "ago": "hace 6 h"
-        },
-        {
-          "title": "Qualcomm busca fuera del móvil lo que le quita la crisis de la memoria: coches, IA y antenas para SpaceX",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
-          "ago": "hace 12 h"
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/gobierno-interviene-primera-vez-mercado-aceite-oliva-para-evitar-que-precios-sigan-cayendo",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+          "title": "Sesión del Congreso de Paraguay por la renuncia del presidente Santiago Peña, en vivo: la defensa por el juicio político y las últimas noticias",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+          "url": "https://www.lanacion.com.ar/el-mundo/sesion-del-congreso-de-paraguay-por-la-renuncia-del-presidente-santiago-pena-en-vivo-la-defensa-por-nid06112026/",
           "ago": "hace 29 min"
         },
         {
-          "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
+          "title": "Javier Milei y sus medidas, en vivo: “El espíritu liberal sigue vivo”, dijo el Presidente en la Cumbre Iberoamericana",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-espiritu-liberal-sigue-vivo-dijo-el-presidente-en-la-cumbre-nid06112026/",
+          "ago": "hace 7 min"
         },
         {
-          "title": "Mortalidad infantil: el Gobierno informó una baja en 2025, pero la tasa sigue en niveles similares a los de hace cinco años",
+          "title": "Milei destacó la baja de retenciones en su Gobierno y dijo que desaparecerán en el largo plazo",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/mortalidad-infantil-el-gobierno-informo-una-baja-en-2025-pero-la-tasa-sigue-en-niveles-similares-a-nid05112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/economia/campo/milei-destaco-la-baja-de-retenciones-en-su-gobierno-y-dijo-que-desapareceran-en-el-largo-plazo-nid06112026/",
+          "ago": "hace 9 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "El Gobierno envió al Congreso una reforma financiera que habilita nuevos instrumentos y relaja reglas para el mercado de capitales",
+          "title": "El Gobierno minimizó el salto del riesgo país y aseguró estar “tremendamente tranquilo” de cara a las elecciones",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/03/el-gobierno-envio-al-congreso-la-reforma-financiera-que-milei-anuncio-en-julio-pasado/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/11/06/caputo-minimizo-el-salto-del-riesgo-pais-y-aseguro-estar-tremendamente-tranquilo-de-cara-a-las-elecciones/",
+          "ago": "hace 2 h"
         },
         {
           "title": "Tras la crisis política y la renuncia de Peña, el riesgo país de Paraguay subió 5,1% y alcanzó los 144 puntos básicos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/05/tras-la-crisis-politica-y-la-renuncia-de-pena-el-riesgo-pais-de-paraguay-subio-66-y-alcanzo-los-146-puntos-basicos/",
-          "ago": "hace 2 h"
+          "ago": "hace 16 h"
         },
         {
           "title": "Por qué el mercado atribuye al Gobierno una compra de bonos por $2 billones",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/06/por-que-el-mercado-atribuye-al-gobierno-una-compra-de-bonos-por-2-billones/",
-          "ago": "hace 2 h"
+          "ago": "hace 16 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "¿Cuándo pueden cruzarse River y Boca en playoff?",
-      "value": "hace 2 h"
+      "detail": "La decisión bomba que evalúa Arruabarrena en el 11 de Boca",
+      "value": "hace 46 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Más baratas que el partido con Uruguay: las entradas para Argentina…",
-      "value": "hace 3 h"
+      "detail": "La lista de Uruguay para enfrentar a la Selección Argentina",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "All the stories that got the Sao Paulo paddock talking",
+      "detail": "LIVE COVERAGE: First practice for the Sao Paulo GP",
       "value": "hace 1 min"
     }
   ]
