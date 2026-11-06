@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:31:39.983Z",
+  "generatedAt": "2026-11-06T21:23:20.268Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 1 min"
         },
         {
-          "title": "Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 min"
-        },
-        {
           "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 14 h"
+          "ago": "hace 19 h"
+        },
+        {
+          "title": "Crisis en Paraguay: presentan los alegatos finales del juicio político al presidente Santiago Peña",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 min"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
-          "ago": "hace 1 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "El sueño de los 2 billones de dólares se evapora: Anthropic afronta con inquietud una salida a bolsa menos potente de lo esperado",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/batacazo-bolsa-pilla-a-anthropic-a-punto-fijar-su-precio-nasdaq-no-compra-promesas-ia",
-          "ago": "hace 3 h"
+          "ago": "hace 8 h"
         },
         {
-          "title": "España toma una medida inédita en su historia e interviene el mercado del aceite de oliva para frenar el desplome de precios",
+          "title": "Una sentencia obliga al SEPE a devolver el paro a un desempleado de Vigo que sacaba un dinero extra vendiendo uvas y madera",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/gobierno-interviene-primera-vez-mercado-aceite-oliva-para-evitar-que-precios-sigan-cayendo",
-          "ago": "hace 5 h"
+          "url": "https://www.xataka.com/empresas-y-economia/sentencia-obliga-al-sepe-a-pagar-paro-a-desempleado-vigo-que-sacaba-dinero-extra-vendiendo-uvas-madera",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Sesión del Congreso de Paraguay por la renuncia del presidente Santiago Peña, en vivo: la defensa por el juicio político y las últimas noticias",
-          "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/sesion-del-congreso-de-paraguay-por-la-renuncia-del-presidente-santiago-pena-en-vivo-la-defensa-por-nid06112026/",
-          "ago": "hace 29 min"
-        },
-        {
           "title": "Javier Milei y sus medidas, en vivo: “El espíritu liberal sigue vivo”, dijo el Presidente en la Cumbre Iberoamericana",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-espiritu-liberal-sigue-vivo-dijo-el-presidente-en-la-cumbre-nid06112026/",
-          "ago": "hace 7 min"
+          "ago": "hace 9 min"
         },
         {
-          "title": "Milei destacó la baja de retenciones en su Gobierno y dijo que desaparecerán en el largo plazo",
+          "title": "El presidente de OpenAI confirmó que la compañía podría salir a la Bolsa en 2027",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/campo/milei-destaco-la-baja-de-retenciones-en-su-gobierno-y-dijo-que-desapareceran-en-el-largo-plazo-nid06112026/",
-          "ago": "hace 9 min"
+          "url": "https://www.lanacion.com.ar/economia/IA/el-presidente-de-openai-confirmo-que-la-compania-podria-salir-a-la-bolsa-en-2027-nid06112026/",
+          "ago": "hace 18 min"
+        },
+        {
+          "title": "La Cámara Federal dejó al borde del cierre otra causa que investigaba al Gobierno",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/la-camara-federal-dejo-al-borde-del-cierre-otra-causa-que-investigaba-al-gobierno-nid06112026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno minimizó el salto del riesgo país y aseguró estar “tremendamente tranquilo” de cara a las elecciones",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/06/caputo-minimizo-el-salto-del-riesgo-pais-y-aseguro-estar-tremendamente-tranquilo-de-cara-a-las-elecciones/",
-          "ago": "hace 2 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "Tras la crisis política y la renuncia de Peña, el riesgo país de Paraguay subió 5,1% y alcanzó los 144 puntos básicos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/05/tras-la-crisis-politica-y-la-renuncia-de-pena-el-riesgo-pais-de-paraguay-subio-66-y-alcanzo-los-146-puntos-basicos/",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
         },
         {
           "title": "Por qué el mercado atribuye al Gobierno una compra de bonos por $2 billones",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/06/por-que-el-mercado-atribuye-al-gobierno-una-compra-de-bonos-por-2-billones/",
-          "ago": "hace 16 h"
+          "ago": "hace 21 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La decisión bomba que evalúa Arruabarrena en el 11 de Boca",
-      "value": "hace 46 min"
+      "detail": "La foto de Paredes que revivió la final de la Libertadores 2007",
+      "value": "hace 49 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "La lista de Uruguay para enfrentar a la Selección Argentina",
+      "detail": "Con mayoría del fútbol local: salió la lista de Costa Rica para enf…",
       "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "LIVE COVERAGE: First practice for the Sao Paulo GP",
+      "detail": "‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks",
       "value": "hace 1 min"
     }
   ]
