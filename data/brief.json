@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:23:20.268Z",
+  "generatedAt": "2026-11-07T01:28:13.104Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Crisis en Paraguay: el Congreso emprende un juicio político contra Santiago Peña y deja en suspenso su renuncia como presidente",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 1 min"
-        },
-        {
-          "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 19 h"
-        },
-        {
-          "title": "Crisis en Paraguay: presentan los alegatos finales del juicio político al presidente Santiago Peña",
+          "title": "Crisis en Paraguay: detienen a Santiago Peña en su domicilio tras su destitución por el Congreso en juicio político",
           "source": "BBC Mundo",
           "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
           "ago": "hace 1 min"
+        },
+        {
+          "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 10 h"
+        },
+        {
+          "title": "El expresidente de Paraguay Santiago Peña queda bajo arresto domiciliario tras ser destituido por el Congreso por el escándalo de Ueno Bank",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
-          "ago": "hace 6 h"
+          "ago": "hace 10 h"
         },
         {
           "title": "El sueño de los 2 billones de dólares se evapora: Anthropic afronta con inquietud una salida a bolsa menos potente de lo esperado",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/batacazo-bolsa-pilla-a-anthropic-a-punto-fijar-su-precio-nasdaq-no-compra-promesas-ia",
-          "ago": "hace 8 h"
+          "ago": "hace 12 h"
         },
         {
           "title": "Una sentencia obliga al SEPE a devolver el paro a un desempleado de Vigo que sacaba un dinero extra vendiendo uvas y madera",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/sentencia-obliga-al-sepe-a-pagar-paro-a-desempleado-vigo-que-sacaba-dinero-extra-vendiendo-uvas-madera",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: “El espíritu liberal sigue vivo”, dijo el Presidente en la Cumbre Iberoamericana",
+          "title": "“El espíritu liberal sigue vivo”, dijo Javier Milei en la Cumbre Iberoamericana en España",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-espiritu-liberal-sigue-vivo-dijo-el-presidente-en-la-cumbre-nid06112026/",
-          "ago": "hace 9 min"
+          "ago": "hace 51 min"
         },
         {
           "title": "El presidente de OpenAI confirmó que la compañía podría salir a la Bolsa en 2027",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/economia/IA/el-presidente-de-openai-confirmo-que-la-compania-podria-salir-a-la-bolsa-en-2027-nid06112026/",
-          "ago": "hace 18 min"
+          "ago": "hace 4 h"
         },
         {
-          "title": "La Cámara Federal dejó al borde del cierre otra causa que investigaba al Gobierno",
+          "title": "Crisis en Paraguay, EN VIVO: Santiago Peña fue detenido luego de ser destituido por el Senado",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-camara-federal-dejo-al-borde-del-cierre-otra-causa-que-investigaba-al-gobierno-nid06112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/el-mundo/sesion-del-congreso-de-paraguay-por-la-renuncia-del-presidente-santiago-pena-en-vivo-la-defensa-por-nid06112026/",
+          "ago": "hace 4 min"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "El Gobierno minimizó el salto del riesgo país y aseguró estar “tremendamente tranquilo” de cara a las elecciones",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/06/caputo-minimizo-el-salto-del-riesgo-pais-y-aseguro-estar-tremendamente-tranquilo-de-cara-a-las-elecciones/",
-          "ago": "hace 7 h"
+          "ago": "hace 11 h"
         },
         {
           "title": "Tras la crisis política y la renuncia de Peña, el riesgo país de Paraguay subió 5,1% y alcanzó los 144 puntos básicos",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/05/tras-la-crisis-politica-y-la-renuncia-de-pena-el-riesgo-pais-de-paraguay-subio-66-y-alcanzo-los-146-puntos-basicos/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         },
         {
           "title": "Por qué el mercado atribuye al Gobierno una compra de bonos por $2 billones",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/06/por-que-el-mercado-atribuye-al-gobierno-una-compra-de-bonos-por-2-billones/",
-          "ago": "hace 21 h"
+          "ago": "hace 1 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "La foto de Paredes que revivió la final de la Libertadores 2007",
-      "value": "hace 49 min"
+      "detail": "Con los clasificados de la Zona A: así están quedando los playoffs …",
+      "value": "hace 1 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Con mayoría del fútbol local: salió la lista de Costa Rica para enf…",
-      "value": "hace 2 h"
+      "detail": "FIFA aflojó con Molina pero no con la sanción a Paredes: AFA va al TAS",
+      "value": "hace 3 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks",
+      "detail": "Camara reflects on 'very special' F1 weekend debut",
       "value": "hace 1 min"
     }
   ]
