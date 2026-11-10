@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:42:40.809Z",
+  "generatedAt": "2026-11-10T21:42:45.694Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -13,16 +13,16 @@
           "ago": "hace 1 d"
         },
         {
+          "title": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
           "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cm9dzdq3p48zo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 40 min"
-        },
-        {
-          "title": "Un congresista republicano inicia el proceso para el \"impeachment\" de Pete Hegseth por la guerra en Irán",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "ago": "hace 6 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Nvidia pierde 190.000 millones de dólares en Bolsa y sus accionistas llevan a Jensen Huang ante los tribunales",
-          "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-pierde-190-000-millones-dolares-bolsa-sus-accionistas-llevan-a-jensen-huang-tribunales",
-          "ago": "hace 4 h"
-        },
-        {
           "title": "\"El trabajador que se acoja a su derecho a huelga no cotizará el día para la jubilación\": el impacto del 11N en la Seguridad Social",
           "source": "Xataka",
           "url": "https://www.xataka.com/magnet/trabajador-que-se-acoja-a-su-derecho-a-huelga-no-cotizara-dia-para-jubilacion-impacto-11n-seguridad-social",
-          "ago": "hace 4 h"
+          "ago": "hace 9 h"
         },
         {
-          "title": "Quedan 24 horas para prepararnos ante una ciclogénesis explosiva de récord y AEMET ya señala la sierra de Gredos",
+          "title": "España llega tarde al DAB+ pero llega: el estándar digital de radio que Europa lleva usando una década empieza su despliegue",
           "source": "Xataka",
-          "url": "https://www.xataka.com/ecologia-y-naturaleza/quedan-24-horas-para-prepararnos-ciclogenesis-explosiva-record-aemet-senala-sierra-gredos",
-          "ago": "hace 5 h"
+          "url": "https://www.xataka.com/servicios/espana-llega-tarde-al-dab-llega-estandar-digital-radio-que-europa-lleva-usando-decada-empieza-su-despliegue",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "Madrid se está convirtiendo en el nuevo Los Ángeles y por el camino se ha quedado con sus atascos permanentes",
+          "source": "Xataka",
+          "url": "https://www.xataka.com/movilidad/madrid-se-esta-convirtiendo-nuevo-angeles-camino-se-ha-quedado-sus-atascos-permanentes",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -59,16 +59,16 @@
           "ago": "hace 28 min"
         },
         {
-          "title": "Carne para China: fuerte expectativa por otro millonario negocio en un mercado que “cada vez sorprende más”",
+          "title": "Perú tomó US$4500 millones del mercado global a 12 y 30 años a tasas de hasta 6,45% anual",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/campo/carne-a-china-fuerte-expectativa-por-otro-millonario-negocio-en-un-mercado-que-cada-vez-sorprende-nid10112026/",
-          "ago": "hace 38 min"
+          "url": "https://www.lanacion.com.ar/economia/peru-tomo-us4500-millones-del-mercado-global-a-12-y-30-anos-a-tasas-de-hasta-645-anual-nid10112026/",
+          "ago": "hace 34 min"
         },
         {
-          "title": "Neuquén abrirá el calendario electoral: convocó a elecciones para febrero",
+          "title": "La mayoría de los estadounidenses quiere que el nuevo Congreso demócrata ponga fin a la guerra de Trump contra Irán",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/neuquen-abrira-el-calendario-electoral-convoco-a-elecciones-para-febrero-nid10112026/",
-          "ago": "hace 44 min"
+          "url": "https://www.lanacion.com.ar/estados-unidos/la-mayoria-de-los-estadounidenses-quiere-que-el-nuevo-congreso-democrata-ponga-fin-a-la-guerra-de-nid10112026/",
+          "ago": "hace 3 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Subió la inflación en Estados Unidos y la Reserva Federal evalúa una alza de tasas por encima de lo esperado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/estados-unidos/2026/11/10/subio-la-inflacion-en-estados-unidos-y-la-reserva-federal-evalua-una-alza-de-tasas-por-encima-de-lo-esperado/",
-          "ago": "hace 24 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea principal del Gobierno con el mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/09/por-que-la-suba-del-riesgo-pais-no-movio-al-dolar-claves-de-la-pelea-principal-del-gobierno-con-el-mercado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
           "title": "El Gobierno mantiene la sintonía fina con el dólar, en medio de la volatilidad financiera",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/09/el-gobierno-mantiene-la-sintonia-fina-con-el-dolar-en-medio-de-la-volatilidad-financiera/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Herrón, tras el título lleno de pibes de Boca Predio: \"La exigencia…",
-      "value": "hace 42 min"
-    },
-    {
-      "team": "Selección Argentina",
-      "detail": "Jueves de gran anuncio: la continuidad de Lionel Scaloni en la Sele…",
+      "detail": "Leandro Paredes, aparte en la vuelta a las prácticas de Boca: qué s…",
       "value": "hace 1 h"
     },
     {
+      "team": "Selección Argentina",
+      "detail": "Selección Argentina vs. Uruguay, por un amistoso: día, hora, cómo v…",
+      "value": "hace 28 min"
+    },
+    {
       "team": "Fórmula 1",
-      "detail": "F1 ACADEMY announces 2027 calendar",
+      "detail": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
       "value": "hace 1 min"
     }
   ]
