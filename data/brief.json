@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:48:55.028Z",
+  "generatedAt": "2026-11-11T22:32:55.095Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -10,7 +10,7 @@
           "title": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 12 h"
+          "ago": "hace 18 h"
         },
         {
           "title": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU.",
@@ -19,10 +19,10 @@
           "ago": "hace 2 d"
         },
         {
-          "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
+          "title": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\"",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 16 h"
+          "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Cada vez más gente está viendo el nuevo icono '5G+' en sus móviles. Y es una buena noticia para ellos",
+          "title": "La salida a bolsa de Anthropic se estaba desinflando. Ahora tiene más demanda institucional que SpaceX",
           "source": "Xataka",
-          "url": "https://www.xataka.com/telefono-movil/cada-vez-gente-esta-viendo-nuevo-icono-5g-sus-moviles-buena-noticia-para-ellos",
-          "ago": "hace 17 min"
+          "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
+          "ago": "hace 5 h"
         },
         {
-          "title": "Elegimos cuatro dispositivos rebajados del 11.11 de AliExpress: hay un móvil superventas o uno de los mejores auriculares de diadema",
+          "title": "Jeff Bezos tiene una teoría sobre por qué la gente odia a los ricos: \"El éxito no es sinónimo de maldad\"",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/elegimos-cuatro-dispositivos-rebajados-11-11-aliexpress-hay-movil-superventas-uno-mejores-auriculares-diadema",
-          "ago": "hace 33 min"
+          "url": "https://www.xataka.com/empresas-y-economia/jeff-bezos-tiene-teoria-que-gente-odia-a-ricos-exito-no-sinonimo-maldad",
+          "ago": "hace 4 h"
         },
         {
-          "title": "Hoy en Lidl (rebajado a 37,99 euros): este taladro atornillador Parkside ideal para los manitas de casa",
+          "title": "Acabamos de ver cómo un exoplaneta desaparece de la vista de nuestros telescopios. El culpable es su vecino invisible",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/hoy-lidl-rebajado-a-37-99-euros-este-taladro-atornillador-parkside-ideal-para-manitas-casa",
-          "ago": "hace 47 min"
+          "url": "https://www.xataka.com/espacio/acabamos-ver-como-exoplaneta-desaparece-vista-nuestros-telescopios-culpable-su-vecino-invisible",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Caos en España: una huelga general por la crisis de la vivienda sacude al gobierno de Sánchez en plena campaña",
+          "title": "Guerra con Ucrania: Rusia recurre a las silobolsas, una tecnología que generó una revolución en la Argentina",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/caos-en-espana-una-huelga-general-por-la-crisis-de-la-vivienda-sacude-al-gobierno-de-sanchez-en-nid11112026/",
-          "ago": "hace 56 min"
+          "url": "https://www.lanacion.com.ar/economia/campo/guerra-con-ucrania-rusia-recurre-a-las-silobolsas-una-tecnologia-que-genero-una-revolucion-en-la-nid11112026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección argentina en el Mundial 74",
+          "title": "La respuesta oficial del gobierno de Milei sobre la carpa VIP instalada en la misa del Papa en Palermo",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
-          "ago": "hace 7 min"
+          "url": "https://www.lanacion.com.ar/politica/la-respuesta-oficial-del-gobierno-de-milei-sobre-la-carpa-vip-instalada-en-la-misa-del-papa-en-nid11112026/",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este miércoles 11 de noviembre, minuto a minuto",
+          "title": "Javier Milei y sus medidas, EN VIVO: “Así somos imparables”, dijo Quirno sobre la visita del Papa",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-miercoles-11-de-nid11112026/",
-          "ago": "hace 29 min"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
+          "ago": "hace 14 min"
         }
       ]
     },
@@ -85,13 +85,13 @@
           "title": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea principal del Gobierno con el mercado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/09/por-que-la-suba-del-riesgo-pais-no-movio-al-dolar-claves-de-la-pelea-principal-del-gobierno-con-el-mercado/",
-          "ago": "hace 2 d"
+          "ago": "hace 3 d"
         },
         {
-          "title": "El Gobierno enfrenta hoy una licitación de deuda con vencimientos por más de $10 billones: qué espera el mercado",
+          "title": "Licitación clave: el Gobierno renovó los vencimientos de deuda, pero inyectó pesos al mercado",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/11/el-gobierno-enfrenta-vencimientos-por-mas-de-10-billones-hoy-que-esperan-en-el-mercado/",
-          "ago": "hace 44 min"
+          "url": "https://www.infobae.com/economia/2026/11/11/licitacion-clave-el-gobierno-renovo-el-84-de-los-vencimientos-de-deuda-y-libero-pesos-al-mercado/",
+          "ago": "hace 32 min"
         }
       ]
     }
@@ -99,23 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Los pibes de Boca Predio que  Placente llevará al Mundial Sub 17",
-      "value": "hace 16 min"
+      "detail": "La Volpe, del elogio al campeón a la dura autocrítica: \"Me faltó ch…",
+      "value": "hace 31 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Los saludos de Huracán y la AFA por la muerte de Carlos Babington",
-      "value": "hace 1 h"
+      "detail": "Video: el Dibu Martínez se entrenó con una máscara junto a la Selec…",
+      "value": "hace 40 min"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Bruno Senna recounts Antonelli’s visit to his family farm",
+      "detail": "Ricciardo reacts to his best career moments",
       "value": "hace 1 min"
     },
     {
       "team": "Deportes de invierno",
       "detail": "Polonia tampoco quiere a deportistas rusos compitiendo en su país y…",
-      "value": "hace 12 min"
+      "value": "hace 6 h"
     }
   ]
 }
