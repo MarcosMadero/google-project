@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:36:32.886Z",
+  "generatedAt": "2026-11-12T17:16:59.693Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 22 h"
-        },
-        {
           "title": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU.",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/ck8dz3494l5yo?at_medium=RSS&at_campaign=rss",
           "ago": "hace 3 d"
         },
         {
-          "title": "En imágenes: graves disturbios en Barcelona y decenas de detenidos en la primera huelga general en España en 14 años",
+          "title": "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 3 h"
+          "url": "https://www.bbc.com/mundo/articles/cq2d9pg47052o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
+        },
+        {
+          "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 1 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La salida a bolsa de Anthropic se estaba desinflando. Ahora tiene más demanda institucional que SpaceX",
+          "title": "Jensen Huang dimite como CEO y Nvidia anuncia su plan de transición para frenar la sangría en bolsa",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-dimite-como-ceo-nvidia-anuncia-su-plan-transicion-para-frenar-sangria-bolsa",
+          "ago": "hace 2 h"
         },
         {
-          "title": "Jeff Bezos tiene una teoría sobre por qué la gente odia a los ricos: \"El éxito no es sinónimo de maldad\"",
+          "title": "Jensen Huang ha salvado a NVIDIA seis veces. La séptima crisis es él",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/jeff-bezos-tiene-teoria-que-gente-odia-a-ricos-exito-no-sinonimo-maldad",
-          "ago": "hace 8 h"
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ha-salvado-a-nvidia-seis-veces-septima-crisis",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Acabamos de ver cómo un exoplaneta desaparece de la vista de nuestros telescopios. El culpable es su vecino invisible",
+          "title": "Tras 40 días, fracasa en Valencia la segunda negociación por la vivienda y la acampada empieza a desalojarse",
           "source": "Xataka",
-          "url": "https://www.xataka.com/espacio/acabamos-ver-como-exoplaneta-desaparece-vista-nuestros-telescopios-culpable-su-vecino-invisible",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/magnet/40-dias-fracasa-valencia-segunda-negociacion-vivienda-acampada-empieza-a-desalojarse",
+          "ago": "hace 16 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Guerra con Ucrania: Rusia recurre a las silobolsas, una tecnología que generó una revolución en la Argentina",
+          "title": "Javier Milei y sus medidas, EN VIVO: “Argentina, faro de luz de Occidente”, dijo el Presidente tras la visita de León XIV",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/campo/guerra-con-ucrania-rusia-recurre-a-las-silobolsas-una-tecnologia-que-genero-una-revolucion-en-la-nid11112026/",
-          "ago": "hace 3 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-argentina-faro-de-luz-de-occidente-dijo-el-presidente-tras-la-nid12112026/",
+          "ago": "hace 22 min"
         },
         {
-          "title": "Hochul cambia su promesa de no subir impuestos en Nueva York: “Si necesitamos más recursos, encontraremos la manera”",
+          "title": "Mientras ultima detalles para el nuevo desembolso a la Argentina, el FMI le buscó llevar calma ante la volatilidad de los mercados",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/hochul-cambia-su-promesa-de-no-subir-impuestos-en-nueva-york-si-necesitamos-mas-recursos-nid11112026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/economia/mientras-ultima-detalles-para-el-nuevo-desembolso-a-la-argentina-el-fmi-le-busco-llevar-calma-ante-nid12112026/",
+          "ago": "hace 45 min"
         },
         {
-          "title": "Tiene 16 años, puede sumar 50 números de cinco cifras en 25 segundos y, gracias a su intelecto, ya obtuvo nueve Récords Guinness",
+          "title": "Milei celebró que el Mundial de Rally vuelve a la Argentina: “Hechos, no palabras”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/lifestyle/tiene-16-anos-puede-sumar-50-numeros-de-cinco-cifras-en-25-segundos-y-gracias-a-su-intelecto-ya-nid11112026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/deportes/milei-anuncio-que-el-mundial-de-rally-vuelve-a-la-argentina-nid12112026/",
+          "ago": "hace 8 min"
         }
       ]
     },
@@ -79,18 +79,18 @@
           "title": "Subió la inflación en Estados Unidos y la Reserva Federal evalúa una alza de tasas por encima de lo esperado",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/estados-unidos/2026/11/10/subio-la-inflacion-en-estados-unidos-y-la-reserva-federal-evalua-una-alza-de-tasas-por-encima-de-lo-esperado/",
-          "ago": "hace 1 d"
+          "ago": "hace 2 d"
         },
         {
-          "title": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea principal del Gobierno con el mercado",
+          "title": "\"Fluctuaciones de corto plazo”: el FMI restó importancia a la volatilidad del mercado argentino y la suba del riesgo país",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/09/por-que-la-suba-del-riesgo-pais-no-movio-al-dolar-claves-de-la-pelea-principal-del-gobierno-con-el-mercado/",
-          "ago": "hace 3 d"
+          "url": "https://www.infobae.com/economia/2026/11/12/fluctuaciones-de-corto-plazo-el-fmi-resto-importancia-a-la-volatilidad-del-mercado-argentino-y-la-suba-del-riesgo-pais/",
+          "ago": "hace 40 min"
         },
         {
-          "title": "Licitación clave: el Gobierno renovó los vencimientos de deuda, pero inyectó pesos al mercado",
+          "title": "Para el economista Sebastián Menescaldi, la ley de Zona Fría suma 0,3 puntos a la inflación de octubre que se conocerá hoy",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/11/licitacion-clave-el-gobierno-renovo-el-84-de-los-vencimientos-de-deuda-y-libero-pesos-al-mercado/",
+          "url": "https://www.infobae.com/economia/2026/11/12/para-el-economista-sebastian-menescaldi-la-ley-de-zona-fria-suma-03-puntos-a-la-inflacion-de-octubre-que-se-conocera-hoy/",
           "ago": "hace 4 h"
         }
       ]
@@ -99,23 +99,23 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Video: el regalo de un hincha de Boca que llegó hasta el Papa",
-      "value": "hace 3 h"
+      "detail": "La postura de Paredes para la semifinal de Boca en la Copa Argentina",
+      "value": "hace 31 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Video: el asado de Chiqui Tapia para la Selección y la rabona que \"…",
+      "detail": "El uno por uno de Uruguay en la Bombonera: todos mayores de 26 años",
       "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Ricciardo reacts to his best career moments",
+      "detail": "Trivia: False Start",
       "value": "hace 1 min"
     },
     {
       "team": "Deportes de invierno",
-      "detail": "Polonia tampoco quiere a deportistas rusos compitiendo en su país y…",
-      "value": "hace 10 h"
+      "detail": "Piquete e insultos contra los jugadores del Rayo por la huelga: \"¡E…",
+      "value": "hace 1 d"
     }
   ]
 }
