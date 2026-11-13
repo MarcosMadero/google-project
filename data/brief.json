@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:17:20.793Z",
+  "generatedAt": "2026-11-13T16:52:48.332Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
+          "title": "El personaje con el que Johnny Depp busca la redención en su regreso al cine tras el polémico juicio contra su exesposa Amber Heard",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cmd71x5enpz7o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 6 h"
+        },
+        {
           "title": "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cq2d9pg47052o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
-        },
-        {
-          "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 10 h"
-        },
-        {
-          "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 14 h"
+          "ago": "hace 1 d"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "La dimisión de Huang hace que Nvidia se deje 550.000 millones de dólares en valor de bolsa",
+          "title": "Si hay un videojuego que pueda romper internet, ese es GTA VI: su precarga está dejando picos de récord en tráfico",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/dimision-huang-hace-que-nvidia-se-deje-550-000-millones-dolares-valor-bolsa",
-          "ago": "hace 8 h"
+          "url": "https://www.xataka.com/videojuegos/hay-videojuego-que-pueda-romper-internet-ese-gta-vi-su-precarga-esta-dejando-picos-record-trafico",
+          "ago": "hace 1 h"
         },
         {
-          "title": "En plenos escándalos de Jensen Huang, hay una guerra abierta en el Gobierno de EEUU por seguir vendiendo GPUs a China",
+          "title": "AMD ha presentado una nueva gama de procesadores que apuntan a dónde más están sufriendo los centros de datos: a los agentes de IA",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/plenos-escandalos-jensen-huang-hay-guerra-abierta-gobierno-eeuu-seguir-vendiendo-gpus-a-china",
-          "ago": "hace 9 h"
+          "url": "https://www.xataka.com/procesadores/amd-ha-presentado-nueva-gama-procesadores-que-apuntan-a-donde-estan-sufriendo-centros-datos-a-agentes-ia",
+          "ago": "hace 21 min"
         },
         {
-          "title": "Más allá del debate sobre su éxito, el 11N deja una pregunta: para qué sirve realmente una huelga general en 2026",
+          "title": "Donald Trump intentó que Jensen Huang siguiera como CEO: “Nvidia es demasiado grande como para caer”",
           "source": "Xataka",
-          "url": "https://www.xataka.com/magnet/alla-debate-su-exito-11n-deja-pregunta-realmente-efectivas-huelgas-generales-2026",
-          "ago": "hace 8 h"
+          "url": "https://www.xataka.com/empresas-y-economia/donald-trump-intento-que-jensen-huang-siguiera-como-ceo-nvidia-demasiado-grande-como-para-caer",
+          "ago": "hace 51 min"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Milei habló tras el dato de inflación y dijo que buscará llevar la apertura de la economía al 90%",
+          "title": "Javier Milei y sus medidas, en vivo: “Lo único que le faltaba al país eran reglas claras”, dijo el Presidente ante empresas",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-dato-de-inflacion-y-dijo-que-buscara-llevar-la-apertura-de-la-economia-al-90-nid12112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/",
+          "ago": "hace 2 min"
         },
         {
-          "title": "De qué murió Jorge Juan Montejo, conocido como “Paolo, el rockero”",
+          "title": "Caputo destacó que el FMI ve una mejora de los fundamentos económicos pese a la volatilidad de los mercados",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/de-que-murio-jorge-juan-montejo-conocido-como-paolo-el-rockero-nid12112026/",
-          "ago": "hace 53 min"
+          "url": "https://www.lanacion.com.ar/economia/caputo-destaco-que-el-fmi-ve-una-mejora-de-los-fundamentos-economicos-pese-a-la-volatilidad-de-los-nid13112026/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "Revelaron el supuesto motivo por el que Alejandro Stoessel no querría firmar un acuerdo con Tini: “Irregularidades”",
+          "title": "Qué se sabe de la fuerte explosión en Remedios de Escalada",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/revelaron-el-supuesto-motivo-por-el-que-alejandro-stoessel-no-querria-firmar-el-acuerdo-con-tini-nid12112026/",
-          "ago": "hace 55 min"
+          "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-fuerte-explosion-en-remedios-de-escalada-nid13112026/",
+          "ago": "hace 10 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "Subió la inflación en Estados Unidos y la Reserva Federal evalúa una alza de tasas por encima de lo esperado",
+          "title": "El Gobierno consolida al dólar como ancla para volver al proceso de desinflación y remonetizar la economía",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/estados-unidos/2026/11/10/subio-la-inflacion-en-estados-unidos-y-la-reserva-federal-evalua-una-alza-de-tasas-por-encima-de-lo-esperado/",
-          "ago": "hace 2 d"
+          "url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-consolida-al-dolar-como-ancla-para-volver-al-proceso-de-desinflacion-y-remonetizar-la-economia/",
+          "ago": "hace 11 h"
         },
         {
-          "title": "Pese a que los precios se aceleraron en octubre, el Gobierno aseguró que el “proceso de desinflación continúa”",
+          "title": "El Gobierno recortó un beneficio para los colectivos impulsados a GNC y reavivó la guerra en el sector",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/12/pese-a-que-los-precios-se-aceleraron-en-octubre-el-gobierno-aseguro-que-el-proceso-de-desinflacion-continua/",
-          "ago": "hace 3 h"
+          "url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-recorto-un-beneficio-para-los-colectivos-impulsados-a-gnc-y-reavivo-la-guerra-en-el-sector/",
+          "ago": "hace 1 h"
         },
         {
-          "title": "\"Fluctuaciones de corto plazo”: el FMI restó importancia a la volatilidad del mercado argentino y la suba del riesgo país",
+          "title": "A cuánto habría llegado la inflación de octubre con el nuevo índice de precios que el Gobierno postergó",
           "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/12/fluctuaciones-de-corto-plazo-el-fmi-resto-importancia-a-la-volatilidad-del-mercado-argentino-y-la-suba-del-riesgo-pais/",
-          "ago": "hace 10 h"
+          "url": "https://www.infobae.com/economia/2026/11/13/a-cuanto-habria-llegado-la-inflacion-de-octubre-con-el-nuevo-indice-de-precios-que-el-gobierno-postergo/",
+          "ago": "hace 5 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Arruabarrena vs. Troglio: cómo está el historial entre los técnicos…",
-      "value": "hace 1 h"
+      "detail": "A horas del cruce por Copa Argentina: el antecedente del Boca de Ar…",
+      "value": "hace 17 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Scaloni y el don de ser genuino",
-      "value": "hace 53 min"
+      "detail": "Un recuerdo agridulce: cómo fue la última vez de Diego Forlán en la…",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "Why the F1 driver market might produce one last twist",
+      "detail": "Antonelli identifies the biggest threat to his title defence",
       "value": "hace 1 min"
     }
   ]
