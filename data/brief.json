@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:24:45.173Z",
+  "generatedAt": "2026-11-18T03:14:34.557Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\"",
+          "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "El puente que Putin construyó en Crimea se derrumba parcialmente mientras Ucrania celebra un ataque \"sin precedentes\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 7 h"
+          "ago": "hace 11 h"
         },
         {
           "title": "\"El gobierno de Ortega me prohibió entrar en Nicaragua, por lo que regresé clandestinamente a mi propio país\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/cx21p732nv5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 9 h"
-        },
-        {
-          "title": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 11 h"
+          "ago": "hace 12 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "Premios Xataka Verisure 2026: dónde comprar al mejor precio todos los dispositivos ganadores",
           "source": "Xataka",
           "url": "https://www.xataka.com/seleccion/donde-comprar-barato-dispositivos-ganadores-premios-xataka-verisure-2026",
-          "ago": "hace 53 min"
+          "ago": "hace 5 h"
         },
         {
           "title": "Los 90 productos tecnológicos del año: estos son los ganadores de los Premios Xataka Verisure 2026",
           "source": "Xataka",
           "url": "https://www.xataka.com/xataka/90-productos-tecnologicos-ano-estos-ganadores-premios-xataka-verisure-2026",
-          "ago": "hace 1 h"
+          "ago": "hace 5 h"
         },
         {
           "title": "Los 30 FPS de 'GTA VI' en todas las consolas es un fastidio. También el compromiso para que se vea como se ve",
           "source": "Xataka",
           "url": "https://www.xataka.com/videojuegos/30-fps-gta-vi-todas-consolas-fastidio-tambien-compromiso-se-vea-como-se-ve",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         }
       ]
     },
@@ -53,21 +53,21 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: “Cavallo tiene un prontuario de expropiaciones”, dijo el Presidente sobre el economista",
+          "title": "Gabriel Rolón, sobre cómo recordamos a nuestros padres: “Se transforman en personas por ahí más nobles de lo que fueron”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-hablo-en-una-cena-con-empresarios-y-pidio-sepultar-nid17112026/",
-          "ago": "hace 30 min"
+          "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-como-recordamos-a-nuestros-padres-se-transforman-en-personas-por-ahi-mas-nobles-nid16112026/",
+          "ago": "hace 27 min"
         },
         {
-          "title": "El Gobierno canjeó el 60% de la letra dolarizada que vence a fin de mes",
+          "title": "Patricia Bullrich: “Si hacés todo bien pero perdiste las elecciones, no hiciste todo bien”",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-gobierno-canjeo-el-60-de-la-letra-dolarizada-que-vence-a-fin-de-mes-nid17112026/",
-          "ago": "hace 43 min"
+          "url": "https://www.lanacion.com.ar/economia/patricia-bullrich-si-haces-todo-bien-pero-perdiste-las-elecciones-no-hiciste-todo-bien-nid17112026/",
+          "ago": "hace 52 min"
         },
         {
-          "title": "Fin de fiesta para Lula: el dólar se dispara, los mercados tiemblan y hasta sus aliados hablan de “estafa electoral” por el ajuste",
+          "title": "La NASA detectó una inminente explosión cataclísmica, pero no saben cuándo va a ocurrir con exactitud: el riesgo para la Tierra",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/fin-de-fiesta-para-lula-el-dolar-se-dispara-los-mercados-tiemblan-y-hasta-sus-aliados-hablan-de-nid17112026/",
+          "url": "https://www.lanacion.com.ar/ciencia/la-nasa-detecto-una-inminente-explosion-cataclismica-pero-no-saben-cuando-va-a-ocurrir-con-exactitud-nid17112026/",
           "ago": "hace 1 h"
         }
       ]
@@ -82,16 +82,16 @@
           "ago": "hace 1 d"
         },
         {
+          "title": "Domingo Cavallo: “Si el Gobierno no toma las medidas adecuadas, corre el riesgo de que se le destartale todo antes de las elecciones”",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/11/17/domingo-cavallo-si-el-gobierno-no-toma-las-medidas-adecuadas-corre-el-riesgo-de-que-se-le-destartale-todo-antes-de-las-elecciones/",
+          "ago": "hace 3 h"
+        },
+        {
           "title": "El dólar tuvo una leve suba, pero todavía avanza muy por debajo de la inflación de 2026",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/17/el-dolar-tuvo-una-leve-suba-pero-todavia-avanza-muy-por-debajo-de-la-inflacion-de-2026/",
-          "ago": "hace 4 h"
-        },
-        {
-          "title": "Los datos de pobreza en Argentina: el Gobierno ratificó que los datos del Indec son la única referencia para medirla",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/17/los-datos-de-pobreza-en-argentina-el-gobierno-ratifico-que-los-datos-del-indec-son-la-unica-referencia-para-medirla/",
-          "ago": "hace 7 h"
+          "ago": "hace 8 h"
         }
       ]
     }
@@ -100,12 +100,12 @@
     {
       "team": "Boca Juniors",
       "detail": "Tomás Cuello, el chico que cruzó caminando la frontera y llegó a un…",
-      "value": "hace 2 h"
+      "value": "hace 6 h"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Argentina vs. Costa Rica, EN VIVO: Nico Paz y un golazo para el 1-0…",
-      "value": "hace 14 min"
+      "detail": "Scaloni, rendido ante Nico Paz: \"Es para estar ilusionados...\"",
+      "value": "hace 2 h"
     },
     {
       "team": "Fórmula 1",
