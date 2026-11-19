@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:53:17.816Z",
+  "generatedAt": "2026-11-19T22:57:36.665Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
-          "title": "China, Rusia y EE.UU. \"deben dar ejemplo\" y \"mantener la paz\": lo que Trump, Putin y Xi dijeron en su histórica cumbre",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
-        },
-        {
           "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 6 h"
+          "ago": "hace 8 min"
         },
         {
-          "title": "Ataques informáticos, IA o actualizaciones pendientes: qué hay detrás de la ola de problemas tecnológicos de los últimos días",
+          "title": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast",
           "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 22 h"
+          "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
+        },
+        {
+          "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm3wg162e36wo?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 5 h"
         }
       ]
     },
@@ -30,22 +30,22 @@
       "sec": "Tecnología",
       "items": [
         {
-          "title": "Madrid tiene una carretera abandonada desde hace 20 años y ha dado el primer paso para terminarla",
+          "title": "En 1974, Stephen King entró en la habitación 217 de un hotel vacío buscando una cama. La pesadilla que tuvo aquella noche dejó una leyenda para toda la vida",
           "source": "Xataka",
-          "url": "https://www.xataka.com/movilidad/madrid-tiene-carretera-abandonada-hace-20-anos-ha-dado-primer-paso-para-terminarla",
-          "ago": "hace 52 min"
+          "url": "https://www.xataka.com/cine-y-tv/1974-stephen-king-paso-noche-hotel-casi-vacio-tuvo-pesadilla-51-anos-despues-hotel-convirtio-pesadilla-400-millones-dolares",
+          "ago": "hace 8 h"
         },
         {
-          "title": "Mañana, 20 de noviembre, llega a Lidl esta freidora de aire doble con 9,5 litros y por menos de 60 euros",
+          "title": "Nvidia se enfrenta a una nueva amenaza tras la destitución de Jensen Huang: la pérdida de sus mejores ingenieros",
           "source": "Xataka",
-          "url": "https://www.xataka.com/seleccion/manana-20-noviembre-llega-a-lidl-esta-freidora-aire-doble-9-5-litros-60-euros",
-          "ago": "hace 1 h"
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-enfrenta-a-nueva-amenaza-destitucion-jensen-huang-perdida-sus-mejores-ingenieros",
+          "ago": "hace 3 h"
         },
         {
-          "title": "Amazon y Google son accionistas, proveedores y canal de venta de Anthropic. Todo a la vez",
+          "title": "Tras jugar a 'GTA VI', tengo claro que Rockstar ha hecho el 'GTA' que quería: un 'Red Dead Redemption 2' con coches",
           "source": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/amazon-google-accionistas-proveedores-canal-venta-anthropic-todo-a-vez",
-          "ago": "hace 2 h"
+          "url": "https://www.xataka.com/videojuegos/jugar-a-gta-vi-tengo-claro-que-rockstar-ha-hecho-gta-que-queria-red-dead-redemption-2-coches",
+          "ago": "hace 4 h"
         }
       ]
     },
@@ -53,22 +53,22 @@
       "sec": "Argentina",
       "items": [
         {
-          "title": "Javier Milei y sus medidas, en vivo: “Hoy discutimos si crecemos un punto más o menos”, dijo el Presidente",
+          "title": "Javier Milei y sus medidas, en vivo: el Presidente reveló que pudo haber sido una de las víctimas del atentado a la AMIA",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nid19112026/",
-          "ago": "hace 8 min"
+          "ago": "hace 12 min"
         },
         {
-          "title": "El PJ forzó el debate por la ley contra las apuestas online y será tratado en la próxima sesión del Senado",
+          "title": "Aprueban la nueva ley de Discapacidad y reclaman que el Gobierno cumpla con su reglamentación",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-pj-forzo-el-debate-por-la-ley-contra-las-apuestas-online-y-sera-tratado-en-la-proxima-sesion-del-nid19112026/",
-          "ago": "hace 1 h"
+          "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/",
+          "ago": "hace 4 min"
         },
         {
-          "title": "Murió Larry Poindexter, el recordado actor de S.W.A.T. y Friends",
+          "title": "La Corte Suprema ordenó al Gobierno entregar los resultados de las pruebas Aprender por escuela",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/espectaculos/personajes/murio-larry-poindexter-actor-de-swat-y-friends-nid19112026/",
-          "ago": "hace 2 h"
+          "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-ordeno-al-gobierno-entregar-los-resultados-de-las-pruebas-aprender-por-escuela-nid19112026/",
+          "ago": "hace 48 min"
         }
       ]
     },
@@ -76,22 +76,22 @@
       "sec": "Economía",
       "items": [
         {
-          "title": "Las acciones de Anthropic empiezan a cotizar con alza de 26% en Wall Street después de una salida récord a la bolsa",
+          "title": "Las acciones de Anthropic empezaron a cotizar en Wall Street: subieron 17% después de una salida récord a la bolsa",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/19/las-acciones-de-anthropic-empiezan-a-cotizar-en-wall-street-despues-de-una-salida-record-a-la-bolsa/",
-          "ago": "hace 45 min"
-        },
-        {
-          "title": "Dólar hoy: a cuánto operan todas las cotizaciones tras la caída del real brasileño y el récord del contado con liqui",
-          "source": "Infobae Economía",
-          "url": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
-          "ago": "hace 1 h"
+          "ago": "hace 2 h"
         },
         {
           "title": "“Changuito federal”: cuánto sale hacer la compra del supermercado en cada provincia",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/19/changuito-federal-cuanto-sale-hacer-la-compra-del-supermercado-en-cada-provincia/",
-          "ago": "hace 13 h"
+          "ago": "hace 2 h"
+        },
+        {
+          "title": "“Me asusta”: Cavallo redobló la apuesta contra Milei y sumó un nuevo round en la pelea con el Presidente",
+          "source": "Infobae Economía",
+          "url": "https://www.infobae.com/economia/2026/11/19/me-asusta-cavallo-redoblo-la-apuesta-contra-milei-y-sumo-un-nuevo-round-en-la-pelea-con-el-presidente/",
+          "ago": "hace 3 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "El día en que un Boca en crisis le ganó una final internacional a A…",
-      "value": "hace 34 min"
+      "detail": "Milton Delgado llevó tranquilidad en Boca tras su esguince: \"Me asu…",
+      "value": "hace 23 min"
     },
     {
       "team": "Selección Argentina",
-      "detail": "Mundial Sub 17 de Qatar: resultados, posiciones, formato y el fixtu…",
-      "value": "hace 2 h"
+      "detail": "La Selección Argentina Femenina despedirá el 2026 en la cancha de B…",
+      "value": "hace 1 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "All the stories that got the Las Vegas paddock talking",
+      "detail": "FIA to introduce full-time stewards in F1 from 2027",
       "value": "hace 1 min"
     }
   ]
