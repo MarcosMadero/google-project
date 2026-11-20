@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:57:36.665Z",
+  "generatedAt": "2026-11-20T02:45:34.774Z",
   "agenda": [],
   "mail": [],
   "news": [
@@ -7,22 +7,22 @@
       "sec": "Mundo",
       "items": [
         {
+          "title": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c64gn0rw8447o?at_medium=RSS&at_campaign=rss",
+          "ago": "hace 4 h"
+        },
+        {
           "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 8 min"
+          "ago": "hace 4 h"
         },
         {
           "title": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
-        },
-        {
-          "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm3wg162e36wo?at_medium=RSS&at_campaign=rss",
-          "ago": "hace 5 h"
+          "ago": "hace 9 h"
         }
       ]
     },
@@ -33,19 +33,19 @@
           "title": "En 1974, Stephen King entró en la habitación 217 de un hotel vacío buscando una cama. La pesadilla que tuvo aquella noche dejó una leyenda para toda la vida",
           "source": "Xataka",
           "url": "https://www.xataka.com/cine-y-tv/1974-stephen-king-paso-noche-hotel-casi-vacio-tuvo-pesadilla-51-anos-despues-hotel-convirtio-pesadilla-400-millones-dolares",
-          "ago": "hace 8 h"
+          "ago": "hace 12 h"
         },
         {
           "title": "Nvidia se enfrenta a una nueva amenaza tras la destitución de Jensen Huang: la pérdida de sus mejores ingenieros",
           "source": "Xataka",
           "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-enfrenta-a-nueva-amenaza-destitucion-jensen-huang-perdida-sus-mejores-ingenieros",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         },
         {
           "title": "Tras jugar a 'GTA VI', tengo claro que Rockstar ha hecho el 'GTA' que quería: un 'Red Dead Redemption 2' con coches",
           "source": "Xataka",
           "url": "https://www.xataka.com/videojuegos/jugar-a-gta-vi-tengo-claro-que-rockstar-ha-hecho-gta-que-queria-red-dead-redemption-2-coches",
-          "ago": "hace 4 h"
+          "ago": "hace 8 h"
         }
       ]
     },
@@ -62,13 +62,13 @@
           "title": "Aprueban la nueva ley de Discapacidad y reclaman que el Gobierno cumpla con su reglamentación",
           "source": "La Nación",
           "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/",
-          "ago": "hace 4 min"
+          "ago": "hace 2 h"
         },
         {
-          "title": "La Corte Suprema ordenó al Gobierno entregar los resultados de las pruebas Aprender por escuela",
+          "title": "El oficialismo aprobó la adhesión al tratado sobre patentes, un proyecto clave en la alianza de Milei con Estados Unidos",
           "source": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-ordeno-al-gobierno-entregar-los-resultados-de-las-pruebas-aprender-por-escuela-nid19112026/",
-          "ago": "hace 48 min"
+          "url": "https://www.lanacion.com.ar/politica/el-oficialismo-aprobo-la-adhesion-al-tratado-sobre-patentes-acordado-con-estados-unidos-nid19112026/",
+          "ago": "hace 2 h"
         }
       ]
     },
@@ -79,19 +79,19 @@
           "title": "Las acciones de Anthropic empezaron a cotizar en Wall Street: subieron 17% después de una salida récord a la bolsa",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/19/las-acciones-de-anthropic-empiezan-a-cotizar-en-wall-street-despues-de-una-salida-record-a-la-bolsa/",
-          "ago": "hace 2 h"
+          "ago": "hace 5 h"
         },
         {
           "title": "“Changuito federal”: cuánto sale hacer la compra del supermercado en cada provincia",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/19/changuito-federal-cuanto-sale-hacer-la-compra-del-supermercado-en-cada-provincia/",
-          "ago": "hace 2 h"
+          "ago": "hace 6 h"
         },
         {
           "title": "“Me asusta”: Cavallo redobló la apuesta contra Milei y sumó un nuevo round en la pelea con el Presidente",
           "source": "Infobae Economía",
           "url": "https://www.infobae.com/economia/2026/11/19/me-asusta-cavallo-redoblo-la-apuesta-contra-milei-y-sumo-un-nuevo-round-en-la-pelea-con-el-presidente/",
-          "ago": "hace 3 h"
+          "ago": "hace 7 h"
         }
       ]
     }
@@ -99,17 +99,17 @@
   "sport": [
     {
       "team": "Boca Juniors",
-      "detail": "Milton Delgado llevó tranquilidad en Boca tras su esguince: \"Me asu…",
-      "value": "hace 23 min"
+      "detail": "Chiqui Tapia llegó a Barranquilla: la importante reunión que tendrá…",
+      "value": "hace 42 min"
     },
     {
       "team": "Selección Argentina",
       "detail": "La Selección Argentina Femenina despedirá el 2026 en la cancha de B…",
-      "value": "hace 1 h"
+      "value": "hace 5 h"
     },
     {
       "team": "Fórmula 1",
-      "detail": "FIA to introduce full-time stewards in F1 from 2027",
+      "detail": "Wet conditions limit running in FP1 at Las Vegas Grand Prix",
       "value": "hace 1 min"
     }
   ]
